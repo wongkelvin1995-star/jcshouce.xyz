@@ -1,0 +1,37 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-14T08:16:09.103Z",
+  "viewports": [
+    1440,
+    390,
+    320
+  ],
+  "homepageAndArticleHorizontalOverflow": false,
+  "chapterFont": "13px",
+  "hoverColor": "#735F4D",
+  "background": "#F7F3EC",
+  "desktopFullTextSearch": {
+    "query": "订阅链接",
+    "results": 40,
+    "uniqueResults": 40
+  },
+  "mobileBrandSearch": {
+    "query": "Breezenet",
+    "results": 13,
+    "uniqueResults": 13,
+    "firstURL": "/reviews/breezenet/"
+  },
+  "mobileMenuOpenScrollAndNavigationClose": true,
+  "articleTableScrollContained": true,
+  "firstEscapeCloses": true,
+  "nativeBackdropClickCloses": true,
+  "closeButton": {
+    "width": 64,
+    "height": 40,
+    "whiteSpace": "nowrap",
+    "scrollHeight": 38,
+    "clientHeight": 38
+  },
+  "javascriptErrors": [],
+  "viewportRestored": true
+}

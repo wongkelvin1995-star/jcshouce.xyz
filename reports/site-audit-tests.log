@@ -1,0 +1,14 @@
+✔ reopening while the shared index loads renders one result per page (4.5759ms)
+✔ closing a pending search prevents results from being appended later (1.7382ms)
+✔ outside right and bottom edges close the dialog; inside does not (1.3173ms)
+✔ returning to the original query cannot revive an obsolete request (1.5696ms)
+✔ Chinese composition is searched only after compositionend (3.8062ms)
+✔ Escape closes search before the native search input can clear its value (1.4859ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 141.9519

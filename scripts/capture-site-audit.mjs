@@ -1,0 +1,3 @@
+import fs from 'node:fs';import crypto from 'node:crypto';import {execFileSync} from 'node:child_process';
+const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(d+'/'+e.name):[d+'/'+e.name]);const hashes=Object.fromEntries([...walk('content'),...walk('data'),'hugo.toml','docs/deployment.json','docs/theme-lock.json'].map(p=>[p,crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex')]));
+fs.writeFileSync('reports/site-audit-baseline.json',JSON.stringify({commit:execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),protected:hashes,beforeResults:['build PASS','verify PASS','brand PASS','footer PASS','rebrand PASS','node syntax checks PASS'],allowedSourceChanges:{}},null,2));

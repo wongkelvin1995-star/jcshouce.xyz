@@ -1,0 +1,1 @@
+import fs from 'node:fs';let p='layouts/home.rss.xml';let s=fs.readFileSync(p,'utf8').replace('.Site.Params.description','.Site.Home.Description').replace('range .Site.RegularPages }}','range .Site.RegularPages.ByDate.Reverse }}');fs.writeFileSync(p,s);

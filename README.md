@@ -29,7 +29,7 @@ node scripts/verify.mjs
 
 前三种日期不要混淆：sourceUpdatedAt是来源记录日期，checkedAt保留原项目的核验记录，importedAt是本站导入日期。现有资料主要为第三方历史记录，本次没有登录账户确认现售，也没有购买性能实测。AI、流媒体与线路声明不提升为已测。
 
-固定前六位是灵动云、暮光加速、梯子云LadderCloud、隐形人、浪网WaveNet、飞V；顺序由order管理，属于编辑及商业安排。推广URL原值保留，展示统一添加 sponsored nofollow noopener。不补造邀请码或折扣码。
+固定前五位是灵动云、暮光加速、飞猫云、大佬云和微风网络；顺序由order管理，属于编辑及商业安排。推广URL原值保留，展示统一添加 sponsored nofollow noopener。不补造邀请码或折扣码。
 
 ## 添加截图
 
@@ -64,3 +64,9 @@ Hugo layouts/home.json 自动从标题和全部正文生成 public/index.json，
 29家品牌顺序、入口和套餐字段以data/airports为唯一站点数据源，授权清单只用于验收对照。plans是带来源的参考规格，planArchive为历史版本，dataConflicts为内部冲突；所有现售官网完整清单尚未核实。前台删除日期列，不展示内部工作状态。
 
 验收运行node scripts/verify.mjs与node scripts/verify-brand-optimization.mjs。reports/brand-optimization-report.md列出29家逐项结果；docs/airport-data-audit.md列出字段缺口。scripts/optimize-brands.mjs、write-brand-guides.mjs和finish-brand-copy.mjs属于本次一次性迁移，已有验收报告后禁止重跑；常规维护直接编辑各品牌JSON和Markdown。
+
+## 本地审计与恢复
+
+2026-10-14已建立本项目本地Git恢复基线，不配置远程仓库、不推送。主题仍保留独立上游仓库；本地主仓库只跟踪项目源代码与资料，主题未改动。接入未来发布仓库时仍需按上面的锁定主题方案准备依赖，不能将这个本地恢复快照当作已确认的GitHub部署配置。
+
+没有npm lint/typecheck脚本；可以运行node --check静态JS作语法检查，以及node --test scripts/site-audit.test.mjs验证搜索异步及弹层行为，再执行现有四个verify脚本与Hugo构建。审计修复范围由reports/site-audit-baseline.json逐文件记录，历史校验只接受这些具体修复，不放宽机场数据保护。

@@ -1,0 +1,24 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-14T08:16:09.018Z",
+  "baselineCommit": "7cd983721902db77444f89b6785bca4988e66b32",
+  "protectedFilesByteIdentical": 189,
+  "allContentAndAirportDataUnchanged": true,
+  "domainAndDeploymentUnchanged": true,
+  "rssPublicArticles": 95,
+  "rssNoindexItems": 0,
+  "rssSortedByPublication": true,
+  "hoverContrast": {
+    "FBF8F3": 5.707725549248474,
+    "F7F3EC": 5.466803633107857,
+    "EFE7DC": 4.933456603400384,
+    "F4EEE6": 5.245892969572643,
+    "FAF7F2": 5.658271657738388
+  },
+  "minimumHoverContrast": 4.933456603400384,
+  "repeatedLongParagraphGroups": 4,
+  "localGitNoRemote": true,
+  "lint": "Not configured",
+  "typecheck": "Not configured",
+  "syntaxCheck": "node --check; not a lint result"
+}
