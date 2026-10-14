@@ -1,0 +1,12 @@
+{
+  "framework": "Hugo Extended",
+  "hugoVersion": "0.167.0",
+  "command": "hugo --gc --minify",
+  "output": "public",
+  "rootDirectory": "jcshouce when repository root is the parent folder",
+  "environment": {
+    "HUGO_VERSION": "0.167.0",
+    "HUGO_ENVIRONMENT": "production"
+  },
+  "status": "not deployed; repository and account unconfirmed"
+}

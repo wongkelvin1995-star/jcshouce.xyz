@@ -1,0 +1,179 @@
+{
+  "airports": [
+    {
+      "id": "lingdong",
+      "name": "灵动云",
+      "order": 1,
+      "sha256": "c2c899997ba0684d96320360688c6fe28f00b08722bf82f1be5f27c9d1c994ca"
+    },
+    {
+      "id": "twilight",
+      "name": "暮光加速",
+      "order": 2,
+      "sha256": "b8fb5b937cd11aa30b426273bdbc18fc6f41b944c2e80e1e50848bef8e4281b7"
+    },
+    {
+      "id": "laddercloud",
+      "name": "梯子云LadderCloud",
+      "order": 3,
+      "sha256": "621fdc92905ec102cd8f062349809deef83a9a19d4643f560f2914b913e67e3d"
+    },
+    {
+      "id": "invisible",
+      "name": "隐形人",
+      "order": 4,
+      "sha256": "4827f1684e27903efa5f2506d523a9c653f4efc218a57a25d1ab943228f52d03"
+    },
+    {
+      "id": "wavenet",
+      "name": "浪网WaveNet",
+      "order": 5,
+      "sha256": "9e9468d6b17c73852b7077307fb4f7ebc918198c0916e728423e1928fec4b0e4"
+    },
+    {
+      "id": "flyv",
+      "name": "飞V",
+      "order": 6,
+      "sha256": "ec94f529515a3bd40c445208249b856ad5f28cbb09d43114419c26857b17502d"
+    },
+    {
+      "id": "flycat",
+      "name": "飞猫云",
+      "order": 7,
+      "sha256": "dae8906d46d2b5f03bdb50ca9b9dccc1a5c0180c900170359846c61f9f9735aa"
+    },
+    {
+      "id": "dalaoyun",
+      "name": "大佬云",
+      "order": 8,
+      "sha256": "4782df0ee53478ad61b55245efaab8e59802af0915ff3ec36fc98c7a9eb9fad4"
+    },
+    {
+      "id": "breezenet",
+      "name": "微风网络",
+      "order": 9,
+      "sha256": "f7e2f2f7188a0f9e978270acd5abb7d57d22037a2783ec66b360e9fe050134e5"
+    },
+    {
+      "id": "globalcloud",
+      "name": "全球云",
+      "order": 10,
+      "sha256": "56585d6fa68c5ca2e8fc8b05423349f0b8d4e306021b4ef0403a75973bf6d7d8"
+    },
+    {
+      "id": "xingdaomeng",
+      "name": "星岛梦",
+      "order": 11,
+      "sha256": "793422862aaf26d8c778d41a5ac40b02e4ada729c0bfb2715dded897f035680c"
+    },
+    {
+      "id": "lightspeed",
+      "name": "光速云",
+      "order": 12,
+      "sha256": "718dda7589f2489fe716bcdc334d167b676b1c6bace072cfc0c8a206729a372f"
+    },
+    {
+      "id": "v2cloud",
+      "name": "唯兔云",
+      "order": 13,
+      "sha256": "460eb3ad1138e4bddc56b8ffe7e7d60949bc3edc7da13fb26eb7a86cde4f2adf"
+    },
+    {
+      "id": "u1s1",
+      "name": "U1S1",
+      "order": 14,
+      "sha256": "4e2d927b0e14dc39dc9d942debd50cdabc00c46921966794b4602f46269064e8"
+    },
+    {
+      "id": "jilian",
+      "name": "极连云",
+      "order": 15,
+      "sha256": "c47c7a6263f532f1eea47f79a271864ca53390f4f71a57cc9f83745169a248e6"
+    },
+    {
+      "id": "lightyear",
+      "name": "光年梯",
+      "order": 16,
+      "sha256": "5f789250d05773e5239600850a61699a0bf57164b41469709b43b344ee159564"
+    },
+    {
+      "id": "sogo",
+      "name": "Sogo云",
+      "order": 17,
+      "sha256": "861eb579e07e997eb38d498ea795676e419571635da8953f37fff4962aee0446"
+    },
+    {
+      "id": "yuzhou",
+      "name": "宇宙云",
+      "order": 18,
+      "sha256": "a547d32b8362ed2f7754ddd2890c76a1392cb9470e5ef2233dc226f625a1eb1b"
+    },
+    {
+      "id": "2mao",
+      "name": "二猫云",
+      "order": 19,
+      "sha256": "e8e83eb76ed53e81940aef1bc2a14c80bdd9c1cce0a0c30341871dee068e8510"
+    },
+    {
+      "id": "1fly",
+      "name": "一翻云",
+      "order": 20,
+      "sha256": "edc27be4139227a0baede9eb55686b316a081cdcea5a45e691bf6d5aaabdb11e"
+    },
+    {
+      "id": "edgenova",
+      "name": "边缘节点",
+      "order": 21,
+      "sha256": "ee228890d704552e3ff239523fc1d865c8ccd08433986162e2d480409665140b"
+    },
+    {
+      "id": "trustedcloud",
+      "name": "可信云",
+      "order": 22,
+      "sha256": "0dbda5136bf7f95feeda5adf2a49a436a3a80be7463f5bc3f7d4f49550c8e1e8"
+    },
+    {
+      "id": "sujie",
+      "name": "速界",
+      "order": 23,
+      "sha256": "20a838035a184d6b65149838c5b3fdd1dbee4a32da4fe0096d49d637beff404a"
+    },
+    {
+      "id": "kuaili",
+      "name": "快狸",
+      "order": 24,
+      "sha256": "0447a788b801d80c02ecd069a5da75d0e03fddf88882d4afc69bebe951d09116"
+    },
+    {
+      "id": "wuyou",
+      "name": "无忧",
+      "order": 25,
+      "sha256": "806f2256b3619e2aa2ab998698d27bde2454e00f8e6d9bebbbc4789269283f20"
+    },
+    {
+      "id": "lingmao",
+      "name": "灵猫",
+      "order": 26,
+      "sha256": "00c422b1c5ec2c133d79591fb818d9d621cff6a9e5eebf39c1b82d26542ab9b1"
+    },
+    {
+      "id": "flashleap",
+      "name": "闪跃",
+      "order": 27,
+      "sha256": "cc76ea43322ec6fb1941bc007a3c8c17c1ac4fa84173adfcd922bf4ea711419b"
+    },
+    {
+      "id": "firefly",
+      "name": "飞为",
+      "order": 28,
+      "sha256": "65cdfd3732653c8276bb40c5d7f4e943b080ccf0915902d62035df179503949c"
+    },
+    {
+      "id": "kuajie",
+      "name": "跨界云",
+      "order": 29,
+      "sha256": "346865bc30be0d1bca78b0a20cacf45fb8f14e2c1da6240ada36f32c589e142f"
+    }
+  ],
+  "deploymentHash": "0f9abb62571cfbd8d82e7d726496780709fefa33e19df93cc5f350165cda87ec"
+}

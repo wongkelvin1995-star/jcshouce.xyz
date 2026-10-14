@@ -1,0 +1,422 @@
+[
+  {
+    "path": "/basics/client-core/",
+    "title": "客户端、内核与节点分别负责什么",
+    "description": "面向桌面和移动设备，说明客户端、内核与节点分别负责什么的准备、操作顺序、验证与错误处理。",
+    "intent": "客户端、内核与节点分别负责什么",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/basics/magic-terms/",
+    "title": "魔法机场与魔法上网：常见称呼对照",
+    "description": "面向零基础读者，说明常见称呼对照的准备、操作顺序、验证与错误处理。",
+    "intent": "魔法机场与魔法上网：常见称呼对照",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/basics/service-limits/",
+    "title": "机场服务能解决什么与哪些问题需另查",
+    "description": "面向所有设备，说明机场服务能解决什么与哪些问题需另查的准备、操作顺序、验证与错误处理。",
+    "intent": "机场服务能解决什么与哪些问题需另查",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/basics/subscription-node/",
+    "title": "订阅链接和单个节点链接有什么区别",
+    "description": "面向所有设备，说明订阅链接和单个节点链接有什么区别的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅链接和单个节点链接有什么区别",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/basics/vpn-vs-airport/",
+    "title": "VPN和机场有什么区别：按功能判断",
+    "description": "面向所有设备，说明按功能判断的准备、操作顺序、验证与错误处理。",
+    "intent": "VPN和机场有什么区别：按功能判断",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/basics/what-is-airport/",
+    "title": "机场是什么：账号、订阅与代理服务的关系",
+    "description": "面向科学上网新手，说明账号、订阅与代理服务的关系的准备、操作顺序、验证与错误处理。",
+    "intent": "机场是什么：账号、订阅与代理服务的关系",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/app-proxy/",
+    "title": "浏览器能用但其他应用不通的检查方法",
+    "description": "面向Windows与macOS，说明浏览器能用但其他应用不通的检查方法的准备、操作顺序、验证与错误处理。",
+    "intent": "浏览器能用但其他应用不通的检查方法",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/autostart/",
+    "title": "开机启动、自动连接与退出恢复怎么设置",
+    "description": "面向桌面及移动设备，说明开机启动、自动连接与退出恢复怎么设置的准备、操作顺序、验证与错误处理。",
+    "intent": "开机启动、自动连接与退出恢复怎么设置",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/config-backup/",
+    "title": "规则配置修改、备份与回退流程",
+    "description": "面向需要自定义规则的人，说明规则配置修改、备份与回退流程的准备、操作顺序、验证与错误处理。",
+    "intent": "规则配置修改、备份与回退流程",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/dns-basic/",
+    "title": "DNS设置、解析失败与排错顺序",
+    "description": "面向所有设备，说明DNS设置、解析失败与排错顺序的准备、操作顺序、验证与错误处理。",
+    "intent": "DNS设置、解析失败与排错顺序",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/lan-sharing/",
+    "title": "局域网共享代理的准备与权限检查",
+    "description": "面向家庭局域网用户，说明局域网共享代理的准备与权限检查的准备、操作顺序、验证与错误处理。",
+    "intent": "局域网共享代理的准备与权限检查",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/rule-global-direct/",
+    "title": "规则模式、全局模式与直连模式怎么切换",
+    "description": "面向代理客户端用户，说明规则模式、全局模式与直连模式怎么切换的准备、操作顺序、验证与错误处理。",
+    "intent": "规则模式、全局模式与直连模式怎么切换",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/configuration/system-proxy-tun/",
+    "title": "系统代理与TUN模式区别及选择步骤",
+    "description": "面向Windows与macOS，说明系统代理与TUN模式区别及选择步骤的准备、操作顺序、验证与错误处理。",
+    "intent": "系统代理与TUN模式区别及选择步骤",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/clash-verge-macos/",
+    "title": "macOS安装Clash Verge Rev与芯片选择",
+    "description": "面向macOS桌面，说明macOS安装Clash Verge Rev与芯片选择的准备、操作顺序、验证与错误处理。",
+    "intent": "macOS安装Clash Verge Rev与芯片选择",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/clash-verge-windows/",
+    "title": "Windows安装Clash Verge Rev的步骤",
+    "description": "面向Windows桌面，说明Windows安装Clash Verge Rev的步骤的准备、操作顺序、验证与错误处理。",
+    "intent": "Windows安装Clash Verge Rev的步骤",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/shadowrocket-ios/",
+    "title": "iPhone安装Shadowrocket与初次连接",
+    "description": "面向iPhone，说明iPhone安装Shadowrocket与初次连接的准备、操作顺序、验证与错误处理。",
+    "intent": "iPhone安装Shadowrocket与初次连接",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/shadowrocket-ipad/",
+    "title": "iPad客户端安装与订阅操作说明",
+    "description": "面向iPad，说明iPad客户端安装与订阅操作说明的准备、操作顺序、验证与错误处理。",
+    "intent": "iPad客户端安装与订阅操作说明",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/upgrade-client/",
+    "title": "客户端升级、备份与回退的操作顺序",
+    "description": "面向已有可用配置的用户，说明客户端升级、备份与回退的操作顺序的准备、操作顺序、验证与错误处理。",
+    "intent": "客户端升级、备份与回退的操作顺序",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/v2rayn-windows/",
+    "title": "Windows安装v2rayN与选择发布文件",
+    "description": "面向Windows桌面，说明Windows安装v2rayN与选择发布文件的准备、操作顺序、验证与错误处理。",
+    "intent": "Windows安装v2rayN与选择发布文件",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/v2rayng-android/",
+    "title": "Android安装v2rayNG并授权连接",
+    "description": "面向Android手机和平板，说明Android安装v2rayNG并授权连接的准备、操作顺序、验证与错误处理。",
+    "intent": "Android安装v2rayNG并授权连接",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/install/verify-download/",
+    "title": "客户端下载前核对来源、架构与完整性",
+    "description": "面向所有设备，说明客户端下载前核对来源、架构与完整性的准备、操作顺序、验证与错误处理。",
+    "intent": "客户端下载前核对来源、架构与完整性",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/iplc-iepl/",
+    "title": "IPLC与IEPL线路名称的含义和核验边界",
+    "description": "面向选购与学习线路的人，说明IPLC与IEPL线路名称的含义和核验边界的准备、操作顺序、验证与错误处理。",
+    "intent": "IPLC与IEPL线路名称的含义和核验边界",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/latency-test/",
+    "title": "如何测试节点延迟并读懂超时结果",
+    "description": "面向所有客户端，说明如何测试节点延迟并读懂超时结果的准备、操作顺序、验证与错误处理。",
+    "intent": "如何测试节点延迟并读懂超时结果",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/node-switch/",
+    "title": "切换节点、策略组与主备线路的方法",
+    "description": "面向Clash类及其他客户端，说明切换节点、策略组与主备线路的方法的准备、操作顺序、验证与错误处理。",
+    "intent": "切换节点、策略组与主备线路的方法",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/region-choice/",
+    "title": "香港、日本、新加坡与美国节点怎么选择",
+    "description": "面向所有设备，说明香港、日本、新加坡与美国节点怎么选择的准备、操作顺序、验证与错误处理。",
+    "intent": "香港、日本、新加坡与美国节点怎么选择",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/speed-test/",
+    "title": "机场测速怎么做才有可比较的记录",
+    "description": "面向有意测试的用户，说明机场测速怎么做才有可比较的记录的准备、操作顺序、验证与错误处理。",
+    "intent": "机场测速怎么做才有可比较的记录",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/nodes/transit-direct/",
+    "title": "直连、中转与BGP优化怎样影响路径",
+    "description": "面向所有设备，说明直连、中转与BGP优化怎样影响路径的准备、操作顺序、验证与错误处理。",
+    "intent": "直连、中转与BGP优化怎样影响路径",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/device-limits/",
+    "title": "设备数量、在线连接与速率限制怎么读",
+    "description": "面向多设备用户，说明设备数量、在线连接与速率限制怎么读的准备、操作顺序、验证与错误处理。",
+    "intent": "设备数量、在线连接与速率限制怎么读",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/package-checklist/",
+    "title": "购买机场套餐前需要核对的十项内容",
+    "description": "面向准备付款的新手，说明购买机场套餐前需要核对的十项内容的准备、操作顺序、验证与错误处理。",
+    "intent": "购买机场套餐前需要核对的十项内容",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/payment-cycle/",
+    "title": "月付、季付、年付与按量套餐怎么比较",
+    "description": "面向所有购买者，说明月付、季付、年付与按量套餐怎么比较的准备、操作顺序、验证与错误处理。",
+    "intent": "月付、季付、年付与按量套餐怎么比较",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/remaining-traffic/",
+    "title": "如何查看剩余流量、到期与重置时间",
+    "description": "面向所有设备，说明如何查看剩余流量、到期与重置时间的准备、操作顺序、验证与错误处理。",
+    "intent": "如何查看剩余流量、到期与重置时间",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/traffic-budget/",
+    "title": "新手如何估算每月流量与预算",
+    "description": "面向准备购买服务的人，说明新手如何估算每月流量与预算的准备、操作顺序、验证与错误处理。",
+    "intent": "新手如何估算每月流量与预算",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/plans/traffic-multiplier/",
+    "title": "流量倍率怎么计算与如何避免误扣疑虑",
+    "description": "面向已有套餐的用户，说明流量倍率怎么计算与如何避免误扣疑虑的准备、操作顺序、验证与错误处理。",
+    "intent": "流量倍率怎么计算与如何避免误扣疑虑",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/account-security/",
+    "title": "机场账号密码、二次验证与共享风险",
+    "description": "面向账户持有人，说明机场账号密码、二次验证与共享风险的准备、操作顺序、验证与错误处理。",
+    "intent": "机场账号密码、二次验证与共享风险",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/ai-streaming-check/",
+    "title": "AI与流媒体兼容声明如何验证",
+    "description": "面向使用目标平台的人，说明AI与流媒体兼容声明如何验证的准备、操作顺序、验证与错误处理。",
+    "intent": "AI与流媒体兼容声明如何验证",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/fake-client/",
+    "title": "怎样辨认假客户端与冒充下载站",
+    "description": "面向所有设备，说明怎样辨认假客户端与冒充下载站的准备、操作顺序、验证与错误处理。",
+    "intent": "怎样辨认假客户端与冒充下载站",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/payment-risk/",
+    "title": "机场付款、退款与长期预付风险检查",
+    "description": "面向准备购买服务的人，说明机场付款、退款与长期预付风险检查的准备、操作顺序、验证与错误处理。",
+    "intent": "机场付款、退款与长期预付风险检查",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/privacy-boundary/",
+    "title": "代理、HTTPS与隐私边界如何理解",
+    "description": "面向所有读者，说明代理、HTTPS与隐私边界如何理解的准备、操作顺序、验证与错误处理。",
+    "intent": "代理、HTTPS与隐私边界如何理解",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/safety/subscription-privacy/",
+    "title": "订阅链接为什么需要像密码一样保护",
+    "description": "面向所有设备，说明订阅链接为什么需要像密码一样保护的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅链接为什么需要像密码一样保护",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/after-purchase/",
+    "title": "机场购买后下一步怎么操作",
+    "description": "面向已付款的新手，说明机场购买后下一步怎么操作的准备、操作顺序、验证与错误处理。",
+    "intent": "机场购买后下一步怎么操作",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/connection-checklist/",
+    "title": "首次连接验收：五项检查与记录方法",
+    "description": "面向所有设备，说明五项检查与记录方法的准备、操作顺序、验证与错误处理。",
+    "intent": "首次连接验收：五项检查与记录方法",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/device-route/",
+    "title": "按设备选择客户端与阅读顺序",
+    "description": "面向五类设备，说明按设备选择客户端与阅读顺序的准备、操作顺序、验证与错误处理。",
+    "intent": "按设备选择客户端与阅读顺序",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/first-use/",
+    "title": "梯子第一次使用：完成从账号到连接的六步路线",
+    "description": "面向Windows、Android、iPhone、iPad、macOS，说明完成从账号到连接的六步路线的准备、操作顺序、验证与错误处理。",
+    "intent": "梯子第一次使用：完成从账号到连接的六步路线",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/read-package/",
+    "title": "读懂服务商控制面板的关键字段",
+    "description": "面向所有设备，说明读懂服务商控制面板的关键字段的准备、操作顺序、验证与错误处理。",
+    "intent": "读懂服务商控制面板的关键字段",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/start/usage-record/",
+    "title": "建立使用记录与每周维护清单",
+    "description": "面向所有设备，说明建立使用记录与每周维护清单的准备、操作顺序、验证与错误处理。",
+    "intent": "建立使用记录与每周维护清单",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/backup-subscription/",
+    "title": "订阅备份、多机场分组与迁移方法",
+    "description": "面向多设备用户，说明订阅备份、多机场分组与迁移方法的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅备份、多机场分组与迁移方法",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/clash-verge-import/",
+    "title": "Clash Verge Rev订阅链接添加方法",
+    "description": "面向Windows与macOS，说明Clash Verge Rev订阅链接添加方法的准备、操作顺序、验证与错误处理。",
+    "intent": "Clash Verge Rev订阅链接添加方法",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/format-selection/",
+    "title": "订阅格式不匹配时如何选择正确入口",
+    "description": "面向所有客户端，说明订阅格式不匹配时如何选择正确入口的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅格式不匹配时如何选择正确入口",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/shadowrocket-import/",
+    "title": "Shadowrocket订阅导入、更新与基础配置",
+    "description": "面向iPhone和iPad，说明Shadowrocket订阅导入、更新与基础配置的准备、操作顺序、验证与错误处理。",
+    "intent": "Shadowrocket订阅导入、更新与基础配置",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/subscription-reset/",
+    "title": "订阅泄露后如何重置并更新全部设备",
+    "description": "面向所有设备，说明订阅泄露后如何重置并更新全部设备的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅泄露后如何重置并更新全部设备",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/v2rayn-update/",
+    "title": "v2rayN添加订阅分组与更新教程",
+    "description": "面向Windows桌面，说明v2rayN添加订阅分组与更新教程的准备、操作顺序、验证与错误处理。",
+    "intent": "v2rayN添加订阅分组与更新教程",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/subscription/v2rayng-import/",
+    "title": "Android如何添加机场订阅与更新节点",
+    "description": "面向Android，说明Android如何添加机场订阅与更新节点的准备、操作顺序、验证与错误处理。",
+    "intent": "Android如何添加机场订阅与更新节点",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/connection-failure/",
+    "title": "代理客户端连接失败的分层排错流程",
+    "description": "面向所有设备，说明代理客户端连接失败的分层排错流程的准备、操作顺序、验证与错误处理。",
+    "intent": "代理客户端连接失败的分层排错流程",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/import-error/",
+    "title": "订阅链接无法导入与空节点列表怎么办",
+    "description": "面向所有设备，说明订阅链接无法导入与空节点列表怎么办的准备、操作顺序、验证与错误处理。",
+    "intent": "订阅链接无法导入与空节点列表怎么办",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/mobile-disconnect/",
+    "title": "Android和iPhone锁屏后断连怎么检查",
+    "description": "面向手机和平板，说明Android和iPhone锁屏后断连怎么检查的准备、操作顺序、验证与错误处理。",
+    "intent": "Android和iPhone锁屏后断连怎么检查",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/node-timeout/",
+    "title": "机场节点显示超时怎么解决",
+    "description": "面向所有客户端，说明机场节点显示超时怎么解决的准备、操作顺序、验证与错误处理。",
+    "intent": "机场节点显示超时怎么解决",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/only-one-site/",
+    "title": "只有一个网站或应用无法访问怎么查",
+    "description": "面向所有设备，说明只有一个网站或应用无法访问怎么查的准备、操作顺序、验证与错误处理。",
+    "intent": "只有一个网站或应用无法访问怎么查",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/proxy-residue/",
+    "title": "关闭客户端后无法联网：清除代理残留",
+    "description": "面向Windows与macOS，说明清除代理残留的准备、操作顺序、验证与错误处理。",
+    "intent": "关闭客户端后无法联网：清除代理残留",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/slow-network/",
+    "title": "连接成功但速度慢的定位步骤",
+    "description": "面向所有设备，说明连接成功但速度慢的定位步骤的准备、操作顺序、验证与错误处理。",
+    "intent": "连接成功但速度慢的定位步骤",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  },
+  {
+    "path": "/troubleshooting/support-log/",
+    "title": "如何整理脱敏日志并向官方反馈问题",
+    "description": "面向所有设备，说明如何整理脱敏日志并向官方反馈问题的准备、操作顺序、验证与错误处理。",
+    "intent": "如何整理脱敏日志并向官方反馈问题",
+    "priority_basis": "编辑任务规划；待Search Console真实数据确认"
+  }
+]

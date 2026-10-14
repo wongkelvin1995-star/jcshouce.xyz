@@ -1,0 +1,7 @@
+import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const content=path.join(root,'content'),items=[];
+const readField=(s,k)=>{let v=s.match(new RegExp('^'+k+': (.+)$','m'))?.[1]||'';try{return JSON.parse(v)}catch{return v}};
+function walk(d){for(const e of fs.readdirSync(d,{withFileTypes:true})){const f=path.join(d,e.name);if(e.isDirectory())walk(f);else if(f.endsWith('.md')){const s=fs.readFileSync(f,'utf8'),relative=path.relative(content,f).replaceAll('\\','/');const url='/'+relative.replace(/_index\.md$/,'').replace(/\.md$/,'/');items.push({path:url,title:readField(s,'title'),description:readField(s,'description'),intent:readField(s,'title'),priority_basis:'编辑任务规划；待Search Console真实数据确认'})}}}walk(content);
+const csv=items.map(x=>[x.path,x.title,x.intent,x.priority_basis].map(v=>JSON.stringify(v)).join(',')).join('\n');fs.writeFileSync(path.join(root,'docs/keyword-map.csv'),'path,keyword,intent,priority_basis\n'+csv+'\n');
+const tutorials=items.filter(x=>!['faq','providers','recommendations','reviews','about','archives',''].includes(x.path.split('/')[1])&&!x.path.endsWith('/_index/')).filter(x=>x.path.split('/').length>3);fs.writeFileSync(path.join(root,'data/tutorials.json'),JSON.stringify(tutorials,null,2)+'\n');console.log('目录与关键词映射已从Markdown同步：'+items.length+'项');

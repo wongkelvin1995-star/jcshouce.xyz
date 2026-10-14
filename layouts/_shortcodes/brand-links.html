@@ -1,0 +1,1 @@
+<ul class="brand-links">{{ range first 5 (sort hugo.Data.airports "order") }}<li><a href="/reviews/{{ .id }}/">{{ .name }}品牌指南</a>：比较套餐、额度与使用条件。</li>{{ end }}</ul>

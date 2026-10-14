@@ -1,0 +1,50 @@
+{
+  "executedOn": "2026-10-13",
+  "timezone": "Asia/Shanghai",
+  "method": "Codex浏览器真实交互、DOM、计算样式与截图观察",
+  "result": "PASS",
+  "testedViewports": [
+    {
+      "viewport": "1440x960",
+      "contentWidth": 1425,
+      "scrollWidth": 1425,
+      "threeColumns": true,
+      "homeH1Count": 1,
+      "providerTOCIncludesPlansAndSources": true
+    },
+    {
+      "viewport": "800x900",
+      "contentWidth": 785,
+      "scrollWidth": 785,
+      "mobileMenuButtonVisible": true,
+      "menuLeftAfterOpen": 0,
+      "menuBackground": "rgb(233, 240, 232)"
+    },
+    {
+      "viewport": "390x844",
+      "contentWidth": 375,
+      "scrollWidth": 375,
+      "providerTableWidth": 339,
+      "tableOverflow": "auto",
+      "faqQuestions": 100,
+      "foldedFAQ": 0
+    }
+  ],
+  "interactions": {
+    "chineseBodySearch": "订阅链接：有结果",
+    "airportSearch": "灵动云：12条",
+    "englishSearch": {
+      "Clash": 27,
+      "v2rayN": 11,
+      "Shadowrocket": 9
+    },
+    "noResultMessage": true,
+    "escapeClosesDialog": true,
+    "mobileMenuOpens": true,
+    "providerAffiliateRel": "sponsored nofollow noopener",
+    "telegram": "https://t.me/+7J7nWmMUSbFhMzY1"
+  },
+  "consoleWarningsAndErrors": [],
+  "limitations": "未进行真实手机硬件测试、机场购买或性能测试；本地预览进程测试后已停止",
+  "resolvedPreviewIssue": "预览进程保留旧页面，重启后与生产索引一致；资源加入指纹，索引请求使用no-store"
+}

@@ -1,0 +1,45 @@
+{
+  "result": "PASS",
+  "date": "2026-10-13",
+  "desktop": {
+    "viewport": "1440x960",
+    "headerIcons": 2,
+    "searchResultsForClash": 27,
+    "mainBackground": "#F7F3EC",
+    "links": "#6B5B4D",
+    "scrollWidth": 1425,
+    "clientWidth": 1425
+  },
+  "mobile": {
+    "viewport": "390x844",
+    "icons": "36x36",
+    "headerHeight": 64,
+    "searchResultsForLingdong": 20,
+    "clickedReview": "/reviews/flycat/",
+    "correctBrand": true
+  },
+  "narrow": {
+    "viewport": "320x740",
+    "clientWidth": 305,
+    "scrollWidth": 305,
+    "logoRight": 84,
+    "iconsLeft": 139,
+    "headerHeight": 64,
+    "icons": 2
+  },
+  "telegram": {
+    "url": "https://t.me/+7J7nWmMUSbFhMzY1",
+    "target": "_blank",
+    "rel": "noopener noreferrer",
+    "landingTitle": "Telegram: Join Group Chat",
+    "landingName": "JC手册",
+    "joined": false,
+    "messagesSent": false
+  },
+  "table": {
+    "rows": 29,
+    "uniqueTargets": 29,
+    "obsoleteLabels": false
+  },
+  "preview": "running at http://localhost:1313/"
+}

@@ -1,0 +1,1386 @@
+{
+  "createdAt": "2026-10-14T03:20:58.876Z",
+  "scope": "Project source and internal evidence; excludes generated output, cache, theme and reports",
+  "files": [
+    {
+      "file": ".gitignore",
+      "sha256": "a268f27b6b299bca8517bb86fda7a0bdc9157229ef0dba7a85443ab58f042176"
+    },
+    {
+      "file": "README.md",
+      "sha256": "913f44669d6a16c62cd44af114ffbc02ed7fe95d13021c50aa29c7f7c9655222"
+    },
+    {
+      "file": "archetypes/default.md",
+      "sha256": "db485e4f6324f560497346b680146f16b8000603469f3b655f86a341d465155f"
+    },
+    {
+      "file": "assets/styles/custom.css",
+      "sha256": "2bc1572da2a48b87173aa23a0bb4b43b33f871b51cbe8c9ebcd9a390cbd020f9"
+    },
+    {
+      "file": "content/_index.md",
+      "sha256": "98a36bf596f718203e131faef556305bc07dc378499760c1109e29d6a52aab9b"
+    },
+    {
+      "file": "content/about/_index.md",
+      "sha256": "452a8a16d46a89d4ef4b69c335ca19946367954cc6653b5876c8a354f7dfc69e"
+    },
+    {
+      "file": "content/account/_index.md",
+      "sha256": "cd51308a49202e6390d35228f12f0f6320e5b5955fa0eaae19a7afe7a6496c5a"
+    },
+    {
+      "file": "content/archives/_index.md",
+      "sha256": "996b45abb93a30a38d748dacb23be75e7a2be6441fb7f5668e329376b2bd2dfe"
+    },
+    {
+      "file": "content/basics/_index.md",
+      "sha256": "0f299fc620b35eebf016bf247e544d328b6031c933d6a66975e0ee38cd754bd1"
+    },
+    {
+      "file": "content/basics/client-core.md",
+      "sha256": "18fcc2a2259a823c4b63ba4f98ea42c14e97e5eddf9f18eace1f2988321e7645"
+    },
+    {
+      "file": "content/basics/magic-terms.md",
+      "sha256": "150605be49aa8ea872b62c3ef54723a2b71183c6062c3cacfb8b23c16238e9a8"
+    },
+    {
+      "file": "content/basics/service-limits.md",
+      "sha256": "539c8232967942d939e908077ef518b504bd07f8a64e8190da7ca780c1c5968a"
+    },
+    {
+      "file": "content/basics/subscription-node.md",
+      "sha256": "fa5f6ce789f94a4159851c3a410fa1a4cd172154a0b8f8100b48f3a0be9bf8b7"
+    },
+    {
+      "file": "content/basics/vpn-vs-airport.md",
+      "sha256": "bee4352addc57d1d49023dbb44de9f2c246be026f0f084dedfb468364bc3534d"
+    },
+    {
+      "file": "content/basics/what-is-airport.md",
+      "sha256": "67761d33a00dc953643291a22f2135931074aebdd75eecc28fce0666187bdb05"
+    },
+    {
+      "file": "content/configuration/_index.md",
+      "sha256": "06a9f3e017d99f7a42b3168d71a8923726548df9ab9c139a9331cd663b5ff31b"
+    },
+    {
+      "file": "content/configuration/app-proxy.md",
+      "sha256": "1d4b731cb2c852e8b8ef1632e300d0a77b29c4d9045e2aa3f23213818778012e"
+    },
+    {
+      "file": "content/configuration/autostart.md",
+      "sha256": "3c521e854a04b55f6a6a29eeeb41c922947c05645b2835c522c9de34796b9a80"
+    },
+    {
+      "file": "content/configuration/config-backup.md",
+      "sha256": "de96c4b569203ed1c59d21c8ad50a29c02f78b33afd684169c5b3dd165e422da"
+    },
+    {
+      "file": "content/configuration/dns-basic.md",
+      "sha256": "31f78ce7f333dc4cb5ed53f019a5ca9d828efc9c289dc9f695c3e56b44d5622b"
+    },
+    {
+      "file": "content/configuration/lan-sharing.md",
+      "sha256": "7a3e33e80d2a94cbaacb73ad11c75fc9e30bd6fa4bcadb8dd3e8707eca46e769"
+    },
+    {
+      "file": "content/configuration/rule-global-direct.md",
+      "sha256": "7025d33e15c6956c45eb7153ba7596d41428b786eced10027ab1a677f681f54e"
+    },
+    {
+      "file": "content/configuration/system-proxy-tun.md",
+      "sha256": "b1f5b99ae595483f198e64a20160447391d23a918023dfcae9266c3a2b356ecf"
+    },
+    {
+      "file": "content/domain/_index.md",
+      "sha256": "392c0ed71bb5424dc491180b9f3dcc0eaf6002e7ceb2193203be3de4fa0bc651"
+    },
+    {
+      "file": "content/editor/_index.md",
+      "sha256": "5faf0c9446e0218343727eb7ceedee13dabd51b135d85c9852d9b067c28b9f43"
+    },
+    {
+      "file": "content/faq/_index.md",
+      "sha256": "db40878794975c45138ce8c27b15ffecfd7458767918683d7af9ad5b77cca585"
+    },
+    {
+      "file": "content/faq/group-01.md",
+      "sha256": "0234be5fa90a06f4117587956fac59a4406a12f4dc04195c9152628130eefcd7"
+    },
+    {
+      "file": "content/faq/group-02.md",
+      "sha256": "920ea1362ab9d48345ca0d980f2949f7695e3f5eb1d320a8b970b3edd15d955d"
+    },
+    {
+      "file": "content/faq/group-03.md",
+      "sha256": "a0ea6f16570a2595f0d2a2521e150e11d190c2cd5895406bf706692722d5b45e"
+    },
+    {
+      "file": "content/faq/group-04.md",
+      "sha256": "b4b66bdf3f54888fc888e9a6db4bbd18cb65ff9c2d26b869e96479992e20e4ab"
+    },
+    {
+      "file": "content/faq/group-05.md",
+      "sha256": "a76e38f78be9005c229718c0f40812148a4874c983b92a373674eb2038054700"
+    },
+    {
+      "file": "content/faq/group-06.md",
+      "sha256": "8a76e3942ed7ee02a2475f818e9faec3d2daa1245454896da82982fcf243bfb9"
+    },
+    {
+      "file": "content/faq/group-07.md",
+      "sha256": "9eaadbf5c6fafa14d1c1fb47456d83ec572c22e4266f0f96e5e428197dd55bdc"
+    },
+    {
+      "file": "content/faq/group-08.md",
+      "sha256": "5cc063797ad533d62c345ee1a80e223585214eb295bfe09748d368b24c2680b3"
+    },
+    {
+      "file": "content/faq/group-09.md",
+      "sha256": "afc572d1712d6da2c1dcc5a4940f2fbef7998c4e40c9fcbdc922e3eea78f67cb"
+    },
+    {
+      "file": "content/faq/group-10.md",
+      "sha256": "5f803511338efd099f30f185f1a0c8e9267a46e905dacca27eaddef3bd5794d4"
+    },
+    {
+      "file": "content/install/_index.md",
+      "sha256": "35e44216ca693f3ebd1bdae85011b278c327b04d1c9a637c1a6d4b461ad67efe"
+    },
+    {
+      "file": "content/install/clash-verge-macos.md",
+      "sha256": "8d8c9db98333607c7bd0a02d2dc7eeafe1190d45427a4a2bbfb700c3d568eca3"
+    },
+    {
+      "file": "content/install/clash-verge-windows.md",
+      "sha256": "05ef5892653334503759e04cf90b94f44f1cf0a849a7296156a306b7e151cf00"
+    },
+    {
+      "file": "content/install/shadowrocket-ios.md",
+      "sha256": "9a90c6aacaff8e028162abc0e4488351acb2e738b0ac6d7ff72b8ce2f76fbb78"
+    },
+    {
+      "file": "content/install/shadowrocket-ipad.md",
+      "sha256": "6b6dc9a864e46c2847412a5aba874e3f3c22ced611b04db1040d510867c22f59"
+    },
+    {
+      "file": "content/install/upgrade-client.md",
+      "sha256": "33cc885f642ce3947ab7eebaa412085d87a1a3f592cf9878a779965cfe5f5a9c"
+    },
+    {
+      "file": "content/install/v2rayn-windows.md",
+      "sha256": "a13db3086c1464edae04c55995a81ddc7f6aff02de6c801fc36e8c01c749f972"
+    },
+    {
+      "file": "content/install/v2rayng-android.md",
+      "sha256": "d28965ad2363a8b4500ea0d0ae653a1abffe1edf79dce0bdca5e37afdeaa7ecb"
+    },
+    {
+      "file": "content/install/verify-download.md",
+      "sha256": "d8ac42a5f0d201dc78db2b9dbe26aecefc536616d7779bf201c857eddb08f6fc"
+    },
+    {
+      "file": "content/nodes/_index.md",
+      "sha256": "ddfcf1b5f4f8b170bbdfbf094e8240c128215d7987177f5ce8e3b7ca6ac14e70"
+    },
+    {
+      "file": "content/nodes/iplc-iepl.md",
+      "sha256": "278d7d3263bdc0b1bc9241a59b549db0b16de258fed19fd533dcddcc89c2c95b"
+    },
+    {
+      "file": "content/nodes/latency-test.md",
+      "sha256": "274c07666118b34b78859cd9188b72cf59f68c4796e331627a9eb6c85346b691"
+    },
+    {
+      "file": "content/nodes/node-switch.md",
+      "sha256": "1533be17a35d9b21921dcd40498505865e97cfc88c4d42f0b8d84615dc3ec5e5"
+    },
+    {
+      "file": "content/nodes/region-choice.md",
+      "sha256": "5068faf8ae4df39366db3ba2c3ee540da470f36168c9c4ab77b1754d9e4bf1a5"
+    },
+    {
+      "file": "content/nodes/speed-test.md",
+      "sha256": "e47e6c871d618b39cd9c2c0a75963c78c5e23ca57c874a6936847f95a5a3d088"
+    },
+    {
+      "file": "content/nodes/transit-direct.md",
+      "sha256": "eaae4e3dc249ea14eaa0434f8ef3f2e11f4e9165866e99804d12c7df850e6d1d"
+    },
+    {
+      "file": "content/plans/_index.md",
+      "sha256": "6791bcc719f39a23f179c37e4649fea6a4cbf39ff105a8055de73d202cc857c0"
+    },
+    {
+      "file": "content/plans/device-limits.md",
+      "sha256": "2fa040492e91b189b1ff4b59b3203da277724ee7d9d8769cd79cd81328748b25"
+    },
+    {
+      "file": "content/plans/package-checklist.md",
+      "sha256": "e4babf09576819362678db6dcb9c0c6a0bc8d02537ea2aa06dad6fcd2fccb354"
+    },
+    {
+      "file": "content/plans/payment-cycle.md",
+      "sha256": "c6d4a9de96996705596410d5b5f15be117249d2401a3eeeeef64d98d1ed2da5d"
+    },
+    {
+      "file": "content/plans/remaining-traffic.md",
+      "sha256": "65e223ca6825ea07618cbc3e38666817ba1be35c3bbc46cdef9a32b9728d7850"
+    },
+    {
+      "file": "content/plans/traffic-budget.md",
+      "sha256": "04576b7f526b45c60a76fe2d89d0020d5c59f1956207ddfbffb1d0b97664e417"
+    },
+    {
+      "file": "content/plans/traffic-multiplier.md",
+      "sha256": "6711c1bbb8f14b69407b8208862bf3d55406209ef4756d8874c2c2e7804a2177"
+    },
+    {
+      "file": "content/providers/1fly.md",
+      "sha256": "ca9a501254a4f1849c182d5e091dc1b2f0d3c538a94f3f5ce080628c146a9139"
+    },
+    {
+      "file": "content/providers/2mao.md",
+      "sha256": "24014efb366f5731ee9475458d02226bbfedc9782203817b4d34fd91b8221d74"
+    },
+    {
+      "file": "content/providers/_index.md",
+      "sha256": "6e98db8ae35c131ce439dac554283b5c445f0042884722cbeb78ec5498868204"
+    },
+    {
+      "file": "content/providers/breezenet.md",
+      "sha256": "243c78b2a0d0177cf1376f833e9c279b7cd12190aa1e921a5b925f3a8ac9a484"
+    },
+    {
+      "file": "content/providers/dalaoyun.md",
+      "sha256": "3f78618d01024beb46866d0f0721434a40dba9b4238bc930293445d1bf813a48"
+    },
+    {
+      "file": "content/providers/edgenova.md",
+      "sha256": "859c6667b4b80b6f178dbee21476463d148d3bf02823026977fa9b17bd20d940"
+    },
+    {
+      "file": "content/providers/firefly.md",
+      "sha256": "52af19eaf6bb897749b96ab7d803a61a535a6f0c1a0459e4722031515953ede5"
+    },
+    {
+      "file": "content/providers/flashleap.md",
+      "sha256": "0ec722951cf8eca310f527f3d2160b691a3da76c5fe086d8a200398c66c7c925"
+    },
+    {
+      "file": "content/providers/flycat.md",
+      "sha256": "128ae213bf70a5020987e65abbf2f0e30e198eb234e6ded370912d9decba4f03"
+    },
+    {
+      "file": "content/providers/flyv.md",
+      "sha256": "cf384c1971b270018aae6491b108c75c7829ef9f5df3c47b3a4861b7086fd251"
+    },
+    {
+      "file": "content/providers/globalcloud.md",
+      "sha256": "894ccc1042f57bbecbe41e27255a76a275ac9484063cff07d71083876a6cd913"
+    },
+    {
+      "file": "content/providers/invisible.md",
+      "sha256": "ac9d01cf65340eed14924f647ebbf178addb829839290838e8069f5e8949cded"
+    },
+    {
+      "file": "content/providers/jilian.md",
+      "sha256": "c6cfe08df3f498a14f76bb07683357fb921a5e9d2989616ef2868f5ba0a6111a"
+    },
+    {
+      "file": "content/providers/kuaili.md",
+      "sha256": "76cc2ee7251b2078b4785744b7d561568cc8863b069e796d1ce30df36ca11f5e"
+    },
+    {
+      "file": "content/providers/kuajie.md",
+      "sha256": "b7a858d7d8546b768dd6a5213b84d321d03ca5836b64176bad28c5999c81f8f9"
+    },
+    {
+      "file": "content/providers/laddercloud.md",
+      "sha256": "347dbf708935c60d57ad3bd9fb2ff27260d1d22f08f0131e47c84d49763e83a4"
+    },
+    {
+      "file": "content/providers/lightspeed.md",
+      "sha256": "f861702664b3352a752ce6cafe88d08149c704d7c9136e61fd742a193fe167d1"
+    },
+    {
+      "file": "content/providers/lightyear.md",
+      "sha256": "2eb9a12742935341b444600dbea4b8b8e7d470e18c4c0cd46abd43018a35577d"
+    },
+    {
+      "file": "content/providers/lingdong.md",
+      "sha256": "706b153d5ded95c2e3c62a9110dfc0c93d5c0b47ca3cfa7e19f0d53d256e7128"
+    },
+    {
+      "file": "content/providers/lingmao.md",
+      "sha256": "5dc12ed44bdd3546e432b17e8ce8c938c0051c705cd3627c727a898bd00d88ba"
+    },
+    {
+      "file": "content/providers/sogo.md",
+      "sha256": "b57960e278e351a79fd49cd2795242d357749fc0f8e6397bafe92dcedce3e879"
+    },
+    {
+      "file": "content/providers/sujie.md",
+      "sha256": "d621a629bd4b4d1651dab78d41dc88db7f308a3cbd71f8d8b3b84adbec2bde80"
+    },
+    {
+      "file": "content/providers/trustedcloud.md",
+      "sha256": "ea2786cbce6b654f32d4964a657734d9fd49a539bd0c9cdce2b0054e0342fda6"
+    },
+    {
+      "file": "content/providers/twilight.md",
+      "sha256": "688f8195eb219e8d9972ffc2316c3d50eaf4e09e14e96f0d01d9d9feff65deff"
+    },
+    {
+      "file": "content/providers/u1s1.md",
+      "sha256": "254ec53bebf4f49d9a824647ab1067a4a9a0dd66c71373847258bd9b6786edc4"
+    },
+    {
+      "file": "content/providers/v2cloud.md",
+      "sha256": "eb6b5e22f141041a35bbbd28742d681cc7eebe05eb9576ac32c750cf82029f10"
+    },
+    {
+      "file": "content/providers/wavenet.md",
+      "sha256": "36e2dd029c4bf4fabbadcd4a22212575496ca9f231d04354924037b9a27d5189"
+    },
+    {
+      "file": "content/providers/wuyou.md",
+      "sha256": "d12310e2b22160a17a01916933c2ea1632ad3f6488b8e0d37ff00872c869912b"
+    },
+    {
+      "file": "content/providers/xingdaomeng.md",
+      "sha256": "1e4b0c5f3a9c528f9f18a51b4c9cfa99028b1bf23cfd606500364b4187974381"
+    },
+    {
+      "file": "content/providers/yuzhou.md",
+      "sha256": "a4b9fd5f389c31c7bd2c66198212e71f435a5b52a07b1014a7a11cc837298d80"
+    },
+    {
+      "file": "content/recommendations/_index.md",
+      "sha256": "10434d59088125ec94f1ecc9866be843638c6781b373bd0bdabc3a9178205e9c"
+    },
+    {
+      "file": "content/recommendations/ai.md",
+      "sha256": "d4461d6f22fa72b0840923b0d5e213d770498085f946111af660371e6fca09d9"
+    },
+    {
+      "file": "content/recommendations/beginner.md",
+      "sha256": "ebdbeb84c16f71d42580df7407eb3e8d23481a791889d5ff3d9da3b3bbcb3203"
+    },
+    {
+      "file": "content/recommendations/budget.md",
+      "sha256": "16af95a97c20b9d31876a1bbee7b2b7d0842e07ec6f2841a69ecebf2dca9137a"
+    },
+    {
+      "file": "content/recommendations/evidence.md",
+      "sha256": "8c34ffb7f6a43d2898d8eaa6e7b11c2f779777ff8b873e4e80f38d297e5f95d3"
+    },
+    {
+      "file": "content/recommendations/multi-device.md",
+      "sha256": "4aabedd9a951c31f950f464e790da5f18a899e08624eeb2035a2374668a844a8"
+    },
+    {
+      "file": "content/recommendations/streaming.md",
+      "sha256": "b4ad7d761a9fb94ec34e39c3edd6285fe6b160ae6a3791dc4eb4e341e42a264a"
+    },
+    {
+      "file": "content/reviews/1fly.md",
+      "sha256": "f215de84200a8650f2781c2bf7e904d3bff5064aed6a7ef36d0013f07e8b2c3a"
+    },
+    {
+      "file": "content/reviews/2mao.md",
+      "sha256": "072acb9b62aed74f14de6dd5e1d40d0284917a13a9d4eed8fe82da8fcd7bed65"
+    },
+    {
+      "file": "content/reviews/_index.md",
+      "sha256": "79936fa096e2b202f11b80d5a516b48358d2e6c16a73b6881cd90bb7d3156432"
+    },
+    {
+      "file": "content/reviews/breezenet.md",
+      "sha256": "2dac393786d9be9ec5b78885ce61aed5c060f16ba26f854df327c360d54fc77b"
+    },
+    {
+      "file": "content/reviews/dalaoyun.md",
+      "sha256": "376f516f9eb8d29a60d5e5a531868da05fe15b470e8305abc833f7e11e467a87"
+    },
+    {
+      "file": "content/reviews/edgenova.md",
+      "sha256": "7374f02411e51b707f2016ef81dd1e102e34d6276d9cf88fb571ed10ddcba5ef"
+    },
+    {
+      "file": "content/reviews/firefly.md",
+      "sha256": "e874e961a873adb022d9920ea4d6291f46836ed05d73f56c7d03a7fd86b3175d"
+    },
+    {
+      "file": "content/reviews/flashleap.md",
+      "sha256": "ef8ebd89c3f4cbe0a727872f5db97033c8a8c9028b7054fa07545a0f73e779aa"
+    },
+    {
+      "file": "content/reviews/flycat.md",
+      "sha256": "5b50dd2e98f571a4f9f45d2750ee9e86d4b47dd1ed81a8dd21bf8953e0c04003"
+    },
+    {
+      "file": "content/reviews/flyv.md",
+      "sha256": "7e7bdf64710fe74e95d569cfc8ccb005bbddc826388518722ea425f0bc9f27d7"
+    },
+    {
+      "file": "content/reviews/globalcloud.md",
+      "sha256": "ed62390ea842e4f24fb006a3a2c2a9abeb04173d7fa6ed9a7f7301f3c9fe64a3"
+    },
+    {
+      "file": "content/reviews/invisible.md",
+      "sha256": "d4f74869f8cf7b0be449cb5a1945d41b59df7a57afc279a6f82d738ce85d5a6d"
+    },
+    {
+      "file": "content/reviews/jilian.md",
+      "sha256": "addd160891b766740779a7ce53d56663f464b006d8020727f76a3fbd71d2b73c"
+    },
+    {
+      "file": "content/reviews/kuaili.md",
+      "sha256": "92c07bf8fc48ca9d21581243caec27987521c695a32b49594d5f7f5c97c12c5c"
+    },
+    {
+      "file": "content/reviews/kuajie.md",
+      "sha256": "b45920e02a729292a0ac412f4323ed43a6bdc5fd0cff9f984415acc486acc03c"
+    },
+    {
+      "file": "content/reviews/laddercloud.md",
+      "sha256": "0c79ad9e8f090fd338303aa2850f6403cb34c39f3fa53b118d5fcf72fbd4f92b"
+    },
+    {
+      "file": "content/reviews/lightspeed.md",
+      "sha256": "c74f5357c707ea43a3bce5476e50065da3e852b75c6912e3703c3f419367b85f"
+    },
+    {
+      "file": "content/reviews/lightyear.md",
+      "sha256": "7662099f71f5cb9dade920cb3d257b16d0f8f74c90d4f3fdaaf84350c4a4bdc5"
+    },
+    {
+      "file": "content/reviews/lingdong.md",
+      "sha256": "1dd1f52d1cb976fcf125b7972d3872f015f65a803a7c8f83235d9f79f663552b"
+    },
+    {
+      "file": "content/reviews/lingmao.md",
+      "sha256": "4033873904d836a797bf7d23b3bd5c5222140721ef31d06063355ce79b981af9"
+    },
+    {
+      "file": "content/reviews/sogo.md",
+      "sha256": "4ad3214e3532cf232b602fbe33f3b1332237b786a6239897c63d3ade89e2d6ea"
+    },
+    {
+      "file": "content/reviews/sujie.md",
+      "sha256": "f51f10e56f7114bddca4da93f607032cd2e9dd14352ffef491697cb09a4d79bd"
+    },
+    {
+      "file": "content/reviews/trustedcloud.md",
+      "sha256": "58d5712bfc8b5c08a59baf7c971e9add1df93953480732425e0aeb85c2a068c8"
+    },
+    {
+      "file": "content/reviews/twilight.md",
+      "sha256": "4fe54677887ed8be7a5cae098c810adf5afdbf0e7f1bb629ff9062468e300471"
+    },
+    {
+      "file": "content/reviews/u1s1.md",
+      "sha256": "72521e07f8415038b0c2da8e79ebf1b470f80407255a96eae7f03b1c57d21794"
+    },
+    {
+      "file": "content/reviews/v2cloud.md",
+      "sha256": "909de2aa00051db2d602eacb4c0f74fc298c3549971c1d60c97b9a7283a86979"
+    },
+    {
+      "file": "content/reviews/wavenet.md",
+      "sha256": "281ca009f2313ae981b83737d11de27cf1de3d4bc34f74c010305df4bdd51e87"
+    },
+    {
+      "file": "content/reviews/wuyou.md",
+      "sha256": "c6fbb3ee9472dd2a68d1db808d8287b6b1e1a44e908304fa2982cdfa52db211b"
+    },
+    {
+      "file": "content/reviews/xingdaomeng.md",
+      "sha256": "45423863cb03dc95e465412a14c38bd43714f9bc6d45154d9041268a068f7640"
+    },
+    {
+      "file": "content/reviews/yuzhou.md",
+      "sha256": "6e54294f1ef6c8c0d8fc8038db3cbb2f041abc238bfe38d5f01bbbb2e45db407"
+    },
+    {
+      "file": "content/safety/_index.md",
+      "sha256": "764ed98729da56628fe3a457cf1487e0587d7dacf68b9287bf6b16bfcd760689"
+    },
+    {
+      "file": "content/safety/account-security.md",
+      "sha256": "f52c8c54b19f5ee638f5c68f69122de12e9f9f9232bb94068b48c1a7103eaddf"
+    },
+    {
+      "file": "content/safety/ai-streaming-check.md",
+      "sha256": "c6f22761224fd1f029baf90aab36cc9859ab1d1b73cbc02fe8f11b876cde6d43"
+    },
+    {
+      "file": "content/safety/fake-client.md",
+      "sha256": "8bdea44f80ad443a7a105859a3ff2b301cd91d953363cbf00c03f6cc625b06fa"
+    },
+    {
+      "file": "content/safety/payment-risk.md",
+      "sha256": "1ac98fa2942878f79d917c3371016435fa898200d1e894728e349529ac3f0f03"
+    },
+    {
+      "file": "content/safety/privacy-boundary.md",
+      "sha256": "0ac38f1152d98dd5f42bee74634ba0f4376421675e9e1f74595ebd424f6f312b"
+    },
+    {
+      "file": "content/safety/subscription-privacy.md",
+      "sha256": "9776fd2730af4c015028b11f470393da3e4d8b6d5a410af17d99ecf61deec8d0"
+    },
+    {
+      "file": "content/site-map/_index.md",
+      "sha256": "37929dcd15b05381f5272a88b3578812b967f2104253acced1093829a430dfcc"
+    },
+    {
+      "file": "content/start/_index.md",
+      "sha256": "7b37135ec7ba5b19c00ae7c0c8de28b315a481a0533cb4cde7fbf4435ca8483e"
+    },
+    {
+      "file": "content/start/after-purchase.md",
+      "sha256": "da52ca0535f94407ce9cc29c251418481f5abcf72db8ffc1e90649ddb25acc58"
+    },
+    {
+      "file": "content/start/connection-checklist.md",
+      "sha256": "9e037a0ae17b24116982b2ee381683a47b825d8d07c872087eacfcf07ff24196"
+    },
+    {
+      "file": "content/start/device-route.md",
+      "sha256": "cb36a372457e668dd136af97c23d2d544cad56a7aefe8c3e9af966f8c2778288"
+    },
+    {
+      "file": "content/start/first-use.md",
+      "sha256": "624a14c2eb54e68e22b1eef99c614cc48e25fd1a3bfd2f7d4a37ee93903cc316"
+    },
+    {
+      "file": "content/start/read-package.md",
+      "sha256": "538be960ceee50b56f728b9c5204cb46b151243a54dfc9bab006211cae4b4d42"
+    },
+    {
+      "file": "content/start/usage-record.md",
+      "sha256": "d36e7ed36d5df45c053269bc87bca8ef1bd821314c50956f8bd71c38ec82fa8e"
+    },
+    {
+      "file": "content/subscription/_index.md",
+      "sha256": "ea1613a0c20aa7894e7a043bf493e7c7af9623bc596af29f0cab527dbd06c5d3"
+    },
+    {
+      "file": "content/subscription/backup-subscription.md",
+      "sha256": "391d7c959fb236fee8d5c674754cd9d18a9db354dd51def2dffc5cb1b8f2f115"
+    },
+    {
+      "file": "content/subscription/clash-verge-import.md",
+      "sha256": "d083fff8cea155083bfaea28f5179cf259d434829b2591507c00e6c734fae3ad"
+    },
+    {
+      "file": "content/subscription/format-selection.md",
+      "sha256": "f5ea70cb844d1174b101e18bb8fda8cdd6336580cf5ec865303e22d33ab1c9fc"
+    },
+    {
+      "file": "content/subscription/shadowrocket-import.md",
+      "sha256": "dcd05ea76b0411828f4603eced2b6811535cf188c7740862973ef9bf05bff238"
+    },
+    {
+      "file": "content/subscription/subscription-reset.md",
+      "sha256": "e0cffd8a4b5a64b32969bf83fd7a27dcbbbf9c84f789ed412328f929918cb8bc"
+    },
+    {
+      "file": "content/subscription/v2rayn-update.md",
+      "sha256": "0b1e57a8117be95a2a628937e74ba2c05116ebb79e182d0e9c660c110bf91b2f"
+    },
+    {
+      "file": "content/subscription/v2rayng-import.md",
+      "sha256": "77c3963569acbf7a468aa3fcd6af5e6168adfdcb8fe46f8257a6682ab6af014a"
+    },
+    {
+      "file": "content/troubleshooting/_index.md",
+      "sha256": "ae78e473ece94fa7cf2a50cb05f928fb70bee9cb71f4cf5e6b2dde97b75b0bc5"
+    },
+    {
+      "file": "content/troubleshooting/connection-failure.md",
+      "sha256": "e9806e8dedb6f6d163a8aa214994ca73fafe9a6669a999b38be78cd0111d3dab"
+    },
+    {
+      "file": "content/troubleshooting/import-error.md",
+      "sha256": "c3871f4b1d3e0931e5b52465a233ac82f71271d11318b7f88bd55c2f7f16e72a"
+    },
+    {
+      "file": "content/troubleshooting/mobile-disconnect.md",
+      "sha256": "6fe774a00c06e82b2c07c70a00e27c16dff9e644367538e5fb6e7d91e629207d"
+    },
+    {
+      "file": "content/troubleshooting/node-timeout.md",
+      "sha256": "727e080d77a86435d7bce9780a65fac5303ff2d9a33a97faffbf59aecd99a0ac"
+    },
+    {
+      "file": "content/troubleshooting/only-one-site.md",
+      "sha256": "0d404b1f29e37d309fb58f8de0a9461ffd99bcb6a62c18609ce0be931e29a6f3"
+    },
+    {
+      "file": "content/troubleshooting/proxy-residue.md",
+      "sha256": "453d376e1e029951b857fab39f0ff8cd9d88d50cb6d069db27bee0afe1033a8c"
+    },
+    {
+      "file": "content/troubleshooting/slow-network.md",
+      "sha256": "9d672ada996b083cb484b801b328c28f823d2841f79d12d58c7ca8fa8ff2784d"
+    },
+    {
+      "file": "content/troubleshooting/support-log.md",
+      "sha256": "f3ba446b054430d92882e335e47a88dbdc5b00e81bcdd6b24ade71d7077c909f"
+    },
+    {
+      "file": "data/airports/1fly.json",
+      "sha256": "910cea767c1146309d5551072dea5aff241eb37b23b654163dc092366cdd7938"
+    },
+    {
+      "file": "data/airports/2mao.json",
+      "sha256": "ab80c4e871e2e8f19ecef01801c13d3f777b867c6b2ab0b78a6c950a374cc8ff"
+    },
+    {
+      "file": "data/airports/breezenet.json",
+      "sha256": "acb89dc672e9dbc988007e027c32fe916a140a61af730103d94a0962c365a1a7"
+    },
+    {
+      "file": "data/airports/dalaoyun.json",
+      "sha256": "1b212bfee6013b8b289163cf2d364ec38eeef2aa714da0656eb979a68ac39e97"
+    },
+    {
+      "file": "data/airports/edgenova.json",
+      "sha256": "f028bac0cb7e462bc7ca4a2e54a0e21987500b402907a6a8d7a636b341ef9934"
+    },
+    {
+      "file": "data/airports/firefly.json",
+      "sha256": "d511b008bdcd24d4590eb7359a3b1524705b7ebc9dc7e86c5b2cfecc58f00176"
+    },
+    {
+      "file": "data/airports/flashleap.json",
+      "sha256": "a1546bac6d89dfca55e59124f93b01e86eb3b6c130f79a97ef1c15d04ddf6902"
+    },
+    {
+      "file": "data/airports/flycat.json",
+      "sha256": "9e861ec93cde5f54f7f2ee28b0482fed80ab8a3495979657bc31fb9ac91ea78b"
+    },
+    {
+      "file": "data/airports/flyv.json",
+      "sha256": "b9bc68defa3c7101a3a2a6aa7cbaf03914abd4523d2cfc14dc440b3b1a1506a1"
+    },
+    {
+      "file": "data/airports/globalcloud.json",
+      "sha256": "aca55de5fac50547d5e70be9d4aed930a3f14f01b79fc6e0ad05b86fe914999f"
+    },
+    {
+      "file": "data/airports/invisible.json",
+      "sha256": "1dbe5b849786cec26c5e735fe870b8c7003943e0954f4a618305738008df47c3"
+    },
+    {
+      "file": "data/airports/jilian.json",
+      "sha256": "de06f4d2047cc72eaa6f11725815109a64dfdb48be28c2bc020b7917480bfe7a"
+    },
+    {
+      "file": "data/airports/kuaili.json",
+      "sha256": "a8178cf1afbb7a1f077ba7a0a4ab872e4874a454fede57170e1459fbfa41a096"
+    },
+    {
+      "file": "data/airports/kuajie.json",
+      "sha256": "3078e72f00d5892b90efa4e0fb8765fede9b434d4bb29a1cc6409dba2259ee1e"
+    },
+    {
+      "file": "data/airports/laddercloud.json",
+      "sha256": "2c0e0f1d0777b1157eecfcf7089bef1e54882629341b4e682dcc40e664b888c8"
+    },
+    {
+      "file": "data/airports/lightspeed.json",
+      "sha256": "e3fe4f3d42af9f5557fd0b387f2c2c6026d7e1ca716808d234a8cd64f93e9dc3"
+    },
+    {
+      "file": "data/airports/lightyear.json",
+      "sha256": "a147028c6e0e67d5c81dd5c2287543269d14edc01bcb4aac8882b05b34b2d44d"
+    },
+    {
+      "file": "data/airports/lingdong.json",
+      "sha256": "6b138784a6d57373329740aa449698dbec976d50ab3bacd698630df8ab6d6afb"
+    },
+    {
+      "file": "data/airports/lingmao.json",
+      "sha256": "4597a6766c0c1203ae7c1ecfbf3778086dc3633b981b79282955b9e618da12d9"
+    },
+    {
+      "file": "data/airports/sogo.json",
+      "sha256": "c83c313391fd12d73daf0a9f89c93dc28d8238c806350b857420dacdcfae8687"
+    },
+    {
+      "file": "data/airports/sujie.json",
+      "sha256": "e6efb857148ea140f24d4694331014c4ce449c19b6a0d055635eb30c1d8ded0b"
+    },
+    {
+      "file": "data/airports/trustedcloud.json",
+      "sha256": "5c8c7f17c271f720d6ba3a825017d3718555db5ac10a615dc3760732a596e6ba"
+    },
+    {
+      "file": "data/airports/twilight.json",
+      "sha256": "71518661cbb46bd80ffd35b264bfdfc01072fabda6586f742908c1e79fe9b9f3"
+    },
+    {
+      "file": "data/airports/u1s1.json",
+      "sha256": "464555b27b4348596603a89d6defd569770327de0b63413e3df8182e0d3623a8"
+    },
+    {
+      "file": "data/airports/v2cloud.json",
+      "sha256": "3f4567a8867857359f44fb549c84d7d7edbdf1422c1ccd97031077455eec635f"
+    },
+    {
+      "file": "data/airports/wavenet.json",
+      "sha256": "81619fe7610347e163fe5457dc216d306af70c32ace66e133491aed63748b108"
+    },
+    {
+      "file": "data/airports/wuyou.json",
+      "sha256": "d55f51be9389b913333b72c4a8daa1afacb9886d87d69c25b1d3539dc816a9af"
+    },
+    {
+      "file": "data/airports/xingdaomeng.json",
+      "sha256": "a7ef7d8c4f70b44a19ee14ccf651c5b8964eba52e3b0cfcbb1cb08c396d0d458"
+    },
+    {
+      "file": "data/airports/yuzhou.json",
+      "sha256": "a6aefce041a4481b3254e1ae1131bde4b1def83f78052f1ecfb8ace794b4ce8a"
+    },
+    {
+      "file": "data/faq.json",
+      "sha256": "743de284b0086ddc85dcf4cf5bb48a2216d55318a83c404d68026044b8ba3333"
+    },
+    {
+      "file": "data/navigation.json",
+      "sha256": "8f1c257e63a86c6db0762d03255ed6f8e51d7ce946b6be8a1ef47e18b7764563"
+    },
+    {
+      "file": "data/tutorials.json",
+      "sha256": "8d39117b7e8ff83cc9245227c6b8fe90ce55bf81113405beb434809e38e20883"
+    },
+    {
+      "file": "docs/airport-data-audit.md",
+      "sha256": "197f19935743864754e694e4e0761d396a90664023195fd36dad59b8168d3d28"
+    },
+    {
+      "file": "docs/deployment.json",
+      "sha256": "ba8163540ed9eee3098be509150fcdccbb0b7ff3e1367174e3558bd89f697a81"
+    },
+    {
+      "file": "docs/evidence/official-1fly.html",
+      "sha256": "e297725e1989a7a542c115756b724274fda2a55dcf2ca50f1b470eefa6abf1fb"
+    },
+    {
+      "file": "docs/evidence/official-2mao.html",
+      "sha256": "ab1ce284fea113670a021d155c393484e360434b1ab51aa5a1520581375818b5"
+    },
+    {
+      "file": "docs/evidence/official-breezenet.html",
+      "sha256": "aed29342adc87841f760239a22e6667156a39699f7992f93c51c97df85b3c213"
+    },
+    {
+      "file": "docs/evidence/official-dalaoyun.html",
+      "sha256": "d294c34b392aeae14b6c6ae13c7cc14bbcaa01d89e69d507ac71390c09f7e76a"
+    },
+    {
+      "file": "docs/evidence/official-edgenova.html",
+      "sha256": "ab9b2a3fe4e1052ad4ac454e00b6800e83e2efccaf88159a7daf4d1d7d2f703d"
+    },
+    {
+      "file": "docs/evidence/official-firefly.html",
+      "sha256": "52fd914ae5fac51c6fec43803a9bbb1d06ab2d3255381c6ea88f09dd0288b4e7"
+    },
+    {
+      "file": "docs/evidence/official-flashleap.html",
+      "sha256": "a5008b972d65f9d0e0fd95726d535ab4908dcae36fbd6f82a11af96e97a60369"
+    },
+    {
+      "file": "docs/evidence/official-flycat.html",
+      "sha256": "8d77f51b008b00b87ea65ee55d2c8116f76c232e312c6b9e8aa16344e7b344a9"
+    },
+    {
+      "file": "docs/evidence/official-flyv.html",
+      "sha256": "006df7eaa2eaa35edca69e712143b1723c9ebd1bdd119482587201906a9a4aed"
+    },
+    {
+      "file": "docs/evidence/official-globalcloud.html",
+      "sha256": "8d77f51b008b00b87ea65ee55d2c8116f76c232e312c6b9e8aa16344e7b344a9"
+    },
+    {
+      "file": "docs/evidence/official-invisible.html",
+      "sha256": "f77d7bf50ba1bedab6cc91d438dd1e4e60073a3ff68c8b7817fa8c1778375f2c"
+    },
+    {
+      "file": "docs/evidence/official-jilian.html",
+      "sha256": "37df4ea020bee7c613f5cc594e3db93fff23332547f15a4b396ab6bb9c8408dc"
+    },
+    {
+      "file": "docs/evidence/official-kuaili.html",
+      "sha256": "09dfaf4f7e62d2513984517610265e951a530d0ebcbb6aefa0e4e3823fd10a26"
+    },
+    {
+      "file": "docs/evidence/official-kuajie.html",
+      "sha256": "2f2f7b180a7ff634361ec2350182955644cbaff07aebd2153637462cb61745fb"
+    },
+    {
+      "file": "docs/evidence/official-laddercloud.html",
+      "sha256": "411038b7a2375d2b037ef0fa2031dbfd71ef72405a8763d211cd85ae52cea0ca"
+    },
+    {
+      "file": "docs/evidence/official-lightspeed.html",
+      "sha256": "060eb664904a1873f1317e8de711f2d14b2c8cc5d441ae0c4b1f67c8faccc948"
+    },
+    {
+      "file": "docs/evidence/official-lightyear.html",
+      "sha256": "8d77f51b008b00b87ea65ee55d2c8116f76c232e312c6b9e8aa16344e7b344a9"
+    },
+    {
+      "file": "docs/evidence/official-lingdong.html",
+      "sha256": "8ff64d8daaf042e55b12161fd9e65957406ca1e85aeaff74d02f6fc7461de9d7"
+    },
+    {
+      "file": "docs/evidence/official-lingmao.html",
+      "sha256": "938cf022e7aa955b46b47ae0851869e734c7509e0d152c2ce9981c8beb5b26be"
+    },
+    {
+      "file": "docs/evidence/official-sogo.html",
+      "sha256": "e4d3bda69770df4c41d949c543c71351e1b557f289e7c69562fe99962714230c"
+    },
+    {
+      "file": "docs/evidence/official-sujie.html",
+      "sha256": "1632a67e5f52bec29b16b9cd36064080fddd7f50aa0366dea54077f08142f4bb"
+    },
+    {
+      "file": "docs/evidence/official-trustedcloud.html",
+      "sha256": "38fac7ed7a0ea4a3d3bd6dc34a754ed5ebeae7c92d634550cad2f9bbc18e5f40"
+    },
+    {
+      "file": "docs/evidence/official-twilight.html",
+      "sha256": "bd2fb482f4c751ccfae3aa64cae88f2cfc40929fb3956da8b5a010a60ea303bd"
+    },
+    {
+      "file": "docs/evidence/official-u1s1.html",
+      "sha256": "0b32e8279c4f40f7bd4d77feb72464a1b59f3625bf586ee75d403666df29fea0"
+    },
+    {
+      "file": "docs/evidence/official-v2cloud.html",
+      "sha256": "900a5bb2db4c6dc1c9dfabd52eafeaaff911aebe6d11b40a576474cafb71b7df"
+    },
+    {
+      "file": "docs/evidence/official-wavenet.html",
+      "sha256": "99e1c1eb881487eb6e7539ef2d798bebabaa3db9a1e47edfb4f0a2dc4775978f"
+    },
+    {
+      "file": "docs/evidence/official-wuyou.html",
+      "sha256": "fede6b53b34c10d0b7331e486baaf6408f5b703d370e83d8023ec687672a7de7"
+    },
+    {
+      "file": "docs/evidence/official-xingdaomeng.html",
+      "sha256": "8722c23dcdcfe55bbed56f82dee3bad4277fdd3d33caaecd18e3b98f542f392c"
+    },
+    {
+      "file": "docs/evidence/official-yuzhou.html",
+      "sha256": "86b8ac4fde6e599fdbfb69d88e8c936008bc787ff0aa3de9a91b60ccab66b150"
+    },
+    {
+      "file": "docs/evidence/optimization/1fly.html",
+      "sha256": "1e4663d93a5e8b50b05eeae8c78f16b80a197e215c6736da793907c024007456"
+    },
+    {
+      "file": "docs/evidence/optimization/2mao.html",
+      "sha256": "b7d043d87502403356765501191d7bd80db920e780c5e7092baaeb50b8e40309"
+    },
+    {
+      "file": "docs/evidence/optimization/authorized-brands.json",
+      "sha256": "b8b323f9516df70b7ed3687418a7dc9b866772346f450a69136241c60117a118"
+    },
+    {
+      "file": "docs/evidence/optimization/breezenet.html",
+      "sha256": "4d673cf435fc8759debdc5a9a7172ff78e5a0f6a77290f1d7077ae68550e3698"
+    },
+    {
+      "file": "docs/evidence/optimization/dalaoyun.html",
+      "sha256": "a4df2243bf5ee948a3c4f4f5331fd3695a06613c86824c02c07175f0a19745c7"
+    },
+    {
+      "file": "docs/evidence/optimization/deployment-baseline.json",
+      "sha256": "f5a65d2db313d8c848d3155ef2a4e41e7609a98af7c6965829f4e60c6dfd2547"
+    },
+    {
+      "file": "docs/evidence/optimization/edgenova.html",
+      "sha256": "48e5a71478d5ecfc7a5feeaf0032f50751584293cad26867f51ad4c19519d821"
+    },
+    {
+      "file": "docs/evidence/optimization/firefly.html",
+      "sha256": "7590127210698bc2a0c0ccfc2e759395b860278d0136285087ae81be0ffd3dca"
+    },
+    {
+      "file": "docs/evidence/optimization/flashleap.html",
+      "sha256": "0d822d6afb2ce578794e4da8d46beec43bce208b4a3c9405b06a7b7db9e91a0b"
+    },
+    {
+      "file": "docs/evidence/optimization/flycat.html",
+      "sha256": "8e4108e41759de6949158293f7da20c01d3f0d446f63407e4c353c0f156d9d37"
+    },
+    {
+      "file": "docs/evidence/optimization/flyv.html",
+      "sha256": "da7ed78a91ff7b9f0f741e66158b5ec10335a306a09a662b646eea3f1ec5f20a"
+    },
+    {
+      "file": "docs/evidence/optimization/globalcloud.html",
+      "sha256": "8e4108e41759de6949158293f7da20c01d3f0d446f63407e4c353c0f156d9d37"
+    },
+    {
+      "file": "docs/evidence/optimization/invisible.html",
+      "sha256": "d645005dda9ffed915fc80d82a72475a4053a9818d1c16b7bf9cbd38061f71ac"
+    },
+    {
+      "file": "docs/evidence/optimization/jilian.html",
+      "sha256": "a1d9cdf75418a1cfbb4e61b2d1af047640c321dc54568a0e3e08536ba624b812"
+    },
+    {
+      "file": "docs/evidence/optimization/kuaili.html",
+      "sha256": "00a28c5527235fdf5e936423f6eaf1470edf01970616f63f50e21af012b68efa"
+    },
+    {
+      "file": "docs/evidence/optimization/kuajie.html",
+      "sha256": "5cf19fbb7a1e1f68e2a7b622f394faf5d949b27f00a7bc8b0600959de41ea631"
+    },
+    {
+      "file": "docs/evidence/optimization/laddercloud.html",
+      "sha256": "35adfce0093be9573b33fc9987eeeee41db712e1362c18dca1c13f6687435f40"
+    },
+    {
+      "file": "docs/evidence/optimization/lightspeed.html",
+      "sha256": "e8739de05e1ec592bb83b2777efded11972200b5c3f1869c5cbf262dcc5537b1"
+    },
+    {
+      "file": "docs/evidence/optimization/lightyear.html",
+      "sha256": "8e4108e41759de6949158293f7da20c01d3f0d446f63407e4c353c0f156d9d37"
+    },
+    {
+      "file": "docs/evidence/optimization/lingdong.html",
+      "sha256": "dbf43b9ab0fd79d18e2904824457afe53f9df0aa957f1a0236b5f0b82f7b72f9"
+    },
+    {
+      "file": "docs/evidence/optimization/lingmao.html",
+      "sha256": "53762b349ac3e3c26b89e21c04f261f707c479f2327dc45eff15c888e15aca29"
+    },
+    {
+      "file": "docs/evidence/optimization/previous-brand-data.json",
+      "sha256": "d2a83935b5d57561fdd51ad76c953acf546865e8ccf861a713e504569ca49b13"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-0.html",
+      "sha256": "1e67cf4ed71598555f8cf5948cd993d5c09a6f9ac7562a4955967cb16f144944"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-1.html",
+      "sha256": "72439a05bacefbc699c2dcb2a05a87714c28a95db5da273210ae29adcb659df4"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-2.html",
+      "sha256": "d383e8a7bf48d5585ed3eca75787ce47ee0fbfa586e3dc672bb13c9d60c71c9c"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-3.html",
+      "sha256": "75551ee63bb62cfd504272446acb637ba85f95e5b98fc012187e246a72bfa113"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-4.html",
+      "sha256": "09fb0f96e7d574a3c69e322b6ba984003b74f5a3555e1309c89d85572e15d762"
+    },
+    {
+      "file": "docs/evidence/optimization/reference-5.html",
+      "sha256": "3179f08efa2f623de0a07c38239df9f291cad9e4e8d6c5fa99c1d24eee6dbe61"
+    },
+    {
+      "file": "docs/evidence/optimization/sogo.html",
+      "sha256": "2e4dd8440d002ba0e9226c1d4ad83ed90f4417fb95bb01b807763c9b9564f782"
+    },
+    {
+      "file": "docs/evidence/optimization/sujie.html",
+      "sha256": "2613e3e88b57e303963590414463a73fda1ea2c20559b3269288982178b3daea"
+    },
+    {
+      "file": "docs/evidence/optimization/trustedcloud.html",
+      "sha256": "d79aedd8bffbe3713c14ea3defa4dec4dce8a790f7799d31e2a507183585dc06"
+    },
+    {
+      "file": "docs/evidence/optimization/twilight.html",
+      "sha256": "4245d9e3aff39b2b86165a9f2ba7fd348a6a52bfaf0ac1eb5de355cbbf092ca8"
+    },
+    {
+      "file": "docs/evidence/optimization/u1s1.html",
+      "sha256": "35426c916ef375e93bd1825fe6883dbc8b3efaf948a96433156d147726f774e2"
+    },
+    {
+      "file": "docs/evidence/optimization/user-request.txt",
+      "sha256": "dc286c9b1c20da5458dfd07fae9191c23de2bc186502d9d7f7153c670c2f4db4"
+    },
+    {
+      "file": "docs/evidence/optimization/v2cloud.html",
+      "sha256": "34498f9d06a62014e545627848dcfa47513c1c6134f60e4ef479d6c974c9255c"
+    },
+    {
+      "file": "docs/evidence/optimization/wavenet.html",
+      "sha256": "f7f4443f8c692928764888d80d788f13d5e13765b290254bc3257f9cd2043ccb"
+    },
+    {
+      "file": "docs/evidence/optimization/wuyou.html",
+      "sha256": "01ea6a9994b293d9fa905df24f634aa0fa6fed32829fd72de8f08da63323cce7"
+    },
+    {
+      "file": "docs/evidence/optimization/xingdaomeng.html",
+      "sha256": "d7037c1e7cd806a9115e4d52792c73351c63009bbc95d2fc73ea3651d20709bc"
+    },
+    {
+      "file": "docs/evidence/optimization/yuzhou.html",
+      "sha256": "49122500c36499ea3401763ccf8f81f184774f69a80101e66287e5e92fa85e66"
+    },
+    {
+      "file": "docs/evidence/source-1fly.html",
+      "sha256": "8509160e216604b8873f35efc7017e7883c14141c0c5a95ccf9ce1dc0a70a45f"
+    },
+    {
+      "file": "docs/evidence/source-2mao.html",
+      "sha256": "6203119b34d1fedebe4a3f3d9c211658cc1af5a43539b493cbd9bef2acc9c38d"
+    },
+    {
+      "file": "docs/evidence/source-breezenet.html",
+      "sha256": "288c0d9e17721f420c0702d63100bfea89f1397da1fd66457b3b5b2315192ef3"
+    },
+    {
+      "file": "docs/evidence/source-dalaoyun.html",
+      "sha256": "8cb719349a74914c89dc05bd627a13fbc0041a6f4a1858ac18d154b51e09b4e6"
+    },
+    {
+      "file": "docs/evidence/source-edgenova.html",
+      "sha256": "00018e96153cd96a3740c4c97150722776de5180e5162df8590d9da8c12fff2a"
+    },
+    {
+      "file": "docs/evidence/source-firefly.html",
+      "sha256": "e2d986964db56c642ea8e1d177c279e98a2ae6547bf508f61db20f6aebf47eb2"
+    },
+    {
+      "file": "docs/evidence/source-flashleap.html",
+      "sha256": "02f3808fb9bbd1655892d4097de7e794c052eab46717086a3b0d6196b04cc128"
+    },
+    {
+      "file": "docs/evidence/source-flycat.html",
+      "sha256": "f759157de2aa87ab262913064e20efe6bdece034e6d7f0238be5d6c959ad5ec0"
+    },
+    {
+      "file": "docs/evidence/source-flyv.html",
+      "sha256": "0499c211e1c1391c9439823a401bd792d9a6db11530a295e9855c341d9f373a8"
+    },
+    {
+      "file": "docs/evidence/source-globalcloud.html",
+      "sha256": "8efb954d78d13c3e084a5a57a74f14aa3dfedc5fb3017bc3698759d71c5bc300"
+    },
+    {
+      "file": "docs/evidence/source-invisible.html",
+      "sha256": "b31b824f4c7cb720cdffffe51e35661f63188dd9db2cfd954a2a81a558194ac5"
+    },
+    {
+      "file": "docs/evidence/source-jilian.html",
+      "sha256": "7bb36f42791658a7e6938352c12ed170a6d3b63b83d24f77985de85f6b36cbc6"
+    },
+    {
+      "file": "docs/evidence/source-kuaili.html",
+      "sha256": "dbf0bc635acba080c3d67bee251bc926bc9f428ea519a8246ffed358e3e77a19"
+    },
+    {
+      "file": "docs/evidence/source-kuajie.html",
+      "sha256": "78c60212d48e6aafbc688d0fd1d0dd3f0792235fed36278e7306df35f4b080c8"
+    },
+    {
+      "file": "docs/evidence/source-laddercloud.html",
+      "sha256": "cc1059a5bdeaa47f273b197e617b204d204b5c5af17480451fa81f26f51f34ce"
+    },
+    {
+      "file": "docs/evidence/source-lightspeed.html",
+      "sha256": "38731bbddcf47b5f2632d22044f55272dd741491a255ab12bff91e7ea556ee4b"
+    },
+    {
+      "file": "docs/evidence/source-lightyear.html",
+      "sha256": "e5cf810d816008fd6b2674b353abb31aa625fac6239067dbc5916f90528a4498"
+    },
+    {
+      "file": "docs/evidence/source-lingdong.html",
+      "sha256": "ee0a8a6ce73bcccca912ae05fedc2c737617761a52654fd70f3b3c2937237fd3"
+    },
+    {
+      "file": "docs/evidence/source-lingmao.html",
+      "sha256": "17c3b16e36c2579ba39091ad024e2db09b83e8d2a673c46169f128cef4d8c67e"
+    },
+    {
+      "file": "docs/evidence/source-sogo.html",
+      "sha256": "66f1940cdb652cacddcdc64120592988943fefda2a54dc24fbd318e90408749a"
+    },
+    {
+      "file": "docs/evidence/source-sujie.html",
+      "sha256": "2298c56e3f08370eed5187f1f3589bc288a6fec337c1859bf50dc880ef7d38d0"
+    },
+    {
+      "file": "docs/evidence/source-trustedcloud.html",
+      "sha256": "77b44ca22f8b71a149a3ad195d5b318b57711cf429d84e74c4a8987a2f7e86b6"
+    },
+    {
+      "file": "docs/evidence/source-twilight.html",
+      "sha256": "e36b608fa5531089dd6c734dfbfa483c1ef514879ae48291683194cf633e77d4"
+    },
+    {
+      "file": "docs/evidence/source-u1s1.html",
+      "sha256": "83211b341a3da4f3e3ab0e5d7862514621b9a1e3434b7d19237356408f9c51e8"
+    },
+    {
+      "file": "docs/evidence/source-v2cloud.html",
+      "sha256": "94814826173027a057ad5420a75d4eaa8e13cd286a1299b2c51fe33c4f8369c2"
+    },
+    {
+      "file": "docs/evidence/source-wavenet.html",
+      "sha256": "88491059bca5203116f749ae6c2f9ef44a508e2904151d4c17f6134640dea141"
+    },
+    {
+      "file": "docs/evidence/source-wuyou.html",
+      "sha256": "713fd53617afb137d79798b421e450e9831186f2da566adf66578753b88644ae"
+    },
+    {
+      "file": "docs/evidence/source-xingdaomeng.html",
+      "sha256": "23f6fba82a8344275f191c0f25648a5e345acc41003e67654d3bb7ae420b0835"
+    },
+    {
+      "file": "docs/evidence/source-yuzhou.html",
+      "sha256": "ca7eb24405e17a8d219047f6e198d3b06f39c199ad8de1d11e0a32184756efa9"
+    },
+    {
+      "file": "docs/import-report.json",
+      "sha256": "6f68e6b7d50b92c91690f269193ee549e517f52a6e64692a54869f68d5fd9276"
+    },
+    {
+      "file": "docs/keyword-map.csv",
+      "sha256": "e0234f8817aa7df1f18349b9ad5ae92d64e55d3e68618f8f2844750c8adf9239"
+    },
+    {
+      "file": "docs/maintenance.md",
+      "sha256": "440d047159e2c24c5bd114df866f61bad54566eba33e27e8406d487bee745f50"
+    },
+    {
+      "file": "docs/site-seo-profile.json",
+      "sha256": "2a20c81597964e2c214c098fa993dbf364c4bdc1ae9301a959b0a4982c0ea781"
+    },
+    {
+      "file": "docs/theme-lock.json",
+      "sha256": "c653c1dfa5ea8b54942f67c2148c2318b4abb26db670a2a4d527b8fb9a41c915"
+    },
+    {
+      "file": "hugo.toml",
+      "sha256": "f09f9a2d26e7a683e5aa906cb808d011d2183a4b6b59e0a13a8edd90fc0e7d65"
+    },
+    {
+      "file": "layouts/_markup/render-link.html",
+      "sha256": "3cf1b5a1499a771d52c78217e78467f6af549122dc3ca83c4576800ed1d63ac3"
+    },
+    {
+      "file": "layouts/_partials/docs/footer.html",
+      "sha256": "811bdf84b89686b9ac1498a82500b5634b30d1efe54bae7fd860532648c39455"
+    },
+    {
+      "file": "layouts/_partials/docs/html-head.html",
+      "sha256": "9398e87957b21050a3c7a96bff05caace5ff4951ff07578c754ad209a11395ec"
+    },
+    {
+      "file": "layouts/_partials/docs/inject/body.html",
+      "sha256": "8c4bb73b9b672411a78a88fea0ede0d12659f173873f7ef2049c5348c41176ea"
+    },
+    {
+      "file": "layouts/_partials/docs/inject/content-after.html",
+      "sha256": "47688a7ecfc10ba3a3b23b7d57cface8755392b58a523076cb6c87d87dcef757"
+    },
+    {
+      "file": "layouts/_partials/docs/inject/content-before.html",
+      "sha256": "b67c4b20078790b4180e01a65dcfe0ee8b45d03f357219786c11832eddba306e"
+    },
+    {
+      "file": "layouts/_partials/docs/menu.html",
+      "sha256": "3fa3d298fb5a45ce83330d13109b092e383593f02a752116d7abfb3a704fe37a"
+    },
+    {
+      "file": "layouts/_partials/docs/ordered-pages.html",
+      "sha256": "10bedfdc8eb7227bade7a73e8a0013d0b5a74e16b4b593338b8d201c406560c4"
+    },
+    {
+      "file": "layouts/_shortcodes/airport.html",
+      "sha256": "7a50aa43abd4d939bab600eff9c2e54fc7d46a39fe6cbe150f6a29bb85cb19ab"
+    },
+    {
+      "file": "layouts/_shortcodes/airports.html",
+      "sha256": "709472470f8e7315d72cfa4809447c574dd880ef11cd5bc95eb47a481a5f97e1"
+    },
+    {
+      "file": "layouts/_shortcodes/archives.html",
+      "sha256": "d6d5710dbf4e748966c9a30a9e360f387774c6bc481eb58a470bed3c6a354060"
+    },
+    {
+      "file": "layouts/_shortcodes/brand-links.html",
+      "sha256": "860022ce11d06d424c87ce10fb928823c7640d6a5d477780660d8182ebbc093a"
+    },
+    {
+      "file": "layouts/_shortcodes/personal-center.html",
+      "sha256": "e8d74ffaf45ab06a3ab6b3cee1fe243315ad9ad1047bdadbc81c469450c12a48"
+    },
+    {
+      "file": "layouts/_shortcodes/public-site-map.html",
+      "sha256": "12ec9ddc2bd205839ad7ba63a996c5f3b44c8ef299644a042772c9ecfaa7681c"
+    },
+    {
+      "file": "layouts/home.json",
+      "sha256": "47cf6dbc1326b95fac225ec736ee7a5cde3e2c54c88732412331f5a04b562b79"
+    },
+    {
+      "file": "layouts/robots.txt",
+      "sha256": "79386be925b105c48fec9913301d6de6a0bb290cf236f2af2379f4f985d5bc46"
+    },
+    {
+      "file": "layouts/sitemap.xml",
+      "sha256": "89e24ca371a5b5cca6529bc217633a20ceae9370cc49742ee2e814575f46c5bd"
+    },
+    {
+      "file": "scripts/check-preserved-config.mjs",
+      "sha256": "77e9b5e0d6915f114bdf5c1b0def64ca494427533fde63748499549c35aaf705"
+    },
+    {
+      "file": "scripts/collect-public-sources.mjs",
+      "sha256": "501180e71e67398ec0b03f88533326bdb2e5e94d37e43021565ee5d08d6aeae2"
+    },
+    {
+      "file": "scripts/final-copy-adjustments.mjs",
+      "sha256": "c4fac608311897aba0fdf80c2f5d9792775aeff8d12fad6d6391ef6885682787"
+    },
+    {
+      "file": "scripts/finish-brand-copy.mjs",
+      "sha256": "663a7bc77bffd5f6f22ff8c2e4a511c8723d2b10a8c320a07105ea87ffc953d8"
+    },
+    {
+      "file": "scripts/finish-footer-pages.mjs",
+      "sha256": "28bb9a66582e6c9af3a695fdf688f2a022615ecad6228123c80d12cb8986f4ef"
+    },
+    {
+      "file": "scripts/fix-local-reading-load.mjs",
+      "sha256": "736057a74c2fb9555c765e14ac7d43901ec83d2671f4da8430bb8421edeb021b"
+    },
+    {
+      "file": "scripts/fix-sidebar-cascade.mjs",
+      "sha256": "8cdf69a2a728cb07fe0054c55d07d8b122d7a8a39d6b796cedd39db1cad663e5"
+    },
+    {
+      "file": "scripts/group-footer-links.mjs",
+      "sha256": "c9f7ecd491e69d0e780b3fab8fe3ca58917c9a6a8b11c95fa687cf2073adbb21"
+    },
+    {
+      "file": "scripts/improve-mobile-tables.mjs",
+      "sha256": "c13142717689f354f06378cdd148cbc9ad7e9ad207d30f66cbee9154a9ace181"
+    },
+    {
+      "file": "scripts/optimize-brands.mjs",
+      "sha256": "af31dbac0dce2695d1ea5c6f1f09aeae99bc0d2d7893a13da3de3135ab912827"
+    },
+    {
+      "file": "scripts/package-brand-manifest.mjs",
+      "sha256": "fad409924c24d7cbf31ec9febd3f0925481d30a49216f2525fe1c046efe7e047"
+    },
+    {
+      "file": "scripts/rebrand-airport-manual.mjs",
+      "sha256": "7f4c8c24f814fb66175c90ed7a1161ab834c62dca8d3ca694f0f847e8803d94d"
+    },
+    {
+      "file": "scripts/record-final-browser-checks.mjs",
+      "sha256": "e28eeca68d02490a86e2f1e135d11d8b772b0d0211709c8d549107b626c7fea3"
+    },
+    {
+      "file": "scripts/report-brand-optimization.mjs",
+      "sha256": "d7882ef4c4dfefa26715700b11b40ca72643edee9d7982f5bf7fbb53ff83b245"
+    },
+    {
+      "file": "scripts/report-footer-update.mjs",
+      "sha256": "18126ddfb832f78c89fc2af338ccb56b241e78f7f28b1c0b2c23733589e35958"
+    },
+    {
+      "file": "scripts/report-rebrand.mjs",
+      "sha256": "fec9d72dfc5736c9ba10d0986ae306aa2bcf6e3b793a5e78a47d7d9bc99e1e78"
+    },
+    {
+      "file": "scripts/sync-catalog.mjs",
+      "sha256": "addb4cb59046e47327012ef3be14c85dd938f9fbe66d0a52690c3311458eed8b"
+    },
+    {
+      "file": "scripts/sync-faq.mjs",
+      "sha256": "512d56f69cfbb9775e365d16cf366f03bd427c6a55a488545204bf33fe2392d6"
+    },
+    {
+      "file": "scripts/update-footer-pages.mjs",
+      "sha256": "38c1705103a7a60f724a108eff1eff05645024eb40911159b7e2d4d8f0b1b210"
+    },
+    {
+      "file": "scripts/update-rebrand-checks.mjs",
+      "sha256": "5f34a7fc157290cd3b8cbbf41254f0232f619ba19f7a1574569a6d6885b151c7"
+    },
+    {
+      "file": "scripts/verify-brand-optimization.mjs",
+      "sha256": "b96712a4e3836d47bc39d9242199480b915cbf3f2662fef05b1ad7fb0c633817"
+    },
+    {
+      "file": "scripts/verify-footer.mjs",
+      "sha256": "d637fa710535d3e78db99418f5199f63056363479f2e3d169e421922cc9774c0"
+    },
+    {
+      "file": "scripts/verify-rebrand.mjs",
+      "sha256": "5d3a30a08ab2b7f74edfd82e54cec650032486fa34b55aee993c70b7a4d55a1e"
+    },
+    {
+      "file": "scripts/verify-review-header.mjs",
+      "sha256": "aeaea699f910682ca0893690b68b3674c394b2821b94d4b02989c3ed5924e3d1"
+    },
+    {
+      "file": "scripts/verify.mjs",
+      "sha256": "d75ef2c8419572e5610f754e90ecfcc5186c1bb157b29d8ffd04826d552d5137"
+    },
+    {
+      "file": "scripts/write-brand-guides.mjs",
+      "sha256": "2e9e79c1f37a1486fcad29eb19a5e2b1b382c9d84232944c820fe918b0890294"
+    },
+    {
+      "file": "static/_headers",
+      "sha256": "298f97754a2053aa779e1d86968504311b960fa5cb94c117f6b11846d327a73d"
+    },
+    {
+      "file": "static/favicon.svg",
+      "sha256": "306e15840d99553321311bf4907fa0b6ea9c5b6b0d559dbbc1c9f6d647b1e846"
+    },
+    {
+      "file": "static/manual.css",
+      "sha256": "15345f9ba6775dc33330fc97245d5ed30b5845b438aa592c10227d56e0486970"
+    },
+    {
+      "file": "static/manual.js",
+      "sha256": "bcb247d3659c05de654fba00ff5caee94d45f33309763aff2da016fe44c33726"
+    },
+    {
+      "file": "static/personal.js",
+      "sha256": "e19ab6509414ce1c078db55975f8de6d0076b77c92e0362c7da96c84c99eb4fd"
+    },
+    {
+      "file": "static/robots.txt",
+      "sha256": "825cee0be95aa6de7d86060a55c0af7425094b27c6c9d0172df227c278697430"
+    },
+    {
+      "file": "static/search-core.js",
+      "sha256": "0bf82824d491f39faf16f413cf0f10d0d6dedb0d395086937ac3ed1526294aeb"
+    }
+  ]
+}

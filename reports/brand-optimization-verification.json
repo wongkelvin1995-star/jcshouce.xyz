@@ -1,0 +1,837 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-14T03:49:25.516Z",
+  "brandCount": 29,
+  "uniqueOriginalURLs": 29,
+  "referencePlanRows": 112,
+  "currentOfficialPlanVerified": 0,
+  "sourceBackedReferencePlans": 112,
+  "faqQuestions": 174,
+  "allArticleCharactersIn1500to2000": true,
+  "localResourcesChecked": 930,
+  "obsoletePublicDateColumns": 0,
+  "authorizedEntriesExact": 29,
+  "deploymentConfigUnchanged": true,
+  "searches": {
+    "飞猫": [
+      "/reviews/flycat/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/recommendations/evidence/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/archives/",
+      "/reviews/yuzhou/",
+      "/site-map/",
+      "/"
+    ],
+    "大佬": [
+      "/reviews/dalaoyun/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/recommendations/evidence/",
+      "/recommendations/",
+      "/reviews/lightspeed/",
+      "/reviews/",
+      "/providers/",
+      "/archives/",
+      "/site-map/",
+      "/"
+    ],
+    "微风": [
+      "/reviews/breezenet/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/recommendations/evidence/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/archives/",
+      "/site-map/",
+      "/"
+    ],
+    "年付": [
+      "/reviews/flycat/",
+      "/reviews/breezenet/",
+      "/reviews/wavenet/",
+      "/reviews/lingmao/",
+      "/plans/payment-cycle/",
+      "/reviews/dalaoyun/",
+      "/reviews/flyv/",
+      "/reviews/yuzhou/",
+      "/reviews/flashleap/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/recommendations/evidence/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/faq/",
+      "/archives/",
+      "/site-map/",
+      "/"
+    ],
+    "Flicker": [
+      "/reviews/flashleap/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/archives/",
+      "/"
+    ],
+    "星耀版": [
+      "/reviews/flycat/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/recommendations/evidence/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/"
+    ],
+    "25元": [
+      "/reviews/flycat/",
+      "/reviews/flyv/",
+      "/reviews/xingdaomeng/",
+      "/reviews/yuzhou/",
+      "/reviews/trustedcloud/",
+      "/reviews/sujie/",
+      "/reviews/laddercloud/",
+      "/reviews/sogo/",
+      "/reviews/lingmao/",
+      "/reviews/firefly/",
+      "/reviews/breezenet/"
+    ],
+    "150GB": [
+      "/reviews/flycat/",
+      "/reviews/flyv/",
+      "/reviews/xingdaomeng/",
+      "/reviews/v2cloud/",
+      "/reviews/sogo/",
+      "/reviews/1fly/",
+      "/reviews/trustedcloud/",
+      "/reviews/lingmao/",
+      "/reviews/flashleap/",
+      "/reviews/firefly/",
+      "/recommendations/beginner/",
+      "/recommendations/budget/",
+      "/recommendations/multi-device/",
+      "/recommendations/ai/",
+      "/recommendations/streaming/",
+      "/reviews/laddercloud/",
+      "/recommendations/evidence/",
+      "/reviews/invisible/",
+      "/recommendations/",
+      "/reviews/",
+      "/providers/",
+      "/reviews/jilian/",
+      "/reviews/kuaili/",
+      "/reviews/wuyou/",
+      "/"
+    ],
+    "无忧链接": [
+      "/reviews/wuyou/"
+    ],
+    "FlashLeep": [
+      "/reviews/flashleap/"
+    ],
+    "飞猫芸": [
+      "/reviews/flycat/"
+    ]
+  },
+  "mappings": [
+    {
+      "name": "灵动云",
+      "id": "lingdong",
+      "url": "/reviews/lingdong/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1919,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/lingdong/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "暮光加速",
+      "id": "twilight",
+      "url": "/reviews/twilight/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1948,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/twilight/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "飞猫云",
+      "id": "flycat",
+      "url": "/reviews/flycat/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 6,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1547,
+      "faqQuestions": 6,
+      "sourceURLs": [],
+      "conflicts": [
+        "参考站显示15元100GB、28元200GB及0元1000GB，与用户资料不同；同页设备数与不限设备互相矛盾，不采用该站价目。",
+        "定制套餐550元/月500GB：是否在售未确认，暂不发布。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "大佬云",
+      "id": "dalaoyun",
+      "url": "/reviews/dalaoyun/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 5,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1537,
+      "faqQuestions": 6,
+      "sourceURLs": [],
+      "conflicts": [
+        "初云·入门版23元/月，120GB与130GB冲突，整档暂不发布。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "微风网络 Breezenet",
+      "id": "breezenet",
+      "url": "/reviews/breezenet/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 6,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1535,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://breezenetwork.my/"
+      ],
+      "conflicts": [
+        "旧资料乘风/破风/御风25/55/125元，新参考页27/57/127元；保留旧版本，前台仅标参考价。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "梯子云 LadderCloud",
+      "id": "laddercloud",
+      "url": "/reviews/laddercloud/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1911,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/laddercloud/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "隐形人",
+      "id": "invisible",
+      "url": "/reviews/invisible/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1912,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/invisible/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "浪网 WaveNet",
+      "id": "wavenet",
+      "url": "/reviews/wavenet/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1953,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/wavenet/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "飞V",
+      "id": "flyv",
+      "url": "/reviews/flyv/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 7,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1531,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://jichangnode.wiki/brands/flyv/"
+      ],
+      "conflicts": [
+        "商业方案190元/月，1843GB与1.84TB/1.8TB表述冲突，整档暂不发布。",
+        "年付65GB重置周期存在分歧，展示额度但不按月计算。",
+        "原生IP黄金专线600元/月500GB：在售与权益未核实，不发布。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "星岛梦 StarDream",
+      "id": "xingdaomeng",
+      "url": "/reviews/xingdaomeng/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1936,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/xingdaomeng/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "光速云 LightSpeed",
+      "id": "lightspeed",
+      "url": "/reviews/lightspeed/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1937,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/lightspeed/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "唯兔云（V2云）",
+      "id": "v2cloud",
+      "url": "/reviews/v2cloud/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1943,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/v2cloud/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "U1S1（有一说一）",
+      "id": "u1s1",
+      "url": "/reviews/u1s1/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1914,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/u1s1/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "极连云",
+      "id": "jilian",
+      "url": "/reviews/jilian/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1921,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/jilian/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "全球云",
+      "id": "globalcloud",
+      "url": "/reviews/globalcloud/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1932,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/globalcloud/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "光年梯",
+      "id": "lightyear",
+      "url": "/reviews/lightyear/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1903,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/lightyear/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "Sogo云",
+      "id": "sogo",
+      "url": "/reviews/sogo/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1901,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/sogo/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "宇宙云 YuZhou",
+      "id": "yuzhou",
+      "url": "/reviews/yuzhou/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1519,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://yuzouyun.sbs/"
+      ],
+      "conflicts": [
+        "旧25元160GB、50元300GB、100元700GB与新参考页120GB/240GB不同；保留旧版本，不作为现价。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "二猫云 2mao",
+      "id": "2mao",
+      "url": "/reviews/2mao/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1927,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/2mao/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "一翻云 1fly",
+      "id": "1fly",
+      "url": "/reviews/1fly/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1924,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/1fly/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "边缘节点 EdgeNova",
+      "id": "edgenova",
+      "url": "/reviews/edgenova/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1959,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/edgenova/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "可信云",
+      "id": "trustedcloud",
+      "url": "/reviews/trustedcloud/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1935,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/trustedcloud/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "速界 SuJie",
+      "id": "sujie",
+      "url": "/reviews/sujie/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1915,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/sujie/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "快狸 KuaiLi",
+      "id": "kuaili",
+      "url": "/reviews/kuaili/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1915,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/kuaili/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "无忧",
+      "id": "wuyou",
+      "url": "/reviews/wuyou/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1927,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/wuyou/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "灵猫",
+      "id": "lingmao",
+      "url": "/reviews/lingmao/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1935,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/lingmao/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "闪跃 FlashLeap",
+      "id": "flashleap",
+      "url": "/reviews/flashleap/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 16,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1539,
+      "faqQuestions": 6,
+      "sourceURLs": [],
+      "conflicts": [
+        "Leap年付422与442元冲突，年付版本不发布；月/季/半年保留。",
+        "参考网站仅明确支持24元150GB档，其他付款周期来源为用户参考套餐。"
+      ],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "飞为 Firefly",
+      "id": "firefly",
+      "url": "/reviews/firefly/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1915,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/firefly/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    },
+    {
+      "name": "跨界",
+      "id": "kuajie",
+      "url": "/reviews/kuajie/",
+      "articleExists": true,
+      "entryExact": true,
+      "referencePlanRows": 3,
+      "currentOfficialPlanComplete": false,
+      "hanCharacters": 1918,
+      "faqQuestions": 6,
+      "sourceURLs": [
+        "https://feidujc.com/airports/kuajie/"
+      ],
+      "conflicts": [],
+      "missing": [
+        "现售套餐完整清单与正式名称",
+        "节点地区与各地区线路",
+        "订阅格式和客户端版本",
+        "设备/速率/倍率限制",
+        "重置日期及结转规则",
+        "退款与服务期限"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "机场手册",
+  "englishBrand": "Airport Manual",
+  "domain": "https://jcshouce.xyz/",
+  "slogan": "从第一步开始，把机场使用讲清楚。",
+  "primaryKeywords": [
+    "机场手册",
+    "机场套餐",
+    "机场价格",
+    "机场介绍",
+    "科学上网使用指南",
+    "客户端教程",
+    "订阅导入教程",
+    "线路说明",
+    "流量套餐"
+  ],
+  "priorityBasis": "待Search Console展现、点击与搜索意图数据，不宣称高点击率",
+  "plannedArticles": 95,
+  "faqQuestions": 100,
+  "providerPages": 29,
+  "navigationSource": "data/navigation.json",
+  "tutorialSource": "data/tutorials.json",
+  "airportSource": "data/airports/*.json",
+  "reviewPages": 29,
+  "regularTutorialAndSelectionArticles": 66
+}

@@ -1,0 +1,1 @@
+{{ $pages := .RegularPages.ByWeight }}{{ if in (slice "reviews" "providers") .Section }}{{ $pages = slice }}{{ range sort hugo.Data.airports "order" }}{{ with $.Site.GetPage (printf "/%s/%s" $.Section .id) }}{{ $pages = $pages | append . }}{{ end }}{{ end }}{{ end }}{{ return $pages }}

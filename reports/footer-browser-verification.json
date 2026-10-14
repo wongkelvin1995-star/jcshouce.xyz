@@ -1,0 +1,30 @@
+{
+  "result": "PASS",
+  "testedViewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "footerRows": 1
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "footerRows": 2
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "footerRows": 2
+    }
+  ],
+  "allSixFooterLabelsPresent": true,
+  "allFiveFooterDestinationsClicked": true,
+  "pagesHaveRealContent": true,
+  "wholePageHorizontalOverflow": false,
+  "bookmarkAddReloadAccountViewPassed": true,
+  "historyRecordedPassed": true,
+  "bookmarkAndHistoryRemoveReloadPassed": true,
+  "onlyAgentCreatedTestRecordsRemoved": true,
+  "javascriptErrors": [],
+  "viewportRestored": true
+}

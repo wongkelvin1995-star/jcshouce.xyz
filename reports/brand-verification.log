@@ -1,0 +1,28 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-13T11:57:50.450Z",
+  "brandCount": 29,
+  "uniqueOriginalURLs": 29,
+  "referencePlanRows": 112,
+  "currentOfficialPlanVerified": 0,
+  "sourceBackedReferencePlans": 112,
+  "faqQuestions": 174,
+  "allArticleCharactersIn1500to2000": true,
+  "localResourcesChecked": 755,
+  "obsoletePublicDateColumns": 0,
+  "authorizedEntriesExact": 29,
+  "deploymentConfigUnchanged": true,
+  "searches": {
+    "飞猫": 13,
+    "大佬": 13,
+    "微风": 12,
+    "年付": 21,
+    "Flicker": 6,
+    "星耀版": 11,
+    "25元": 11,
+    "150GB": 25,
+    "无忧链接": 1,
+    "FlashLeep": 1,
+    "飞猫芸": 1
+  }
+}

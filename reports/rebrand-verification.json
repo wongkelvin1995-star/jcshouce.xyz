@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-14T03:49:26.064Z",
+  "publicPagesChecked": 154,
+  "homepageTitle": "机场手册｜机场介绍、套餐价格与客户端使用指南",
+  "homepageDescription": "机场手册提供机场品牌介绍、套餐价格比较、节点线路说明、客户端安装教程和常见问题解答，帮助读者了解机场服务并选择适合的使用方案。",
+  "publicOldBrandOccurrences": 0,
+  "routesUnchanged": 154,
+  "protectedFilesByteIdentical": 94,
+  "siteConfigOnlyTitleChanged": true,
+  "articleAndAirportDataUnchanged": true,
+  "stylesAndExistingFunctionScriptsUnchanged": true,
+  "webSiteSchema": true,
+  "twitterCard": true,
+  "searchNewBrand": true,
+  "localReadingStorageKeyPreserved": true
+}

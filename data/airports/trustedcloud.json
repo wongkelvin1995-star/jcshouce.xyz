@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "id": "trustedcloud",
+  "name": "可信云",
+  "englishName": "Trusted Cloud",
+  "aliases": [
+    "可信云",
+    "Trusted Cloud"
+  ],
+  "pinyin": "kexinyun",
+  "order": 22,
+  "plans": [
+    {
+      "name": "月付 60GB/月",
+      "price": 15,
+      "currency": "CNY",
+      "priceLabel": "¥15/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 60,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "60GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "trustedcloud",
+      "airportName": "可信云",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/trustedcloud/",
+      "sourceSnapshot": "docs/evidence/source-trustedcloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 150GB/月",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 150,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "150GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "trustedcloud",
+      "airportName": "可信云",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/trustedcloud/",
+      "sourceSnapshot": "docs/evidence/source-trustedcloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 300GB/月",
+      "price": 50,
+      "currency": "CNY",
+      "priceLabel": "¥50/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "trustedcloud",
+      "airportName": "可信云",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/trustedcloud/",
+      "sourceSnapshot": "docs/evidence/source-trustedcloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    }
+  ],
+  "lineTypes": [
+    "优化线路"
+  ],
+  "protocols": [],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/trustedcloud/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-trustedcloud.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_only",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+    "entrySnapshot": "docs/evidence/official-trustedcloud.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "trustedcloud",
+      "url": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://work.kosingaff.com/",
+      "title": "可信云 线路检测",
+      "bytes": 891,
+      "checkedAt": "2026-10-13T10:24:10.553Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/trustedcloud.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "可信云",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 15,
+      "currency": "CNY",
+      "priceLabel": "¥15/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 60,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "60GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档月预算 15.00 元，配额 60GB/月，适合先用小额周期观察真实消耗。若用量已接近 60GB，临时下载的余量不足，不宜只凭低支出选择。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 150,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "150GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 10.00 元，月配额增加 90GB。需求超过 60GB 而不超过 150GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 50,
+      "currency": "CNY",
+      "priceLabel": "¥50/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价没有降低，升级主要解决容量需求。"
+    }
+  ],
+  "dataConflicts": [],
+  "brandFAQ": [
+    [
+      "如何理解可信云的¥15/月方案？",
+      "这一参考规格对应60GB/月，付款安排为月付。价格和配额周期分开阅读，不能只按最小付款金额推断一年总支出；重置日期、有效期和剩余额度处理也需要分别确认。"
+    ],
+    [
+      "可信云的300GB/月大档适合什么需求？",
+      "这档参考金额¥50/月。先用自己的代表周期消耗与300GB比较，再估计视频或下载的余量。容量扩大不能推出设备数量增加，也不能证明高峰期吞吐更好。"
+    ],
+    [
+      "可信云能按单位流量判断是否值得买吗？",
+      "参考月档从¥15/月、60GB/月到¥50/月、300GB/月。同币种和同周期下才能比较资源成本，倍率、设备与服务条款仍会影响实际消耗。"
+    ],
+    [
+      "可信云的优化线路名称能证明体验吗？",
+      "不能。线路名称是服务说明的一部分，实际路径、跨网条件和节点负载是不同层面。没有对应时间、网络和方法的原始数据时，不据此生成速度评分或稳定性排名。"
+    ],
+    [
+      "Trusted Cloud名称应如何用于查找订阅？",
+      "确认账户属于可信云，将配置保存在独立品牌分组。相似名称不代表共享账户或套餐；订阅链接与推广注册入口用途不同，不能互换。"
+    ],
+    [
+      "可信云的套餐升级能解决导入失败吗？",
+      "先检查完整订阅URL、客户端格式和内核版本。额度不足与解析失败是不同问题，单纯支付更高价套餐不会修复无效配置；保留可用配置，再按订阅教程逐步排查。"
+    ]
+  ]
+}

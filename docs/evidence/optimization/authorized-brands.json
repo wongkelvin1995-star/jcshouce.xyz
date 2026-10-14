@@ -1,0 +1,176 @@
+[
+  {
+    "id": "lingdong",
+    "name": "灵动云",
+    "order": 1,
+    "affiliateURL": "https://varnexa.lingdongaff.com/#/?code=HHoxxHGa"
+  },
+  {
+    "id": "twilight",
+    "name": "暮光加速",
+    "order": 2,
+    "affiliateURL": "https://varnexa.twilightaff.com/#/?code=rkRvrsRc"
+  },
+  {
+    "id": "flycat",
+    "name": "飞猫云",
+    "order": 3,
+    "affiliateURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+  },
+  {
+    "id": "dalaoyun",
+    "name": "大佬云",
+    "order": 4,
+    "affiliateURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+  },
+  {
+    "id": "breezenet",
+    "name": "微风网络 Breezenet",
+    "order": 5,
+    "affiliateURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+  },
+  {
+    "id": "laddercloud",
+    "name": "梯子云 LadderCloud",
+    "order": 6,
+    "affiliateURL": "https://varnexa.ladderaff.com/#/?code=NSTRhs22"
+  },
+  {
+    "id": "invisible",
+    "name": "隐形人",
+    "order": 7,
+    "affiliateURL": "https://varnexa.invisibleaff.com/#/?code=PoecAA0c"
+  },
+  {
+    "id": "wavenet",
+    "name": "浪网 WaveNet",
+    "order": 8,
+    "affiliateURL": "https://varnexa.wavenetaff.com/#/?code=Thua5OyI"
+  },
+  {
+    "id": "flyv",
+    "name": "飞V",
+    "order": 9,
+    "affiliateURL": "https://varnexa.flyvaff.com/#/?code=1mq17Z8C"
+  },
+  {
+    "id": "xingdaomeng",
+    "name": "星岛梦 StarDream",
+    "order": 10,
+    "affiliateURL": "https://kfccbb.xingdaomeng.com/#/?code=8OfXD5OF"
+  },
+  {
+    "id": "lightspeed",
+    "name": "光速云 LightSpeed",
+    "order": 11,
+    "affiliateURL": "https://mdlky.gsyaff.com/#/?code=F7n0RNQb"
+  },
+  {
+    "id": "v2cloud",
+    "name": "唯兔云（V2云）",
+    "order": 12,
+    "affiliateURL": "https://fast.v2yunvipaff.com/#/?code=sZt4VRYd"
+  },
+  {
+    "id": "u1s1",
+    "name": "U1S1（有一说一）",
+    "order": 13,
+    "affiliateURL": "https://pkdj7.vipaff.cc/#/?code=fRPgEjR9"
+  },
+  {
+    "id": "jilian",
+    "name": "极连云",
+    "order": 14,
+    "affiliateURL": "https://kdjhao.jlyvipaff.com/#/?code=CLXGwx9n"
+  },
+  {
+    "id": "globalcloud",
+    "name": "全球云",
+    "order": 15,
+    "affiliateURL": "https://sswdh.gcvipaff.com/#/?code=cFVyXgfb"
+  },
+  {
+    "id": "lightyear",
+    "name": "光年梯",
+    "order": 16,
+    "affiliateURL": "https://ggmq.gntaff.com/#/?code=ntDL4Jt7"
+  },
+  {
+    "id": "sogo",
+    "name": "Sogo云",
+    "order": 17,
+    "affiliateURL": "https://wzjc.sogoyunaff.cc/#/?code=EJx2Kerr"
+  },
+  {
+    "id": "yuzhou",
+    "name": "宇宙云 YuZhou",
+    "order": 18,
+    "affiliateURL": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs"
+  },
+  {
+    "id": "2mao",
+    "name": "二猫云 2mao",
+    "order": 19,
+    "affiliateURL": "https://waaa.2maoyunaff.cc/#/?code=eWzdVBUV"
+  },
+  {
+    "id": "1fly",
+    "name": "一翻云 1fly",
+    "order": 20,
+    "affiliateURL": "https://wzjc.1flyunaff.cc/#/?code=6kvuXWSh"
+  },
+  {
+    "id": "edgenova",
+    "name": "边缘节点 EdgeNova",
+    "order": 21,
+    "affiliateURL": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6"
+  },
+  {
+    "id": "trustedcloud",
+    "name": "可信云",
+    "order": 22,
+    "affiliateURL": "https://work.kosingaff.com/#/?code=Ho0l8Dcm"
+  },
+  {
+    "id": "sujie",
+    "name": "速界 SuJie",
+    "order": 23,
+    "affiliateURL": "https://work.speedworldaff.cc/#/?code=sRNgp64F"
+  },
+  {
+    "id": "kuaili",
+    "name": "快狸 KuaiLi",
+    "order": 24,
+    "affiliateURL": "https://work.kuailicloud.cc/#/?code=Tmt2KQBn"
+  },
+  {
+    "id": "wuyou",
+    "name": "无忧",
+    "order": 25,
+    "affiliateURL": "https://wep01.worryfreeaff.com/#/?code=6KQS8Ked"
+  },
+  {
+    "id": "lingmao",
+    "name": "灵猫",
+    "order": 26,
+    "affiliateURL": "https://vip02.civetaff.com/#/?code=oL5LiBYi"
+  },
+  {
+    "id": "flashleap",
+    "name": "闪跃 FlashLeap",
+    "order": 27,
+    "affiliateURL": "https://vip02.flashleapaff.com/#/?code=mS7mSSyk"
+  },
+  {
+    "id": "firefly",
+    "name": "飞为 Firefly",
+    "order": 28,
+    "affiliateURL": "https://vip02.fireflyaff.com/#/?code=ChuJcdvd"
+  },
+  {
+    "id": "kuajie",
+    "name": "跨界",
+    "order": 29,
+    "affiliateURL": "https://vip02.kuajieaff.com/#/?code=tpRqrYXx"
+  }
+]

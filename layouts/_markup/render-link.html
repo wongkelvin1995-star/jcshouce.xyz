@@ -1,0 +1,1 @@
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if or (in .Destination "aff.com") (in .Destination "code=") }} rel="sponsored nofollow noopener"{{ else if strings.HasPrefix .Destination "https://" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>

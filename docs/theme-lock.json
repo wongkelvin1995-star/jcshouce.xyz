@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/alex-shpak/hugo-book",
+  "commit": "d8ace5aa6c27d0eeea7d20d36f2b47f87536c9b8",
+  "hugo": "0.167.0",
+  "install": "vendored immutable upstream; customizations only in layouts and static"
+}

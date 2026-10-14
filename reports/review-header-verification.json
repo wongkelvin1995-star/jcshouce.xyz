@@ -1,0 +1,166 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-13T09:20:14.213Z",
+  "reviewPages": 29,
+  "newReviewPages": 23,
+  "distinctReviewTargets": 29,
+  "headerIcons": [
+    "搜索",
+    "Telegram"
+  ],
+  "telegram": "https://t.me/+7J7nWmMUSbFhMzY1",
+  "sourceFilesByteIdentical": 29,
+  "deploymentConfigUnchanged": true,
+  "obsoleteTableLabels": false,
+  "reviewHanCharacters": {
+    "min": 1555,
+    "max": 1632
+  },
+  "mapping": [
+    {
+      "name": "灵动云",
+      "id": "lingdong",
+      "url": "/reviews/lingdong/"
+    },
+    {
+      "name": "暮光加速",
+      "id": "twilight",
+      "url": "/reviews/twilight/"
+    },
+    {
+      "name": "梯子云LadderCloud",
+      "id": "laddercloud",
+      "url": "/reviews/laddercloud/"
+    },
+    {
+      "name": "隐形人",
+      "id": "invisible",
+      "url": "/reviews/invisible/"
+    },
+    {
+      "name": "浪网WaveNet",
+      "id": "wavenet",
+      "url": "/reviews/wavenet/"
+    },
+    {
+      "name": "飞V",
+      "id": "flyv",
+      "url": "/reviews/flyv/"
+    },
+    {
+      "name": "飞猫云",
+      "id": "flycat",
+      "url": "/reviews/flycat/"
+    },
+    {
+      "name": "大佬云",
+      "id": "dalaoyun",
+      "url": "/reviews/dalaoyun/"
+    },
+    {
+      "name": "微风网络",
+      "id": "breezenet",
+      "url": "/reviews/breezenet/"
+    },
+    {
+      "name": "全球云",
+      "id": "globalcloud",
+      "url": "/reviews/globalcloud/"
+    },
+    {
+      "name": "星岛梦",
+      "id": "xingdaomeng",
+      "url": "/reviews/xingdaomeng/"
+    },
+    {
+      "name": "光速云",
+      "id": "lightspeed",
+      "url": "/reviews/lightspeed/"
+    },
+    {
+      "name": "唯兔云",
+      "id": "v2cloud",
+      "url": "/reviews/v2cloud/"
+    },
+    {
+      "name": "U1S1",
+      "id": "u1s1",
+      "url": "/reviews/u1s1/"
+    },
+    {
+      "name": "极连云",
+      "id": "jilian",
+      "url": "/reviews/jilian/"
+    },
+    {
+      "name": "光年梯",
+      "id": "lightyear",
+      "url": "/reviews/lightyear/"
+    },
+    {
+      "name": "Sogo云",
+      "id": "sogo",
+      "url": "/reviews/sogo/"
+    },
+    {
+      "name": "宇宙云",
+      "id": "yuzhou",
+      "url": "/reviews/yuzhou/"
+    },
+    {
+      "name": "二猫云",
+      "id": "2mao",
+      "url": "/reviews/2mao/"
+    },
+    {
+      "name": "一翻云",
+      "id": "1fly",
+      "url": "/reviews/1fly/"
+    },
+    {
+      "name": "边缘节点",
+      "id": "edgenova",
+      "url": "/reviews/edgenova/"
+    },
+    {
+      "name": "可信云",
+      "id": "trustedcloud",
+      "url": "/reviews/trustedcloud/"
+    },
+    {
+      "name": "速界",
+      "id": "sujie",
+      "url": "/reviews/sujie/"
+    },
+    {
+      "name": "快狸",
+      "id": "kuaili",
+      "url": "/reviews/kuaili/"
+    },
+    {
+      "name": "无忧",
+      "id": "wuyou",
+      "url": "/reviews/wuyou/"
+    },
+    {
+      "name": "灵猫",
+      "id": "lingmao",
+      "url": "/reviews/lingmao/"
+    },
+    {
+      "name": "闪跃",
+      "id": "flashleap",
+      "url": "/reviews/flashleap/"
+    },
+    {
+      "name": "飞为",
+      "id": "firefly",
+      "url": "/reviews/firefly/"
+    },
+    {
+      "name": "跨界云",
+      "id": "kuajie",
+      "url": "/reviews/kuajie/"
+    }
+  ]
+}

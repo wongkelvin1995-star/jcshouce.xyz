@@ -1,0 +1,25 @@
+{
+  "result": "PASS",
+  "date": "2026-10-14",
+  "testedViewports": [
+    {
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "width": 320,
+      "height": 740
+    }
+  ],
+  "homepageTitle": "机场手册｜机场介绍、套餐价格与客户端使用指南",
+  "sidebarSubtitle": "机场介绍 · 套餐指南 · 客户端教程",
+  "oldVisibleBrand": false,
+  "horizontalOverflow": false,
+  "searchDialogTitle": "搜索机场手册",
+  "newBrandSearchResults": 5,
+  "mobileHeaderHeight": 64,
+  "headerIcons": 2,
+  "background": "#F7F3EC",
+  "javascriptErrors": [],
+  "viewportRestored": true
+}

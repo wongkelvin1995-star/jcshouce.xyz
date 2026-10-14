@@ -1,0 +1,30 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-14T03:49:25.778Z",
+  "footerPagesChecked": 154,
+  "footerLabels": [
+    "TG 交流入口",
+    "编辑",
+    "关于本站",
+    "个人中心",
+    "站点地图",
+    "域名"
+  ],
+  "pages": [
+    "/editor/",
+    "/about/",
+    "/account/",
+    "/site-map/",
+    "/domain/"
+  ],
+  "sitemapURLs": 115,
+  "allFivePagesInSitemap": true,
+  "brandArticlesInSiteMap": 29,
+  "brandDataUnchanged": true,
+  "deploymentSettingsUnchanged": true,
+  "siteTitleChangeAuthorized": true,
+  "productionTestDomains": false,
+  "localStorageRefusalHandled": true,
+  "corruptStorageHandled": true,
+  "bookmarkAddRemovePassed": true
+}

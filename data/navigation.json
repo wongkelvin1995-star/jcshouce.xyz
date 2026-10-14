@@ -1,0 +1,82 @@
+[
+  {
+    "number": "封面",
+    "title": "首页",
+    "path": "/"
+  },
+  {
+    "number": "00",
+    "title": "开始阅读",
+    "path": "/start/"
+  },
+  {
+    "number": "01",
+    "title": "第一章：认识机场",
+    "path": "/basics/"
+  },
+  {
+    "number": "02",
+    "title": "第二章：选择套餐",
+    "path": "/plans/"
+  },
+  {
+    "number": "03",
+    "title": "第三章：安装客户端",
+    "path": "/install/"
+  },
+  {
+    "number": "04",
+    "title": "第四章：导入订阅",
+    "path": "/subscription/"
+  },
+  {
+    "number": "05",
+    "title": "第五章：节点与线路",
+    "path": "/nodes/"
+  },
+  {
+    "number": "06",
+    "title": "第六章：连接与设置",
+    "path": "/configuration/"
+  },
+  {
+    "number": "07",
+    "title": "第七章：故障排查",
+    "path": "/troubleshooting/"
+  },
+  {
+    "number": "08",
+    "title": "第八章：安全与避坑",
+    "path": "/safety/"
+  },
+  {
+    "number": "选购",
+    "title": "机场服务与套餐选择",
+    "path": "/recommendations/"
+  },
+  {
+    "number": "品牌",
+    "title": "机场介绍 · 品牌与套餐指南",
+    "path": "/reviews/"
+  },
+  {
+    "number": "速查",
+    "title": "品牌套餐速查",
+    "path": "/providers/"
+  },
+  {
+    "number": "问答",
+    "title": "常见问题",
+    "path": "/faq/"
+  },
+  {
+    "number": "索引",
+    "title": "文章归档",
+    "path": "/archives/"
+  },
+  {
+    "number": "说明",
+    "title": "关于本站",
+    "path": "/about/"
+  }
+]

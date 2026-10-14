@@ -1,0 +1,176 @@
+[
+  {
+    "id": "lingdong",
+    "name": "灵动云",
+    "hanCharacters": 1919,
+    "plans": 3
+  },
+  {
+    "id": "twilight",
+    "name": "暮光加速",
+    "hanCharacters": 1948,
+    "plans": 3
+  },
+  {
+    "id": "flycat",
+    "name": "飞猫云",
+    "hanCharacters": 1547,
+    "plans": 6
+  },
+  {
+    "id": "dalaoyun",
+    "name": "大佬云",
+    "hanCharacters": 1492,
+    "plans": 5
+  },
+  {
+    "id": "breezenet",
+    "name": "微风网络 Breezenet",
+    "hanCharacters": 1499,
+    "plans": 6
+  },
+  {
+    "id": "laddercloud",
+    "name": "梯子云 LadderCloud",
+    "hanCharacters": 1911,
+    "plans": 3
+  },
+  {
+    "id": "invisible",
+    "name": "隐形人",
+    "hanCharacters": 1912,
+    "plans": 3
+  },
+  {
+    "id": "wavenet",
+    "name": "浪网 WaveNet",
+    "hanCharacters": 1953,
+    "plans": 3
+  },
+  {
+    "id": "flyv",
+    "name": "飞V",
+    "hanCharacters": 1494,
+    "plans": 7
+  },
+  {
+    "id": "xingdaomeng",
+    "name": "星岛梦 StarDream",
+    "hanCharacters": 1936,
+    "plans": 3
+  },
+  {
+    "id": "lightspeed",
+    "name": "光速云 LightSpeed",
+    "hanCharacters": 1937,
+    "plans": 3
+  },
+  {
+    "id": "v2cloud",
+    "name": "唯兔云（V2云）",
+    "hanCharacters": 1943,
+    "plans": 3
+  },
+  {
+    "id": "u1s1",
+    "name": "U1S1（有一说一）",
+    "hanCharacters": 1914,
+    "plans": 3
+  },
+  {
+    "id": "jilian",
+    "name": "极连云",
+    "hanCharacters": 1921,
+    "plans": 3
+  },
+  {
+    "id": "globalcloud",
+    "name": "全球云",
+    "hanCharacters": 1932,
+    "plans": 3
+  },
+  {
+    "id": "lightyear",
+    "name": "光年梯",
+    "hanCharacters": 1903,
+    "plans": 3
+  },
+  {
+    "id": "sogo",
+    "name": "Sogo云",
+    "hanCharacters": 1901,
+    "plans": 3
+  },
+  {
+    "id": "yuzhou",
+    "name": "宇宙云 YuZhou",
+    "hanCharacters": 1519,
+    "plans": 3
+  },
+  {
+    "id": "2mao",
+    "name": "二猫云 2mao",
+    "hanCharacters": 1927,
+    "plans": 3
+  },
+  {
+    "id": "1fly",
+    "name": "一翻云 1fly",
+    "hanCharacters": 1924,
+    "plans": 3
+  },
+  {
+    "id": "edgenova",
+    "name": "边缘节点 EdgeNova",
+    "hanCharacters": 1959,
+    "plans": 3
+  },
+  {
+    "id": "trustedcloud",
+    "name": "可信云",
+    "hanCharacters": 1935,
+    "plans": 3
+  },
+  {
+    "id": "sujie",
+    "name": "速界 SuJie",
+    "hanCharacters": 1915,
+    "plans": 3
+  },
+  {
+    "id": "kuaili",
+    "name": "快狸 KuaiLi",
+    "hanCharacters": 1915,
+    "plans": 3
+  },
+  {
+    "id": "wuyou",
+    "name": "无忧",
+    "hanCharacters": 1927,
+    "plans": 3
+  },
+  {
+    "id": "lingmao",
+    "name": "灵猫",
+    "hanCharacters": 1935,
+    "plans": 3
+  },
+  {
+    "id": "flashleap",
+    "name": "闪跃 FlashLeap",
+    "hanCharacters": 1423,
+    "plans": 16
+  },
+  {
+    "id": "firefly",
+    "name": "飞为 Firefly",
+    "hanCharacters": 1915,
+    "plans": 3
+  },
+  {
+    "id": "kuajie",
+    "name": "跨界",
+    "hanCharacters": 1918,
+    "plans": 3
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-13",
+  "change": "移除浅色主题绿色风格，统一中性纸质手册配色",
+  "files": ["assets/styles/custom.css", "static/manual.css", "layouts/_partials/docs/html-head.html", "static/favicon.svg"],
+  "colors": {"page": "#F7F3EC", "sidebar": "#EFE7DC", "toc": "#F4EEE6", "content": "#FBF8F3", "divider": "#D6CCBE", "heading": "#3E3A36", "bodyText": "#4B4742", "secondary": "#6E675F", "link": "#6B5B4D", "linkHover": "#8A745F", "controlBorder": "#CFC3B3", "searchBackground": "#FAF7F2", "backdrop": "rgba(62,58,54,0.55)"},
+  "replacedGreenValues": ["#234D43", "#29332F", "#3E7869", "#5E6C60", "#789B82", "#203d32a8", "#E9F0E8"],
+  "replacedVariables": ["--body-background", "--body-font-color", "--color-link", "--color-visited-link", "--gray-100", "--gray-200", "--gray-500", "--color-accent-*", "--manual-heading", "--manual-ink", "--manual-link", "--manual-muted", "--manual-accent", "--manual-backdrop"],
+  "previousCause": "上一轮仅改变背景，保留绿色标题、链接、正文与提示强调；搜索遮罩和favicon仍有硬编码绿色，整体仍显绿色。此次全套替换并重启预览排除旧页。",
+  "browserVerified": {"desktop": "1440x960 首页三栏、H1/H2/H3、表格、页脚颜色实测匹配", "article": "灵动云资料页正文、面包屑、active导航及提示边线颜色匹配", "mobile": "390x844目录左边界0，侧栏背景EFE7DC", "search": "输入FAF7F2、边框CFC3B3、文字4B4742，Clash结果27条，遮罩为中性咖啡灰", "overflow": "首页scrollWidth与clientWidth相同1425"},
+  "darkTheme": "指定色值只作用于data-theme=light，其它模式继承上游变量",
+  "layoutAndContentChanged": false,
+  "upstreamThemeModified": false,
+  "build": "PASS",
+  "regression": "PASS"
+}

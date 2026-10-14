@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 2,
+  "id": "laddercloud",
+  "name": "梯子云 LadderCloud",
+  "englishName": "LadderCloud",
+  "aliases": [
+    "梯子云",
+    "LadderCloud"
+  ],
+  "pinyin": "tiziyun",
+  "order": 6,
+  "plans": [
+    {
+      "name": "月付 125GB/月",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 125,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "125GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "laddercloud",
+      "airportName": "梯子云 LadderCloud",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/laddercloud/",
+      "sourceSnapshot": "docs/evidence/source-laddercloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 350GB/月",
+      "price": 60,
+      "currency": "CNY",
+      "priceLabel": "¥60/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 350,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "350GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "laddercloud",
+      "airportName": "梯子云 LadderCloud",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/laddercloud/",
+      "sourceSnapshot": "docs/evidence/source-laddercloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 750GB/月",
+      "price": 110,
+      "currency": "CNY",
+      "priceLabel": "¥110/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 750,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "750GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "laddercloud",
+      "airportName": "梯子云 LadderCloud",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/laddercloud/",
+      "sourceSnapshot": "docs/evidence/source-laddercloud.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    }
+  ],
+  "lineTypes": [
+    "IEPL"
+  ],
+  "protocols": [
+    "VLESS"
+  ],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Claude",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Disney+",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/laddercloud/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-laddercloud.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_only",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+    "entrySnapshot": "docs/evidence/official-laddercloud.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "laddercloud",
+      "url": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://varnexa.ladderaff.com/",
+      "title": "梯子云 线路检测",
+      "bytes": 891,
+      "checkedAt": "2026-10-13T10:24:09.480Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/laddercloud.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "梯子云",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 125,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "125GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档月预算 25.00 元，配额 125GB/月，适合先用小额周期观察真实消耗。若用量已接近 125GB，临时下载的余量不足，不宜只凭低支出选择。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 60,
+      "currency": "CNY",
+      "priceLabel": "¥60/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 350,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "350GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 35.00 元，月配额增加 225GB。需求超过 125GB 而不超过 350GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 110,
+      "currency": "CNY",
+      "priceLabel": "¥110/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 750,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "750GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 400GB。需求超过 350GB 而不超过 750GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    }
+  ],
+  "dataConflicts": [],
+  "brandFAQ": [
+    [
+      "如何理解梯子云的¥25/月方案？",
+      "这一参考规格对应125GB/月，付款安排为月付。价格和配额周期分开阅读，不能只按最小付款金额推断一年总支出；重置日期、有效期和剩余额度处理也需要分别确认。"
+    ],
+    [
+      "梯子云的750GB/月大档适合什么需求？",
+      "这档参考金额¥110/月。先用自己的代表周期消耗与750GB比较，再估计视频或下载的余量。容量扩大不能推出设备数量增加，也不能证明高峰期吞吐更好。"
+    ],
+    [
+      "梯子云能按单位流量判断是否值得买吗？",
+      "参考月档从¥25/月、125GB/月到¥110/月、750GB/月。同币种和同周期下才能比较资源成本，倍率、设备与服务条款仍会影响实际消耗。"
+    ],
+    [
+      "梯子云的IEPL名称能证明体验吗？",
+      "不能。线路名称是服务说明的一部分，实际路径、跨网条件和节点负载是不同层面。没有对应时间、网络和方法的原始数据时，不据此生成速度评分或稳定性排名。"
+    ],
+    [
+      "LadderCloud名称应如何用于查找订阅？",
+      "确认账户属于梯子云 LadderCloud，将配置保存在独立品牌分组。相似名称不代表共享账户或套餐；订阅链接与推广注册入口用途不同，不能互换。"
+    ],
+    [
+      "梯子云的套餐升级能解决导入失败吗？",
+      "先检查完整订阅URL、客户端格式和内核版本。额度不足与解析失败是不同问题，单纯支付更高价套餐不会修复无效配置；保留可用配置，再按订阅教程逐步排查。"
+    ]
+  ]
+}

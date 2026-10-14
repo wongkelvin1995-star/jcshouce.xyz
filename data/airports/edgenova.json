@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 2,
+  "id": "edgenova",
+  "name": "边缘节点 EdgeNova",
+  "englishName": "EdgeNova",
+  "aliases": [
+    "边缘节点",
+    "EdgeNova"
+  ],
+  "pinyin": "bianyuanjiedian",
+  "order": 21,
+  "plans": [
+    {
+      "name": "月付 120GB/月",
+      "price": 22,
+      "currency": "CNY",
+      "priceLabel": "¥22/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 120,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "120GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "edgenova",
+      "airportName": "边缘节点 EdgeNova",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/edgenova/",
+      "sourceSnapshot": "docs/evidence/source-edgenova.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 50GB/月",
+      "price": 15,
+      "currency": "CNY",
+      "priceLabel": "¥15/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 50,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "50GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "edgenova",
+      "airportName": "边缘节点 EdgeNova",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/edgenova/",
+      "sourceSnapshot": "docs/evidence/source-edgenova.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    },
+    {
+      "name": "月付 200GB/月",
+      "price": 35,
+      "currency": "CNY",
+      "priceLabel": "¥35/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "200GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "airportID": "edgenova",
+      "airportName": "边缘节点 EdgeNova",
+      "published": true,
+      "formalName": null,
+      "sourceURL": "https://feidujc.com/airports/edgenova/",
+      "sourceSnapshot": "docs/evidence/source-edgenova.html",
+      "sourceReference": "项目已有可追溯价格资料",
+      "verificationStatus": "historical_reference"
+    }
+  ],
+  "lineTypes": [
+    "优化线路"
+  ],
+  "protocols": [],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/edgenova/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-edgenova.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_only",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+    "entrySnapshot": "docs/evidence/official-edgenova.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "edgenova",
+      "url": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://work.edgenovaaff.cc/",
+      "title": "edgenova 线路检测",
+      "bytes": 901,
+      "checkedAt": "2026-10-13T10:24:10.603Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/edgenova.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "边缘节点",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 22,
+      "currency": "CNY",
+      "priceLabel": "¥22/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 120,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "120GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 7.00 元，月配额增加 70GB。需求超过 50GB 而不超过 120GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 15,
+      "currency": "CNY",
+      "priceLabel": "¥15/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 50,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "50GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档月预算 15.00 元，配额 50GB/月，适合先用小额周期观察真实消耗。若用量已接近 50GB，临时下载的余量不足，不宜只凭低支出选择。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 35,
+      "currency": "CNY",
+      "priceLabel": "¥35/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "200GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 13.00 元，月配额增加 80GB。需求超过 120GB 而不超过 200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    }
+  ],
+  "dataConflicts": [],
+  "brandFAQ": [
+    [
+      "如何理解边缘节点的¥22/月方案？",
+      "这一参考规格对应120GB/月，付款安排为月付。价格和配额周期分开阅读，不能只按最小付款金额推断一年总支出；重置日期、有效期和剩余额度处理也需要分别确认。"
+    ],
+    [
+      "边缘节点的200GB/月大档适合什么需求？",
+      "这档参考金额¥35/月。先用自己的代表周期消耗与200GB比较，再估计视频或下载的余量。容量扩大不能推出设备数量增加，也不能证明高峰期吞吐更好。"
+    ],
+    [
+      "边缘节点能按单位流量判断是否值得买吗？",
+      "参考月档从¥22/月、120GB/月到¥35/月、200GB/月。同币种和同周期下才能比较资源成本，倍率、设备与服务条款仍会影响实际消耗。"
+    ],
+    [
+      "边缘节点的优化线路名称能证明体验吗？",
+      "不能。线路名称是服务说明的一部分，实际路径、跨网条件和节点负载是不同层面。没有对应时间、网络和方法的原始数据时，不据此生成速度评分或稳定性排名。"
+    ],
+    [
+      "EdgeNova名称应如何用于查找订阅？",
+      "确认账户属于边缘节点 EdgeNova，将配置保存在独立品牌分组。相似名称不代表共享账户或套餐；订阅链接与推广注册入口用途不同，不能互换。"
+    ],
+    [
+      "边缘节点的套餐升级能解决导入失败吗？",
+      "先检查完整订阅URL、客户端格式和内核版本。额度不足与解析失败是不同问题，单纯支付更高价套餐不会修复无效配置；保留可用配置，再按订阅教程逐步排查。"
+    ]
+  ]
+}

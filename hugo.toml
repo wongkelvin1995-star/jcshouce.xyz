@@ -1,0 +1,26 @@
+baseURL = 'https://jcshouce.xyz/'
+locale = 'zh-CN'
+defaultContentLanguage = 'zh'
+title = '机场手册'
+theme = 'hugo-book'
+enableRobotsTXT = true
+hasCJKLanguage = true
+timeZone = 'Asia/Shanghai'
+[params]
+  BookSection = '*'
+  BookSearch = false
+  BookToC = true
+  BookTheme = 'light'
+  BookComments = false
+  description = '从第一步开始，把机场使用讲清楚。'
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+[markup.goldmark.renderer]
+  unsafe = false
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+[taxonomies]
+[frontmatter]
+  lastmod = ['lastmod', 'date']
+

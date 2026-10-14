@@ -1,0 +1,63 @@
+{
+  "result": "PASS",
+  "executedAt": "2026-10-13T11:54:53.036Z",
+  "testedViewports": [
+    {
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 320,
+      "height": 740
+    }
+  ],
+  "testedPages": [
+    "/recommendations/",
+    "/reviews/flycat/",
+    "/reviews/dalaoyun/",
+    "/"
+  ],
+  "directoryRows": 29,
+  "firstFive": [
+    "lingdong",
+    "twilight",
+    "flycat",
+    "dalaoyun",
+    "breezenet"
+  ],
+  "desktopSearch": {
+    "query": "飞猫",
+    "firstURL": "/reviews/flycat/"
+  },
+  "mobileSearch": {
+    "query": "大佬",
+    "firstURL": "/reviews/dalaoyun/"
+  },
+  "menu": {
+    "open": true,
+    "close": true,
+    "closesAfterNavigation": true,
+    "scrollable": true
+  },
+  "narrowScreen": {
+    "pageHorizontalOverflow": false,
+    "tableScrollableWithinRegion": true,
+    "tableWidth": 380,
+    "regionWidth": 269,
+    "headerHeight": 64
+  },
+  "colors": {
+    "body": "#F7F3EC",
+    "sidebar": "#EFE7DC",
+    "toc": "#F4EEE6",
+    "content": "#FBF8F3",
+    "title": "#3E3A36",
+    "link": "#6B5B4D"
+  },
+  "observedJavaScriptErrors": [],
+  "externalEntryVerification": "29 HTTP responses, 2 browser-rendered entry inspections; no current official plan table verified"
+}

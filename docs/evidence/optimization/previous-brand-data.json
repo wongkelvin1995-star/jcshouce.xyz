@@ -1,0 +1,3824 @@
+{
+  "lingdong": {
+    "schemaVersion": 1,
+    "id": "lingdong",
+    "name": "灵动云",
+    "englishName": "Lingdong Cloud",
+    "aliases": [
+      "灵动",
+      "Lingdong"
+    ],
+    "pinyin": "lingdongyun",
+    "order": 1,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 100,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "100GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.lingdongaff.com/#/?code=vFPRdc1J",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 100GB/月，适合先用小额周期观察真实消耗。若用量已接近 100GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.lingdongaff.com/#/?code=vFPRdc1J",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 200GB。需求超过 100GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 100,
+        "currency": "CNY",
+        "priceLabel": "¥100/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 700,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "700GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.lingdongaff.com/#/?code=vFPRdc1J",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 400GB。需求超过 300GB 而不超过 700GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IPLC"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.lingdongaff.com/#/?code=vFPRdc1J",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/lingdong/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-lingdong.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.lingdongaff.com/#/?code=vFPRdc1J",
+      "entrySnapshot": "docs/evidence/official-lingdong.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/lingdong.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "twilight": {
+    "schemaVersion": 1,
+    "id": "twilight",
+    "name": "暮光加速",
+    "englishName": "Twilight Network",
+    "aliases": [
+      "暮光网络",
+      "暮光",
+      "Twilight"
+    ],
+    "pinyin": "muguangjiasu",
+    "order": 2,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.twilightaff.com/#/?code=X6iVG1Zb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 120GB/月，适合先用小额周期观察真实消耗。若用量已接近 120GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 40,
+        "currency": "CNY",
+        "priceLabel": "¥40/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 240,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "240GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.twilightaff.com/#/?code=X6iVG1Zb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 120GB。需求超过 120GB 而不超过 240GB 时才有明确扩容用途。配额单价没有降低，升级主要解决容量需求。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 100,
+        "currency": "CNY",
+        "priceLabel": "¥100/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 700,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "700GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.twilightaff.com/#/?code=X6iVG1Zb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 60.00 元，月配额增加 460GB。需求超过 240GB 而不超过 700GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "专线",
+      "BGP 优化"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.twilightaff.com/#/?code=X6iVG1Zb",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/twilight/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-twilight.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.twilightaff.com/#/?code=X6iVG1Zb",
+      "entrySnapshot": "docs/evidence/official-twilight.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/twilight.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "flycat": {
+    "schemaVersion": 1,
+    "id": "flycat",
+    "name": "飞猫云",
+    "englishName": "FlyCat",
+    "aliases": [],
+    "pinyin": "feimaoyun",
+    "order": 7,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 84,
+        "currency": "CNY",
+        "priceLabel": "¥84/年",
+        "paymentCycle": "年付",
+        "paymentMonths": 12,
+        "trafficGB": 50,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "50GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档实际一次支付 84 元，月均 7.00 元，每月配额 50GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 18.00 元，月配额增加 100GB。需求超过 50GB 而不超过 150GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 45,
+        "currency": "CNY",
+        "priceLabel": "¥45/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL 专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/flycat/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-flycat.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://s1.fei9sjf.xyz/",
+      "entrySnapshot": "docs/evidence/official-flycat.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/flycat.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "dalaoyun": {
+    "schemaVersion": 1,
+    "id": "dalaoyun",
+    "name": "大佬云",
+    "englishName": "DalaoYun",
+    "aliases": [],
+    "pinyin": "dalaoyun",
+    "order": 8,
+    "plans": [
+      {
+        "name": "初云・入门版",
+        "price": 23,
+        "currency": "CNY",
+        "priceLabel": "¥23/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 130,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "130GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 15.00 元，月配额增加 70GB。需求超过 60GB 而不超过 130GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "凌云・基础版",
+        "price": 43,
+        "currency": "CNY",
+        "priceLabel": "¥43/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 170GB。需求超过 130GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "御云・高级版",
+        "price": 73,
+        "currency": "CNY",
+        "priceLabel": "¥73/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 600,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "600GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 300GB。需求超过 300GB 而不超过 600GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "年付活动包",
+        "price": 96,
+        "currency": "CNY",
+        "priceLabel": "¥96/年",
+        "paymentCycle": "年付",
+        "paymentMonths": 12,
+        "trafficGB": 60,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "60GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档实际一次支付 96 元，月均 8.00 元，每月配额 60GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL",
+      "IPLC 专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/dalaoyun/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-dalaoyun.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+      "entrySnapshot": "docs/evidence/official-dalaoyun.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/dalaoyun.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "breezenet": {
+    "schemaVersion": 1,
+    "id": "breezenet",
+    "name": "微风网络",
+    "englishName": "Breezenet",
+    "aliases": [],
+    "pinyin": "weifengwangluo",
+    "order": 9,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "200GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 200GB/月，适合先用小额周期观察真实消耗。若用量已接近 200GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 55,
+        "currency": "CNY",
+        "priceLabel": "¥55/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 500,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "500GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 300GB。需求超过 200GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 125,
+        "currency": "CNY",
+        "priceLabel": "¥125/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 1200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "1.2TB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "trafficConversion": "1TB=1000GB 比较口径",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 70.00 元，月配额增加 700GB。需求超过 500GB 而不超过 1200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/breezenet/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-breezenet.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+      "entrySnapshot": "docs/evidence/official-breezenet.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/breezenet.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "laddercloud": {
+    "schemaVersion": 1,
+    "id": "laddercloud",
+    "name": "梯子云LadderCloud",
+    "englishName": "LadderCloud",
+    "aliases": [],
+    "pinyin": "tiziyun",
+    "order": 3,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 125,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "125GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 125GB/月，适合先用小额周期观察真实消耗。若用量已接近 125GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 60,
+        "currency": "CNY",
+        "priceLabel": "¥60/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 350,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "350GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 35.00 元，月配额增加 225GB。需求超过 125GB 而不超过 350GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 110,
+        "currency": "CNY",
+        "priceLabel": "¥110/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 750,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "750GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 400GB。需求超过 350GB 而不超过 750GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/laddercloud/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-laddercloud.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.ladderaff.com/#/?code=k98borBb",
+      "entrySnapshot": "docs/evidence/official-laddercloud.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/laddercloud.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "invisible": {
+    "schemaVersion": 1,
+    "id": "invisible",
+    "name": "隐形人",
+    "englishName": "Invisible",
+    "aliases": [],
+    "pinyin": "yinxingren",
+    "order": 4,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 24,
+        "currency": "CNY",
+        "priceLabel": "¥24/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 144,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "144GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.invisibleaff.com/#/?code=CnM0SCna",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 24.00 元，配额 144GB/月，适合先用小额周期观察真实消耗。若用量已接近 144GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 48,
+        "currency": "CNY",
+        "priceLabel": "¥48/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 360,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "360GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.invisibleaff.com/#/?code=CnM0SCna",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 24.00 元，月配额增加 216GB。需求超过 144GB 而不超过 360GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 105,
+        "currency": "CNY",
+        "priceLabel": "¥105/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 750,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "750GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.invisibleaff.com/#/?code=CnM0SCna",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 57.00 元，月配额增加 390GB。需求超过 360GB 而不超过 750GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "YouTube",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.invisibleaff.com/#/?code=CnM0SCna",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/invisible/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-invisible.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.invisibleaff.com/#/?code=CnM0SCna",
+      "entrySnapshot": "docs/evidence/official-invisible.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/invisible.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "wavenet": {
+    "schemaVersion": 1,
+    "id": "wavenet",
+    "name": "浪网WaveNet",
+    "englishName": "WaveNet",
+    "aliases": [],
+    "pinyin": "langwang",
+    "order": 5,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 120,
+        "currency": "CNY",
+        "priceLabel": "¥120/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 800,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "800GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.wavenetaff.com/#/?code=YpiKU7ii",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 110.08 元，月配额增加 720GB。需求超过 80GB 而不超过 800GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 200,
+        "currency": "CNY",
+        "priceLabel": "¥200/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 2000,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "2TB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.wavenetaff.com/#/?code=YpiKU7ii",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "trafficConversion": "1TB=1000GB 比较口径",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 80.00 元，月配额增加 1200GB。需求超过 800GB 而不超过 2000GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 119,
+        "currency": "CNY",
+        "priceLabel": "¥119/年",
+        "paymentCycle": "年付",
+        "paymentMonths": 12,
+        "trafficGB": 80,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "80GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.wavenetaff.com/#/?code=YpiKU7ii",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档实际一次支付 119 元，月均 9.92 元，每月配额 80GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+      }
+    ],
+    "lineTypes": [
+      "BGP 优化",
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.wavenetaff.com/#/?code=YpiKU7ii",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/wavenet/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-wavenet.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.wavenetaff.com/#/?code=YpiKU7ii",
+      "entrySnapshot": "docs/evidence/official-wavenet.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/wavenet.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "flyv": {
+    "schemaVersion": 1,
+    "id": "flyv",
+    "name": "飞V",
+    "englishName": "FlyV",
+    "aliases": [],
+    "pinyin": "feiv",
+    "order": 6,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.flyvaff.com/#/?code=y439Zqry",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 380,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "380GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.flyvaff.com/#/?code=y439Zqry",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 230GB。需求超过 150GB 而不超过 380GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 110,
+        "currency": "CNY",
+        "priceLabel": "¥110/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 800,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "800GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://varnexa.flyvaff.com/#/?code=y439Zqry",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 60.00 元，月配额增加 420GB。需求超过 380GB 而不超过 800GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://varnexa.flyvaff.com/#/?code=y439Zqry",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/flyv/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-flyv.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://varnexa.flyvaff.com/#/?code=y439Zqry",
+      "entrySnapshot": "docs/evidence/official-flyv.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/flyv.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "xingdaomeng": {
+    "schemaVersion": 1,
+    "id": "xingdaomeng",
+    "name": "星岛梦",
+    "englishName": "Xingdao Dream",
+    "aliases": [],
+    "pinyin": "xingdaomeng",
+    "order": 11,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kfccbb.xingdaomeng.com/#/?code=o2LVBz3A",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kfccbb.xingdaomeng.com/#/?code=o2LVBz3A",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价没有降低，升级主要解决容量需求。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 70,
+        "currency": "CNY",
+        "priceLabel": "¥70/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 500,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "500GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kfccbb.xingdaomeng.com/#/?code=o2LVBz3A",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 200GB。需求超过 300GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "企业级内网专线"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Disney+",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://kfccbb.xingdaomeng.com/#/?code=o2LVBz3A",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/xingdaomeng/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-xingdaomeng.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://xdmaf01.xingdaomengaff.com/",
+      "entrySnapshot": "docs/evidence/official-xingdaomeng.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/xingdaomeng.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "lightspeed": {
+    "schemaVersion": 1,
+    "id": "lightspeed",
+    "name": "光速云",
+    "englishName": "LightSpeed Cloud",
+    "aliases": [],
+    "pinyin": "guangsuyun",
+    "order": 12,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 23,
+        "currency": "CNY",
+        "priceLabel": "¥23/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 148,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "148GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://mdlky.gsyaff.com",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 23.00 元，配额 148GB/月，适合先用小额周期观察真实消耗。若用量已接近 148GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 34,
+        "currency": "CNY",
+        "priceLabel": "¥34/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 238,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "238GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://mdlky.gsyaff.com",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 11.00 元，月配额增加 90GB。需求超过 148GB 而不超过 238GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 68,
+        "currency": "CNY",
+        "priceLabel": "¥68/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 450,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "450GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://mdlky.gsyaff.com",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 34.00 元，月配额增加 212GB。需求超过 238GB 而不超过 450GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://mdlky.gsyaff.com",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/lightspeed/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-lightspeed.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://mdlky.gsyaff.com",
+      "entrySnapshot": "docs/evidence/official-lightspeed.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/lightspeed.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "v2cloud": {
+    "schemaVersion": 1,
+    "id": "v2cloud",
+    "name": "唯兔云",
+    "englishName": "V2 Cloud",
+    "aliases": [],
+    "pinyin": "weituyun",
+    "order": 13,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 19.9,
+        "currency": "CNY",
+        "priceLabel": "¥19.9/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://fast.v2yunvipaff.com/#/?code=B9Mbez3V",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 19.90 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 29.9,
+        "currency": "CNY",
+        "priceLabel": "¥29.9/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "200GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://fast.v2yunvipaff.com/#/?code=B9Mbez3V",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 10.00 元，月配额增加 50GB。需求超过 150GB 而不超过 200GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 59.9,
+        "currency": "CNY",
+        "priceLabel": "¥59.9/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 500,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "500GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://fast.v2yunvipaff.com/#/?code=B9Mbez3V",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 300GB。需求超过 200GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL 专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://fast.v2yunvipaff.com/#/?code=B9Mbez3V",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/v2cloud/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-v2cloud.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://fast.v2yunvipaff.com/#/?code=B9Mbez3V",
+      "entrySnapshot": "docs/evidence/official-v2cloud.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/v2cloud.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "u1s1": {
+    "schemaVersion": 1,
+    "id": "u1s1",
+    "name": "U1S1",
+    "englishName": "",
+    "aliases": [],
+    "pinyin": "u1s1",
+    "order": 14,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://pkdj7.vipaff.cc/#/?code=BgqW6VLS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 120GB/月，适合先用小额周期观察真实消耗。若用量已接近 120GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 40,
+        "currency": "CNY",
+        "priceLabel": "¥40/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://pkdj7.vipaff.cc/#/?code=BgqW6VLS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 180GB。需求超过 120GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 100,
+        "currency": "CNY",
+        "priceLabel": "¥100/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 700,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "700GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://pkdj7.vipaff.cc/#/?code=BgqW6VLS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 60.00 元，月配额增加 400GB。需求超过 300GB 而不超过 700GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "中转专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://pkdj7.vipaff.cc/#/?code=BgqW6VLS",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/u1s1/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-u1s1.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://pkdj7.vipaff.cc/#/?code=BgqW6VLS",
+      "entrySnapshot": "docs/evidence/official-u1s1.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/u1s1.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "jilian": {
+    "schemaVersion": 1,
+    "id": "jilian",
+    "name": "极连云",
+    "englishName": "Jilian Cloud",
+    "aliases": [],
+    "pinyin": "jilianyun",
+    "order": 15,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 18,
+        "currency": "CNY",
+        "priceLabel": "¥18/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 100,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "100GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kdjhao.jlyvipaff.com/#/?code=lHO8G2Sy",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 18.00 元，配额 100GB/月，适合先用小额周期观察真实消耗。若用量已接近 100GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 32,
+        "currency": "CNY",
+        "priceLabel": "¥32/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "200GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kdjhao.jlyvipaff.com/#/?code=lHO8G2Sy",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 14.00 元，月配额增加 100GB。需求超过 100GB 而不超过 200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 61,
+        "currency": "CNY",
+        "priceLabel": "¥61/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 500,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "500GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://kdjhao.jlyvipaff.com/#/?code=lHO8G2Sy",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 29.00 元，月配额增加 300GB。需求超过 200GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL 专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Gemini",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://kdjhao.jlyvipaff.com/#/?code=lHO8G2Sy",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/jilian/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-jilian.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://kdjhao.jlyvipaff.com/#/?code=lHO8G2Sy",
+      "entrySnapshot": "docs/evidence/official-jilian.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/jilian.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "globalcloud": {
+    "schemaVersion": 1,
+    "id": "globalcloud",
+    "name": "全球云",
+    "englishName": "Global Cloud",
+    "aliases": [],
+    "pinyin": "quanqiuyun",
+    "order": 10,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://sswdh.gcvipaff.com/#/?code=WJFuG7Wm",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 120GB/月，适合先用小额周期观察真实消耗。若用量已接近 120GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 40,
+        "currency": "CNY",
+        "priceLabel": "¥40/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://sswdh.gcvipaff.com/#/?code=WJFuG7Wm",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 180GB。需求超过 120GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 100,
+        "currency": "CNY",
+        "priceLabel": "¥100/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 700,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "700GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://sswdh.gcvipaff.com/#/?code=WJFuG7Wm",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 60.00 元，月配额增加 400GB。需求超过 300GB 而不超过 700GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://sswdh.gcvipaff.com/#/?code=WJFuG7Wm",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/globalcloud/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-globalcloud.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://sswdh.gcvipaff.com/#/?code=WJFuG7Wm",
+      "entrySnapshot": "docs/evidence/official-globalcloud.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/globalcloud.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "lightyear": {
+    "schemaVersion": 1,
+    "id": "lightyear",
+    "name": "光年梯",
+    "englishName": "Lightyear",
+    "aliases": [],
+    "pinyin": "guangnianti",
+    "order": 16,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 18,
+        "currency": "CNY",
+        "priceLabel": "¥18/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 110,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "110GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://ggmq.gntaff.com/#/?code=1SLG97Ch",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 18.00 元，配额 110GB/月，适合先用小额周期观察真实消耗。若用量已接近 110GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 34,
+        "currency": "CNY",
+        "priceLabel": "¥34/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 220,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "220GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://ggmq.gntaff.com/#/?code=1SLG97Ch",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 16.00 元，月配额增加 110GB。需求超过 110GB 而不超过 220GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 68,
+        "currency": "CNY",
+        "priceLabel": "¥68/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 450,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "450GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://ggmq.gntaff.com/#/?code=1SLG97Ch",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 34.00 元，月配额增加 230GB。需求超过 220GB 而不超过 450GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IEPL"
+    ],
+    "protocols": [
+      "Shadowsocks",
+      "VLESS"
+    ],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Claude",
+        "evidence": "third_party_claim",
+        "tested": false
+      },
+      {
+        "service": "Gemini",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://ggmq.gntaff.com/#/?code=1SLG97Ch",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/lightyear/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-lightyear.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://ggmq.gntaff.com/#/?code=1SLG97Ch",
+      "entrySnapshot": "docs/evidence/official-lightyear.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/lightyear.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "sogo": {
+    "schemaVersion": 1,
+    "id": "sogo",
+    "name": "Sogo云",
+    "englishName": "Sogo Cloud",
+    "aliases": [],
+    "pinyin": "sogoyun",
+    "order": 17,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.sogoyunaff.cc/#/?code=JpsSYPPG",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 45,
+        "currency": "CNY",
+        "priceLabel": "¥45/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 350,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "350GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.sogoyunaff.cc/#/?code=JpsSYPPG",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 200GB。需求超过 150GB 而不超过 350GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 80,
+        "currency": "CNY",
+        "priceLabel": "¥80/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 550,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "550GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.sogoyunaff.cc/#/?code=JpsSYPPG",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 35.00 元，月配额增加 200GB。需求超过 350GB 而不超过 550GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://wzjc.sogoyunaff.cc/#/?code=JpsSYPPG",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/sogo/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-sogo.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://wzjc.sogoyunaff.cc/#/?code=JpsSYPPG",
+      "entrySnapshot": "docs/evidence/official-sogo.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/sogo.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "yuzhou": {
+    "schemaVersion": 1,
+    "id": "yuzhou",
+    "name": "宇宙云",
+    "englishName": "YuZhou",
+    "aliases": [],
+    "pinyin": "yuzhouyun",
+    "order": 18,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 160,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "160GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 160GB/月，适合先用小额周期观察真实消耗。若用量已接近 160GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 140GB。需求超过 160GB 而不超过 300GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 100,
+        "currency": "CNY",
+        "priceLabel": "¥100/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 700,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "700GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 400GB。需求超过 300GB 而不超过 700GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "IPLC 专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/yuzhou/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-yuzhou.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+      "entrySnapshot": "docs/evidence/official-yuzhou.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/yuzhou.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "2mao": {
+    "schemaVersion": 1,
+    "id": "2mao",
+    "name": "二猫云",
+    "englishName": "2mao",
+    "aliases": [],
+    "pinyin": "ermaoyun",
+    "order": 19,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 130,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "130GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://waaa.2maoyunaff.cc/#/?code=b4qTK67Z",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 130GB/月，适合先用小额周期观察真实消耗。若用量已接近 130GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 40,
+        "currency": "CNY",
+        "priceLabel": "¥40/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 230,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "230GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://waaa.2maoyunaff.cc/#/?code=b4qTK67Z",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 100GB。需求超过 130GB 而不超过 230GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 80,
+        "currency": "CNY",
+        "priceLabel": "¥80/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 430,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "430GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://waaa.2maoyunaff.cc/#/?code=b4qTK67Z",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 40.00 元，月配额增加 200GB。需求超过 230GB 而不超过 430GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://waaa.2maoyunaff.cc/#/?code=b4qTK67Z",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/2mao/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-2mao.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://waaa.2maoyunaff.cc/#/?code=b4qTK67Z",
+      "entrySnapshot": "docs/evidence/official-2mao.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/2mao.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "1fly": {
+    "schemaVersion": 1,
+    "id": "1fly",
+    "name": "一翻云",
+    "englishName": "1fly",
+    "aliases": [],
+    "pinyin": "yifanyun",
+    "order": 20,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.1flyunaff.cc/#/?code=twb00vnS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 35,
+        "currency": "CNY",
+        "priceLabel": "¥35/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 350,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "350GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.1flyunaff.cc/#/?code=twb00vnS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 15.00 元，月配额增加 200GB。需求超过 150GB 而不超过 350GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 55,
+        "currency": "CNY",
+        "priceLabel": "¥55/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 600,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "600GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wzjc.1flyunaff.cc/#/?code=twb00vnS",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 250GB。需求超过 350GB 而不超过 600GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "专线"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://wzjc.1flyunaff.cc/#/?code=twb00vnS",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/1fly/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-1fly.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://wzjc.1flyunaff.cc/#/?code=twb00vnS",
+      "entrySnapshot": "docs/evidence/official-1fly.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/1fly.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "edgenova": {
+    "schemaVersion": 1,
+    "id": "edgenova",
+    "name": "边缘节点",
+    "englishName": "EdgeNova",
+    "aliases": [],
+    "pinyin": "bianyuanjiedian",
+    "order": 21,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 22,
+        "currency": "CNY",
+        "priceLabel": "¥22/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 7.00 元，月配额增加 70GB。需求超过 50GB 而不超过 120GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 15,
+        "currency": "CNY",
+        "priceLabel": "¥15/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 50,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "50GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 15.00 元，配额 50GB/月，适合先用小额周期观察真实消耗。若用量已接近 50GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 35,
+        "currency": "CNY",
+        "priceLabel": "¥35/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "200GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 13.00 元，月配额增加 80GB。需求超过 120GB 而不超过 200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/edgenova/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-edgenova.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://work.edgenovaaff.cc/#/?code=2x2fKZy6",
+      "entrySnapshot": "docs/evidence/official-edgenova.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/edgenova.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "trustedcloud": {
+    "schemaVersion": 1,
+    "id": "trustedcloud",
+    "name": "可信云",
+    "englishName": "Trusted Cloud",
+    "aliases": [],
+    "pinyin": "kexinyun",
+    "order": 22,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 15,
+        "currency": "CNY",
+        "priceLabel": "¥15/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 60,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "60GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 15.00 元，配额 60GB/月，适合先用小额周期观察真实消耗。若用量已接近 60GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 10.00 元，月配额增加 90GB。需求超过 60GB 而不超过 150GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价没有降低，升级主要解决容量需求。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/trustedcloud/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-trustedcloud.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://work.kosingaff.com/#/?code=gRMHaOnt",
+      "entrySnapshot": "docs/evidence/official-trustedcloud.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/trustedcloud.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "sujie": {
+    "schemaVersion": 1,
+    "id": "sujie",
+    "name": "速界",
+    "englishName": "SuJie",
+    "aliases": [],
+    "pinyin": "sujie",
+    "order": 23,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 15,
+        "currency": "CNY",
+        "priceLabel": "¥15/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 50,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "50GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.speedworldaff.cc/#/?code=gfvh5a7R",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 15.00 元，配额 50GB/月，适合先用小额周期观察真实消耗。若用量已接近 50GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.speedworldaff.cc/#/?code=gfvh5a7R",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 10.00 元，月配额增加 70GB。需求超过 50GB 而不超过 120GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 50,
+        "currency": "CNY",
+        "priceLabel": "¥50/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 250,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "250GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.speedworldaff.cc/#/?code=gfvh5a7R",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 130GB。需求超过 120GB 而不超过 250GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://work.speedworldaff.cc/#/?code=gfvh5a7R",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/sujie/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-sujie.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://work.speedworldaff.cc/#/?code=gfvh5a7R",
+      "entrySnapshot": "docs/evidence/official-sujie.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/sujie.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "kuaili": {
+    "schemaVersion": 1,
+    "id": "kuaili",
+    "name": "快狸",
+    "englishName": "KuaiLi",
+    "aliases": [],
+    "pinyin": "kuaili",
+    "order": 24,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 15,
+        "currency": "CNY",
+        "priceLabel": "¥15/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 50,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "50GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kuailicloud.cc/#/?code=1RKCpN09",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 15.00 元，配额 50GB/月，适合先用小额周期观察真实消耗。若用量已接近 50GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 22,
+        "currency": "CNY",
+        "priceLabel": "¥22/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 100,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "100GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kuailicloud.cc/#/?code=1RKCpN09",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 7.00 元，月配额增加 50GB。需求超过 50GB 而不超过 100GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 35,
+        "currency": "CNY",
+        "priceLabel": "¥35/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 250,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "250GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://work.kuailicloud.cc/#/?code=1RKCpN09",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 13.00 元，月配额增加 150GB。需求超过 100GB 而不超过 250GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://work.kuailicloud.cc/#/?code=1RKCpN09",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/kuaili/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-kuaili.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://work.kuailicloud.cc/#/?code=1RKCpN09",
+      "entrySnapshot": "docs/evidence/official-kuaili.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/kuaili.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "wuyou": {
+    "schemaVersion": 1,
+    "id": "wuyou",
+    "name": "无忧",
+    "englishName": "WorryFree",
+    "aliases": [],
+    "pinyin": "wuyou",
+    "order": 25,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 19,
+        "currency": "CNY",
+        "priceLabel": "¥19/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 100,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "100GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wep01.worryfreeaff.com/#/?code=rjMhbeMC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 19.00 元，配额 100GB/月，适合先用小额周期观察真实消耗。若用量已接近 100GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 33,
+        "currency": "CNY",
+        "priceLabel": "¥33/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 200,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "200GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wep01.worryfreeaff.com/#/?code=rjMhbeMC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 14.00 元，月配额增加 100GB。需求超过 100GB 而不超过 200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 77,
+        "currency": "CNY",
+        "priceLabel": "¥77/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 500,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "500GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://wep01.worryfreeaff.com/#/?code=rjMhbeMC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 44.00 元，月配额增加 300GB。需求超过 200GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://wep01.worryfreeaff.com/#/?code=rjMhbeMC",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/wuyou/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-wuyou.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://wep01.worryfreeaff.com/#/?code=rjMhbeMC",
+      "entrySnapshot": "docs/evidence/official-wuyou.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/wuyou.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "lingmao": {
+    "schemaVersion": 1,
+    "id": "lingmao",
+    "name": "灵猫",
+    "englishName": "Civet",
+    "aliases": [],
+    "pinyin": "lingmao",
+    "order": 26,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.civetaff.com/#/?code=TVrpn3XP",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 17.92 元，月配额增加 105GB。需求超过 45GB 而不超过 150GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 45,
+        "currency": "CNY",
+        "priceLabel": "¥45/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.civetaff.com/#/?code=TVrpn3XP",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 85,
+        "currency": "CNY",
+        "priceLabel": "¥85/年",
+        "paymentCycle": "年付",
+        "paymentMonths": 12,
+        "trafficGB": 45,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "45GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.civetaff.com/#/?code=TVrpn3XP",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档实际一次支付 85 元，月均 7.08 元，每月配额 45GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://vip02.civetaff.com/#/?code=TVrpn3XP",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/lingmao/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-lingmao.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://vip02.civetaff.com/#/?code=TVrpn3XP",
+      "entrySnapshot": "docs/evidence/official-lingmao.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/lingmao.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "flashleap": {
+    "schemaVersion": 1,
+    "id": "flashleap",
+    "name": "闪跃",
+    "englishName": "FlashLeap",
+    "aliases": [],
+    "pinyin": "shanyue",
+    "order": 27,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 24,
+        "currency": "CNY",
+        "priceLabel": "¥24/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.flashleapaff.com/#/?code=013Pt6NT",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 24.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 44,
+        "currency": "CNY",
+        "priceLabel": "¥44/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.flashleapaff.com/#/?code=013Pt6NT",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 84,
+        "currency": "CNY",
+        "priceLabel": "¥84/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 600,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "600GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.flashleapaff.com/#/?code=013Pt6NT",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 40.00 元，月配额增加 300GB。需求超过 300GB 而不超过 600GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://vip02.flashleapaff.com/#/?code=013Pt6NT",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/flashleap/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-flashleap.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://vip02.flashleapaff.com/#/?code=013Pt6NT",
+      "entrySnapshot": "docs/evidence/official-flashleap.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/flashleap.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "firefly": {
+    "schemaVersion": 1,
+    "id": "firefly",
+    "name": "飞为",
+    "englishName": "Firefly",
+    "aliases": [],
+    "pinyin": "feiwei",
+    "order": 28,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 25,
+        "currency": "CNY",
+        "priceLabel": "¥25/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 150,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "150GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.fireflyaff.com/#/?code=zS0MBWOC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 25.00 元，配额 150GB/月，适合先用小额周期观察真实消耗。若用量已接近 150GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 45,
+        "currency": "CNY",
+        "priceLabel": "¥45/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 300,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "300GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.fireflyaff.com/#/?code=zS0MBWOC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 85,
+        "currency": "CNY",
+        "priceLabel": "¥85/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 600,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "600GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.fireflyaff.com/#/?code=zS0MBWOC",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 40.00 元，月配额增加 300GB。需求超过 300GB 而不超过 600GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://vip02.fireflyaff.com/#/?code=zS0MBWOC",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/firefly/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-firefly.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://vip02.fireflyaff.com/#/?code=zS0MBWOC",
+      "entrySnapshot": "docs/evidence/official-firefly.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/firefly.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  },
+  "kuajie": {
+    "schemaVersion": 1,
+    "id": "kuajie",
+    "name": "跨界云",
+    "englishName": "Kuajie Cloud",
+    "aliases": [],
+    "pinyin": "kuajieyun",
+    "order": 29,
+    "plans": [
+      {
+        "name": "套餐 1",
+        "price": 20,
+        "currency": "CNY",
+        "priceLabel": "¥20/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 120,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "120GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.kuajieaff.com/#/?code=Ns77hvi3",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "这档月预算 20.00 元，配额 120GB/月，适合先用小额周期观察真实消耗。若用量已接近 120GB，临时下载的余量不足，不宜只凭低支出选择。"
+      },
+      {
+        "name": "套餐 2",
+        "price": 40,
+        "currency": "CNY",
+        "priceLabel": "¥40/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 330,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "330GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.kuajieaff.com/#/?code=Ns77hvi3",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 210GB。需求超过 120GB 而不超过 330GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      },
+      {
+        "name": "套餐 3",
+        "price": 90,
+        "currency": "CNY",
+        "priceLabel": "¥90/月",
+        "paymentCycle": "月付",
+        "paymentMonths": 1,
+        "trafficGB": 830,
+        "trafficPeriod": "monthly",
+        "trafficLabel": "830GB/月",
+        "resetRule": null,
+        "deviceLimit": null,
+        "speedLimit": null,
+        "benefits": [],
+        "purchaseURL": "https://vip02.kuajieaff.com/#/?code=Ns77hvi3",
+        "status": "secondary_source",
+        "sourceDate": "2026-10-06",
+        "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 500GB。需求超过 330GB 而不超过 830GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+      }
+    ],
+    "lineTypes": [
+      "优化线路"
+    ],
+    "protocols": [],
+    "nodeRegions": [],
+    "aiSupport": [
+      {
+        "service": "ChatGPT",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "streamingSupport": [
+      {
+        "service": "Netflix",
+        "evidence": "third_party_claim",
+        "tested": false
+      }
+    ],
+    "deviceSupport": [],
+    "officialURL": null,
+    "affiliateURL": "https://vip02.kuajieaff.com/#/?code=Ns77hvi3",
+    "editorialScore": null,
+    "scoreBasis": null,
+    "sourceUpdatedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
+    "sources": [
+      {
+        "url": "https://feidujc.com/airports/kuajie/",
+        "kind": "third_party",
+        "snapshot": "docs/evidence/source-kuajie.html"
+      }
+    ],
+    "reviewStatus": "draft",
+    "verification": {
+      "status": "secondary_source_only",
+      "plansComplete": false,
+      "missing": [
+        "官网现售全部套餐及套餐正式名称",
+        "节点地区",
+        "客户端兼容性",
+        "设备与速率限制",
+        "流量重置细则",
+        "退款与隐私规则",
+        "本站评分依据",
+        "实际性能测试"
+      ],
+      "entryHTTPStatus": 200,
+      "entryResolvedURL": "https://vip02.kuajieaff.com/#/?code=Ns77hvi3",
+      "entrySnapshot": "docs/evidence/official-kuajie.html",
+      "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐"
+    },
+    "importedAt": "2026-10-12",
+    "importProvenance": {
+      "project": "用户已有本地机场资料",
+      "path": "data/airports/kuajie.json",
+      "originalCheckedAt": "2026-10-11",
+      "verification": "历史第三方记录，本次未确认现售"
+    }
+  }
+}

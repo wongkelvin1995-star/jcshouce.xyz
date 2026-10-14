@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 2,
+  "id": "flycat",
+  "name": "飞猫云",
+  "englishName": "FlyCat",
+  "aliases": [
+    "飞猫云",
+    "FlyCat"
+  ],
+  "pinyin": "feimaoyun",
+  "order": 3,
+  "plans": [
+    {
+      "name": "学生版",
+      "formalName": "学生版",
+      "price": 84,
+      "currency": "CNY",
+      "priceLabel": "¥84/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 50,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "50GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    },
+    {
+      "name": "星耀版",
+      "formalName": "星耀版",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 150,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "150GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    },
+    {
+      "name": "星环版",
+      "formalName": "星环版",
+      "price": 45,
+      "currency": "CNY",
+      "priceLabel": "¥45/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    },
+    {
+      "name": "银河版",
+      "formalName": "银河版",
+      "price": 85,
+      "currency": "CNY",
+      "priceLabel": "¥85/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 600,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "600GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    },
+    {
+      "name": "宇宙版",
+      "formalName": "宇宙版",
+      "price": 150,
+      "currency": "CNY",
+      "priceLabel": "¥150/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 1000,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "1000GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    },
+    {
+      "name": "不限时套餐",
+      "formalName": "不限时套餐",
+      "price": 680,
+      "currency": "CNY",
+      "priceLabel": "¥680/次",
+      "paymentCycle": "一次性",
+      "paymentMonths": 0,
+      "trafficGB": 1000,
+      "trafficPeriod": "total",
+      "trafficLabel": "1000GB总量",
+      "resetRule": "总额扣减，不按月重置",
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "flycat",
+      "airportName": "飞猫云",
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn"
+    }
+  ],
+  "lineTypes": [
+    "IEPL 专线"
+  ],
+  "protocols": [],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Claude",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Disney+",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/flycat/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-flycat.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_with_conflicts",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://s1.fei9sjf.xyz/",
+    "entrySnapshot": "docs/evidence/official-flycat.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "flycat",
+      "url": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://sk99.fei9sjf.xyz/",
+      "title": "线路检测",
+      "bytes": 24131,
+      "checkedAt": "2026-10-13T10:24:09.127Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/flycat.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "飞猫云",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 84,
+      "currency": "CNY",
+      "priceLabel": "¥84/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 50,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "50GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档实际一次支付 84 元，月均 7.00 元，每月配额 50GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 150,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "150GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 18.00 元，月配额增加 100GB。需求超过 50GB 而不超过 150GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 45,
+      "currency": "CNY",
+      "priceLabel": "¥45/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 150GB。需求超过 150GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    }
+  ],
+  "dataConflicts": [
+    "参考站显示15元100GB、28元200GB及0元1000GB，与用户资料不同；同页设备数与不限设备互相矛盾，不采用该站价目。",
+    "定制套餐550元/月500GB：是否在售未确认，暂不发布。"
+  ],
+  "brandFAQ": [
+    [
+      "学生版84元是一整年的费用吗？",
+      "参考规格是84元年付，月度额度为50GB。月均7元只是预算换算，不是可以逐月支付7元，也不表示年初获得600GB总量。"
+    ],
+    [
+      "星耀与星环差在哪里？",
+      "参考价分别是25元与45元月付，配额分别150GB与300GB。差额对应资源扩容，不代表延迟或流媒体能力提高。"
+    ],
+    [
+      "银河版和宇宙版怎么选？",
+      "先比较实际月用量是否超过300GB，再看600GB与1000GB的余量。未消费的额度不能抵扣付款，套餐名字也不能替代服务条件。"
+    ],
+    [
+      "不限时1000GB与宇宙版相同吗？",
+      "不同。680元一次性方案是整包1000GB；宇宙版参考规格150元月付、每月1000GB。两者额度周期不同，不能只比较容量数字。"
+    ],
+    [
+      "为什么没有展示定制套餐？",
+      "550元月付500GB版本的在售情况未确认。它与常规价目属于不同产品条件，不能只按这两个数字推断独享资源或原生出口权益。"
+    ],
+    [
+      "飞猫云与其他猫系品牌是否同一家？",
+      "不能根据名称和跳转域名推断运营关系。本文保留飞猫云独立ID与指定入口，注册前检查页面品牌，遇到不一致应停止付款。"
+    ]
+  ]
+}

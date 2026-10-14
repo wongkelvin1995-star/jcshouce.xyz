@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 2,
+  "id": "breezenet",
+  "name": "微风网络 Breezenet",
+  "englishName": "Breezenet",
+  "aliases": [
+    "微风网络",
+    "Breezenet"
+  ],
+  "pinyin": "weifengwangluo",
+  "order": 5,
+  "plans": [
+    {
+      "name": "清风",
+      "formalName": "清风",
+      "price": 137,
+      "currency": "CNY",
+      "priceLabel": "¥137/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 100,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "100GB/月",
+      "resetRule": "自购买日起每月重置",
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    },
+    {
+      "name": "乘风",
+      "formalName": "乘风",
+      "price": 27,
+      "currency": "CNY",
+      "priceLabel": "¥27/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "200GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    },
+    {
+      "name": "破风",
+      "formalName": "破风",
+      "price": 57,
+      "currency": "CNY",
+      "priceLabel": "¥57/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 500,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "500GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    },
+    {
+      "name": "御风",
+      "formalName": "御风",
+      "price": 127,
+      "currency": "CNY",
+      "priceLabel": "¥127/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 1200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "1200GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    },
+    {
+      "name": "信风",
+      "formalName": "信风",
+      "price": 200,
+      "currency": "CNY",
+      "priceLabel": "¥200/次",
+      "paymentCycle": "一次性",
+      "paymentMonths": 0,
+      "trafficGB": 270,
+      "trafficPeriod": "total",
+      "trafficLabel": "270GB总量",
+      "resetRule": "用完为止，不按月重置",
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    },
+    {
+      "name": "长风",
+      "formalName": "长风",
+      "price": 370,
+      "currency": "CNY",
+      "priceLabel": "¥370/次",
+      "paymentCycle": "一次性",
+      "paymentMonths": 0,
+      "trafficGB": 570,
+      "trafficPeriod": "total",
+      "trafficLabel": "570GB总量",
+      "resetRule": "用完为止，不按月重置",
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://breezenetwork.my/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-2.html",
+      "published": true,
+      "airportID": "breezenet",
+      "airportName": "微风网络 Breezenet",
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp"
+    }
+  ],
+  "lineTypes": [
+    "专线"
+  ],
+  "protocols": [
+    "VLESS"
+  ],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Claude",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Disney+",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/breezenet/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-breezenet.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_with_conflicts",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+    "entrySnapshot": "docs/evidence/official-breezenet.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "breezenet",
+      "url": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://edp01.breezenetaff.com/",
+      "title": "线路检测",
+      "bytes": 26484,
+      "checkedAt": "2026-10-13T10:24:09.090Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/breezenet.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "微风网络",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "200GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档月预算 25.00 元，配额 200GB/月，适合先用小额周期观察真实消耗。若用量已接近 200GB，临时下载的余量不足，不宜只凭低支出选择。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 55,
+      "currency": "CNY",
+      "priceLabel": "¥55/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 500,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "500GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 300GB。需求超过 200GB 而不超过 500GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 125,
+      "currency": "CNY",
+      "priceLabel": "¥125/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 1200,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "1.2TB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://edp01.breezenetaff.com/#/?code=txKNNHZc",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "trafficConversion": "1TB=1000GB 比较口径",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 70.00 元，月配额增加 700GB。需求超过 500GB 而不超过 1200GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    }
+  ],
+  "dataConflicts": [
+    "旧资料乘风/破风/御风25/55/125元，新参考页27/57/127元；保留旧版本，前台仅标参考价。"
+  ],
+  "brandFAQ": [
+    [
+      "清风137元能一次用1200GB吗？",
+      "不能据此推断。参考额度是每月100GB，年付代表服务付款周期；累计十二个月资源不等于可随时调用的总量。"
+    ],
+    [
+      "乘风现在为什么是27元？",
+      "此次公开品牌资料页展示27元200GB；旧资料25元版本保留在内部。本文称参考价，不把页面查阅等同于官网订单核验。"
+    ],
+    [
+      "破风与御风扩容多少？",
+      "参考月配额由500GB增加到1200GB，预算从57元增加到127元。只有实际用量需要700GB增量时，额外支出才有明确用途。"
+    ],
+    [
+      "信风与长风是否按月重置？",
+      "参考资料将它们描述为270GB和570GB的一次性总量，用完为止。表格不把这两个额度写成每月配额。"
+    ],
+    [
+      "VLESS订阅能直接导入旧版Clash吗？",
+      "不能只凭名称保证。需要支持相应协议的内核和匹配的订阅格式，导入前确认客户端版本，保存旧配置以便恢复。"
+    ],
+    [
+      "清风的重置日从哪天算？",
+      "参考页说明从购买日起按月重置。登录自己的账户查看具体日期与时区，不应自行改成每月第一天。"
+    ]
+  ]
+}

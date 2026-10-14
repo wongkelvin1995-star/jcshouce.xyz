@@ -1,0 +1,20 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ .Description }}"><meta name="theme-color" content="#F7F3EC"><meta name="color-scheme" content="light">
+<link rel="canonical" href="{{ .Permalink }}"><meta name="robots" content="{{ if .Params.noindex }}noindex,follow{{ else }}index,follow{{ end }}">
+<meta property="og:title" content="{{ .Title }}"><meta property="og:description" content="{{ .Description }}"><meta property="og:url" content="{{ .Permalink }}"><meta property="og:site_name" content="机场手册">
+{{ partial "docs/html-head-styles" . }}
+{{ $css := resources.FromString "manual.css" (readFile "static/manual.css") | resources.Minify | resources.Fingerprint }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"><link rel="icon" href="{{ "favicon.svg?v=neutral-20261013" | relURL }}" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="机场手册 RSS" href="{{ "index.xml" | absURL }}">
+{{ $core := resources.FromString "search-core.js" (readFile "static/search-core.js") | resources.Minify | resources.Fingerprint }}{{ $manual := resources.FromString "manual.js" (readFile "static/manual.js") | resources.Minify | resources.Fingerprint }}<script defer src="{{ $core.RelPermalink }}" integrity="{{ $core.Data.Integrity }}"></script><script defer src="{{ $manual.RelPermalink }}" integrity="{{ $manual.Data.Integrity }}"></script>
+{{ $schema := dict "@context" "https://schema.org" "@type" "WebPage" "name" .Title "description" .Description "url" .Permalink "inLanguage" "zh-CN" }}
+{{ if .IsPage }}{{ $schema = merge $schema (dict "@type" (cond (eq .Section "reviews") "Article" "TechArticle") "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Organization" "name" "机场手册编辑部")) }}{{ end }}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ if not .IsHome }}{{ $items := slice (dict "@type" "ListItem" "position" 1 "name" "首页" "item" .Site.Home.Permalink) }}{{ if .IsPage }}{{ $items = $items | append (dict "@type" "ListItem" "position" 2 "name" .Parent.Title "item" .Parent.Permalink) }}{{ end }}{{ $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" .Title "item" .Permalink) }}<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items | jsonify | safeJS }}</script>{{ end }}
+{{ define "integrity" }}{{ if (urls.Parse .Permalink).Host }}integrity="{{ .Data.Integrity }}" crossorigin="anonymous"{{ end }}{{ end }}
+
+
+{{ $personal := resources.FromString "personal.js" (readFile "static/personal.js") | resources.Minify | resources.Fingerprint }}<script defer src="{{ $personal.RelPermalink }}" integrity="{{ $personal.Data.Integrity }}"></script>
+
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{{ .Title }}"><meta name="twitter:description" content="{{ .Description }}">
+{{ if .IsHome }}<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.Home.Permalink "description" .Description "inLanguage" "zh-CN" | jsonify | safeJS }}</script>{{ end }}

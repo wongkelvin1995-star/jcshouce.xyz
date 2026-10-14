@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "id": "yuzhou",
+  "name": "宇宙云 YuZhou",
+  "englishName": "YuZhou",
+  "aliases": [
+    "宇宙云",
+    "YuZhou"
+  ],
+  "pinyin": "yuzhouyun",
+  "order": 18,
+  "plans": [
+    {
+      "name": "星云年付小包",
+      "formalName": "星云年付小包",
+      "price": 96,
+      "currency": "CNY",
+      "priceLabel": "¥96/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 60,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "60GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://yuzouyun.sbs/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-4.html",
+      "published": true,
+      "airportID": "yuzhou",
+      "airportName": "宇宙云 YuZhou",
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs"
+    },
+    {
+      "name": "行星基础版",
+      "formalName": "行星基础版",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 120,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "120GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://yuzouyun.sbs/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-4.html",
+      "published": true,
+      "airportID": "yuzhou",
+      "airportName": "宇宙云 YuZhou",
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs"
+    },
+    {
+      "name": "恒星标准版",
+      "formalName": "恒星标准版",
+      "price": 50,
+      "currency": "CNY",
+      "priceLabel": "¥50/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 240,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "240GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "public_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": "https://yuzouyun.sbs/",
+      "sourceReference": "公开品牌资料页",
+      "sourceSnapshot": "docs/evidence/optimization/reference-4.html",
+      "published": true,
+      "airportID": "yuzhou",
+      "airportName": "宇宙云 YuZhou",
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs"
+    }
+  ],
+  "lineTypes": [
+    "IPLC 专线"
+  ],
+  "protocols": [],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/yuzhou/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-yuzhou.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_with_conflicts",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+    "entrySnapshot": "docs/evidence/official-yuzhou.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "yuzhou",
+      "url": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://wzjc.yuzoucloud.cc/",
+      "title": "宇宙云 线路检测",
+      "bytes": 891,
+      "checkedAt": "2026-10-13T10:24:10.315Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/yuzhou.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "宇宙云",
+  "planArchive": [
+    {
+      "name": "套餐 1",
+      "price": 25,
+      "currency": "CNY",
+      "priceLabel": "¥25/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 160,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "160GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档月预算 25.00 元，配额 160GB/月，适合先用小额周期观察真实消耗。若用量已接近 160GB，临时下载的余量不足，不宜只凭低支出选择。"
+    },
+    {
+      "name": "套餐 2",
+      "price": 50,
+      "currency": "CNY",
+      "priceLabel": "¥50/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 25.00 元，月配额增加 140GB。需求超过 160GB 而不超过 300GB 时才有明确扩容用途。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+    },
+    {
+      "name": "套餐 3",
+      "price": 100,
+      "currency": "CNY",
+      "priceLabel": "¥100/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 700,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "700GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://wzjc.yuzoucloud.cc/#/?code=MQM25nhk",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 50.00 元，月配额增加 400GB。需求超过 300GB 而不超过 700GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    }
+  ],
+  "dataConflicts": [
+    "旧25元160GB、50元300GB、100元700GB与新参考页120GB/240GB不同；保留旧版本，不作为现价。"
+  ],
+  "brandFAQ": [
+    [
+      "星云96元是不是月付？",
+      "不是。参考金额为年付96元，月额度60GB。8元是分摊预算，不是可直接按月支付的金额。"
+    ],
+    [
+      "行星基础版到底120还是160GB？",
+      "此次公开品牌页与用户参考价目对应120GB；旧资料160GB作为另一版本保留内部。本文展示参考规格，不称已核实的当前订单。"
+    ],
+    [
+      "恒星版240GB与行星版有什么差别？",
+      "参考月价50元与25元，配额240GB与120GB均为两倍。扩容理由应来自实际需求，不能只凭名称认为连接质量更好。"
+    ],
+    [
+      "星云的全年额度能结转吗？",
+      "没有足够证据确认结转规则。年付和月度流量是不同字段，不应把未用额度自动视为可在下一月继续使用。"
+    ],
+    [
+      "宇宙云就是飞猫的宇宙版吗？",
+      "不是同一个数据对象。前者是YuZhou品牌，后者是飞猫云的套餐名称，页面和入口分开管理。"
+    ],
+    [
+      "原来700GB那档怎么没有了？",
+      "旧资料与新公开参考版本不同，不能将旧档直接声明为当前在售。本文采用有明确对应关系的三档参考规格，没有擅自补入旧产品。"
+    ]
+  ]
+}

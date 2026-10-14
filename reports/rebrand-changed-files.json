@@ -1,0 +1,17 @@
+[
+  "content/about/_index.md",
+  "content/account/_index.md",
+  "content/archives/_index.md",
+  "content/domain/_index.md",
+  "content/editor/_index.md",
+  "content/site-map/_index.md",
+  "content/_index.md",
+  "layouts/_partials/docs/footer.html",
+  "layouts/_partials/docs/html-head.html",
+  "layouts/_partials/docs/inject/body.html",
+  "layouts/_partials/docs/inject/content-before.html",
+  "layouts/_partials/docs/menu.html",
+  "hugo.toml",
+  "README.md",
+  "docs/site-seo-profile.json"
+]

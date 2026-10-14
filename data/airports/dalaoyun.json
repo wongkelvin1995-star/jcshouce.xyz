@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 2,
+  "id": "dalaoyun",
+  "name": "大佬云",
+  "englishName": "DalaoYun",
+  "aliases": [
+    "大佬云",
+    "DalaoYun"
+  ],
+  "pinyin": "dalaoyun",
+  "order": 4,
+  "plans": [
+    {
+      "name": "年付活动包",
+      "formalName": "年付活动包",
+      "price": 96,
+      "currency": "CNY",
+      "priceLabel": "¥96/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 60,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "60GB/月",
+      "resetRule": "每30天重置",
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "dalaoyun",
+      "airportName": "大佬云",
+      "purchaseURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+    },
+    {
+      "name": "凌云·基础版",
+      "formalName": "凌云·基础版",
+      "price": 43,
+      "currency": "CNY",
+      "priceLabel": "¥43/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "dalaoyun",
+      "airportName": "大佬云",
+      "purchaseURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+    },
+    {
+      "name": "御云·高级版",
+      "formalName": "御云·高级版",
+      "price": 73,
+      "currency": "CNY",
+      "priceLabel": "¥73/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 600,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "600GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "dalaoyun",
+      "airportName": "大佬云",
+      "purchaseURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+    },
+    {
+      "name": "闲云·随心包",
+      "formalName": "闲云·随心包",
+      "price": 99,
+      "currency": "CNY",
+      "priceLabel": "¥99/次",
+      "paymentCycle": "一次性",
+      "paymentMonths": 0,
+      "trafficGB": 78,
+      "trafficPeriod": "total",
+      "trafficLabel": "78GB总量",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "dalaoyun",
+      "airportName": "大佬云",
+      "purchaseURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+    },
+    {
+      "name": "悠云·长享包",
+      "formalName": "悠云·长享包",
+      "price": 199,
+      "currency": "CNY",
+      "priceLabel": "¥199/次",
+      "paymentCycle": "一次性",
+      "paymentMonths": 0,
+      "trafficGB": 160,
+      "trafficPeriod": "total",
+      "trafficLabel": "160GB总量",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "status": "user_reference",
+      "verificationStatus": "reference_not_current_official",
+      "sourceDate": "2026-10-13",
+      "sourceURL": null,
+      "sourceReference": "用户提供的参考套餐",
+      "sourceSnapshot": "docs/evidence/optimization/user-request.txt",
+      "published": true,
+      "airportID": "dalaoyun",
+      "airportName": "大佬云",
+      "purchaseURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq"
+    }
+  ],
+  "lineTypes": [
+    "IEPL",
+    "IPLC 专线"
+  ],
+  "protocols": [],
+  "nodeRegions": [],
+  "aiSupport": [
+    {
+      "service": "ChatGPT",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "streamingSupport": [
+    {
+      "service": "Netflix",
+      "evidence": "third_party_claim",
+      "tested": false
+    },
+    {
+      "service": "Disney+",
+      "evidence": "third_party_claim",
+      "tested": false
+    }
+  ],
+  "deviceSupport": [],
+  "officialURL": null,
+  "affiliateURL": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq",
+  "editorialScore": null,
+  "scoreBasis": null,
+  "sourceUpdatedAt": "2026-10-13",
+  "checkedAt": "2026-10-13",
+  "sources": [
+    {
+      "url": "https://feidujc.com/airports/dalaoyun/",
+      "kind": "third_party",
+      "snapshot": "docs/evidence/source-dalaoyun.html"
+    }
+  ],
+  "reviewStatus": "draft",
+  "verification": {
+    "status": "reference_with_conflicts",
+    "plansComplete": false,
+    "missing": [
+      "现售套餐完整清单与正式名称",
+      "节点地区与各地区线路",
+      "订阅格式和客户端版本",
+      "设备/速率/倍率限制",
+      "重置日期及结转规则",
+      "退款与服务期限"
+    ],
+    "entryHTTPStatus": 200,
+    "entryResolvedURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+    "entrySnapshot": "docs/evidence/official-dalaoyun.html",
+    "entryNote": "入口可访问；未登录购买页，不能确认现售全部套餐",
+    "currentOfficialPlansVerified": false,
+    "publicEntryCheck": {
+      "id": "dalaoyun",
+      "url": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq",
+      "kind": "user_entry",
+      "httpStatus": 200,
+      "resolvedURL": "https://www1.dalaoyuntt.xyz/",
+      "title": "Loading...",
+      "bytes": 457,
+      "checkedAt": "2026-10-13T10:24:09.106Z",
+      "note": "HTTP response only; not proof of current plans"
+    }
+  },
+  "importedAt": "2026-10-12",
+  "importProvenance": {
+    "project": "用户已有本地机场资料",
+    "path": "data/airports/dalaoyun.json",
+    "originalCheckedAt": "2026-10-11",
+    "verification": "历史第三方记录，本次未确认现售"
+  },
+  "shortName": "大佬云",
+  "planArchive": [
+    {
+      "name": "初云・入门版",
+      "price": 23,
+      "currency": "CNY",
+      "priceLabel": "¥23/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 130,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "130GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 15.00 元，月配额增加 70GB。需求超过 60GB 而不超过 130GB 时才有明确扩容用途。两档付款周期不同，除月均金额还要比较一次付款与预付风险。配额单价反而更高，选择理由应是需要更大用量，而不是节省单位成本。"
+    },
+    {
+      "name": "凌云・基础版",
+      "price": 43,
+      "currency": "CNY",
+      "priceLabel": "¥43/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 300,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "300GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 20.00 元，月配额增加 170GB。需求超过 130GB 而不超过 300GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "御云・高级版",
+      "price": 73,
+      "currency": "CNY",
+      "priceLabel": "¥73/月",
+      "paymentCycle": "月付",
+      "paymentMonths": 1,
+      "trafficGB": 600,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "600GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "与按配额排序的前一档相比，月均支出增加 30.00 元，月配额增加 300GB。需求超过 300GB 而不超过 600GB 时才有明确扩容用途。配额单价降低，但总预算增加；闲置额度不构成实际节省。"
+    },
+    {
+      "name": "年付活动包",
+      "price": 96,
+      "currency": "CNY",
+      "priceLabel": "¥96/年",
+      "paymentCycle": "年付",
+      "paymentMonths": 12,
+      "trafficGB": 60,
+      "trafficPeriod": "monthly",
+      "trafficLabel": "60GB/月",
+      "resetRule": null,
+      "deviceLimit": null,
+      "speedLimit": null,
+      "benefits": [],
+      "purchaseURL": "https://www2.dalaoyuntt.xyz/#/?code=7aX2Po8W",
+      "status": "secondary_source",
+      "sourceDate": "2026-10-06",
+      "selectionAdvice": "这档实际一次支付 96 元，月均 8.00 元，每月配额 60GB/月。适合已确认低用量且接受预付周期的人；不能将全年累计配额集中在一个月使用。退款与重置规则要在付款前确认。"
+    }
+  ],
+  "dataConflicts": [
+    "初云·入门版23元/月，120GB与130GB冲突，整档暂不发布。"
+  ],
+  "brandFAQ": [
+    [
+      "年付活动包按自然月重置吗？",
+      "参考说明写每30天60GB，不应自行改成每月一日。具体首期起点与剩余额度处理应在账户订单中确认。"
+    ],
+    [
+      "为什么没有初云入门版一行？",
+      "23元档出现120GB与130GB两个额度版本，没有足够依据选择其一，因此整档暂不参与容量比较。"
+    ],
+    [
+      "凌云与御云的预算差额是多少？",
+      "参考金额为43元和73元月付，差30元；月额度300GB与600GB相差300GB。这个差额说明扩容成本，不说明实际速率。"
+    ],
+    [
+      "闲云78GB是每个月都有吗？",
+      "不是按月资源。参考规格为99元一次性总量78GB，使用后扣减，不应写成78GB每月。"
+    ],
+    [
+      "悠云包能与年包直接比单价吗？",
+      "不能。199元160GB是总量，96元年包是每30天的配额。必须先确定服务期限和使用频率，才有共同比较口径。"
+    ],
+    [
+      "大佬云就是大哥云吗？",
+      "本文将两者视为不同品牌，只保留大佬云的ID、资料和指定推广入口，不借用另一品牌的优惠或节点信息。"
+    ]
+  ]
+}

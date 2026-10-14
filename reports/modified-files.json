@@ -1,0 +1,734 @@
+[
+  {
+    "path": "content/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/about/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/archives/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/faq/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/faq/group-10.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/nodes/iplc-iepl.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/1fly.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/2mao.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/breezenet.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/dalaoyun.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/edgenova.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/firefly.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/flashleap.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/flycat.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/flyv.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/globalcloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/invisible.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/jilian.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/kuaili.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/kuajie.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/laddercloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/lightspeed.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/lightyear.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/lingdong.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/lingmao.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/sogo.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/sujie.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/trustedcloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/twilight.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/u1s1.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/v2cloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/wavenet.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/wuyou.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/xingdaomeng.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/providers/yuzhou.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/ai.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/beginner.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/budget.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/evidence.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/multi-device.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/recommendations/streaming.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/_index.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/1fly.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/2mao.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/breezenet.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/dalaoyun.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/edgenova.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/firefly.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/flashleap.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/flycat.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/flyv.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/globalcloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/invisible.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/jilian.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/kuaili.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/kuajie.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/laddercloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/lightspeed.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/lightyear.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/lingdong.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/lingmao.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/sogo.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/sujie.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/trustedcloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/twilight.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/u1s1.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/v2cloud.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/wavenet.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/wuyou.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/xingdaomeng.md",
+    "status": "modified"
+  },
+  {
+    "path": "content/reviews/yuzhou.md",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/1fly.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/2mao.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/breezenet.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/dalaoyun.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/edgenova.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/firefly.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/flashleap.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/flycat.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/flyv.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/globalcloud.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/invisible.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/jilian.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/kuaili.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/kuajie.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/laddercloud.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/lightspeed.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/lightyear.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/lingdong.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/lingmao.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/sogo.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/sujie.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/trustedcloud.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/twilight.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/u1s1.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/v2cloud.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/wavenet.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/wuyou.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/xingdaomeng.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/airports/yuzhou.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/faq.json",
+    "status": "modified"
+  },
+  {
+    "path": "data/navigation.json",
+    "status": "modified"
+  },
+  {
+    "path": "docs/airport-data-audit.md",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/1fly.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/2mao.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/authorized-brands.json",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/breezenet.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/dalaoyun.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/deployment-baseline.json",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/edgenova.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/firefly.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/flashleap.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/flycat.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/flyv.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/globalcloud.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/invisible.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/jilian.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/kuaili.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/kuajie.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/laddercloud.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/lightspeed.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/lightyear.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/lingdong.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/lingmao.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/previous-brand-data.json",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-0.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-1.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-2.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-3.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-4.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/reference-5.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/sogo.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/sujie.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/trustedcloud.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/twilight.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/u1s1.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/user-request.txt",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/v2cloud.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/wavenet.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/wuyou.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/xingdaomeng.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/evidence/optimization/yuzhou.html",
+    "status": "added"
+  },
+  {
+    "path": "docs/keyword-map.csv",
+    "status": "modified"
+  },
+  {
+    "path": "docs/site-seo-profile.json",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_partials/docs/footer.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_partials/docs/html-head.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_partials/docs/inject/content-after.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_partials/docs/menu.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_partials/docs/ordered-pages.html",
+    "status": "added"
+  },
+  {
+    "path": "layouts/_shortcodes/airport.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_shortcodes/airports.html",
+    "status": "modified"
+  },
+  {
+    "path": "layouts/_shortcodes/brand-links.html",
+    "status": "added"
+  },
+  {
+    "path": "layouts/home.json",
+    "status": "modified"
+  },
+  {
+    "path": "README.md",
+    "status": "modified"
+  },
+  {
+    "path": "reports/brand-browser-verification.json",
+    "status": "added"
+  },
+  {
+    "path": "reports/brand-build.log",
+    "status": "added"
+  },
+  {
+    "path": "reports/brand-content-lengths.json",
+    "status": "added"
+  },
+  {
+    "path": "reports/brand-optimization-report.md",
+    "status": "added"
+  },
+  {
+    "path": "reports/brand-optimization-verification.json",
+    "status": "added"
+  },
+  {
+    "path": "reports/brand-verification.log",
+    "status": "added"
+  },
+  {
+    "path": "reports/content-lengths.json",
+    "status": "modified"
+  },
+  {
+    "path": "reports/public-source-checks.json",
+    "status": "added"
+  },
+  {
+    "path": "reports/site-verification.log",
+    "status": "added"
+  },
+  {
+    "path": "reports/source-manifest.json",
+    "status": "modified"
+  },
+  {
+    "path": "reports/verification.json",
+    "status": "modified"
+  },
+  {
+    "path": "scripts/collect-public-sources.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/final-copy-adjustments.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/finish-brand-copy.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/fix-sidebar-cascade.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/improve-mobile-tables.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/optimize-brands.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/package-brand-manifest.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/record-final-browser-checks.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/report-brand-optimization.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/verify-brand-optimization.mjs",
+    "status": "added"
+  },
+  {
+    "path": "scripts/verify-review-header.mjs",
+    "status": "modified"
+  },
+  {
+    "path": "scripts/verify.mjs",
+    "status": "modified"
+  },
+  {
+    "path": "scripts/write-brand-guides.mjs",
+    "status": "added"
+  },
+  {
+    "path": "static/manual.css",
+    "status": "modified"
+  },
+  {
+    "path": "static/manual.js",
+    "status": "modified"
+  },
+  {
+    "path": "static/search-core.js",
+    "status": "modified"
+  }
+]

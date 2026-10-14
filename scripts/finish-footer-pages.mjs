@@ -1,0 +1,3 @@
+import fs from 'node:fs';const p='layouts/_partials/docs/inject/content-after.html';let s=fs.readFileSync(p,'utf8').replace('{{ if and .IsSection (not .IsHome) }}','{{ if and .IsSection (not .IsHome) (gt (len .RegularPages) 0) }}');fs.writeFileSync(p,s);
+const map='layouts/_shortcodes/public-site-map.html';s=fs.readFileSync(map,'utf8').replace('"/recommendations/" }}','"/recommendations/" "/reviews/" "/providers/" }}');fs.writeFileSync(map,s);
+const test='scripts/verify-footer.mjs';s=fs.readFileSync(test,'utf8').replace("assert.ok(map.includes('/start/first-use/'));", "for(const url of locations)assert.ok(map.includes(new URL(url).pathname),'Public sitemap missing '+url);assert.ok(map.includes('/start/first-use/'));");fs.writeFileSync(test,s);
